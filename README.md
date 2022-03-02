@@ -1,0 +1,2 @@
+# FS22_UniversalAutoloadModhubAddon
+Addon Configurations for FS22_UniversalAutoload
