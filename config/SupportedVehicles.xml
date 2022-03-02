@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<universalAutoLoad>
+    <vehicleConfigurations>
+        <vehicleConfiguration configFileName="lizardgooseneck.xml" modName="FS22_20ftGooseneck" version="1.0.0.0" >
+            <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.20" length="7.50"/>
+            <options noLoadingIfUnfolded="false" isCurtainTrailer="false" enableRearLoading="true" showDebug="false"/>
+            <!-- remove unneeded options -->
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="lizardgooseneck.xml" modName="FS22_20ftGooseneck" version="1.0.0.1" >
+            <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.20" length="10.50"/>
+            <options noLoadingIfUnfolded="false" isCurtainTrailer="false" enableRearLoading="true" showDebug="false"/>
+            <!-- remove unneeded options -->
+        </vehicleConfiguration>
+    </vehicleConfigurations>
+</universalAutoLoad>
