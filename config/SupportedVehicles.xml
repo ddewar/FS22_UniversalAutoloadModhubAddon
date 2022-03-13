@@ -1,24 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <universalAutoLoad>
     <vehicleConfigurations>
-        <vehicleConfiguration configFileName="lizardgooseneck.xml" modName="FS22_20ftGooseneck" version="1.0.0.0">
+        <vehicleConfiguration configFileName="FS22_20ftGooseneck/lizardgooseneck.xml">  
             <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.20" length="7.50"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <!-- <vehicleConfiguration configFileName="lizardgooseneck.xml" modName="FS22_20ftGooseneck" version="1.0.0.1">
-            <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.20" length="10.50"/>
-        </vehicleConfiguration> -->
-        <vehicleConfiguration configFileName="2PTS_6A.xml" modName="FS22_2PTS_6_console" version="1.0.0.0">
+        <vehicleConfiguration configFileName="FS22_2PTS_6_console/2PTS_6A.xml">
             <loadingArea offset="0 1.40 0.20" width="2.00" height="2.00" length="4.00"/>
         </vehicleConfiguration> <!-- Cannot unload in cab -->
-        <vehicleConfiguration configFileName="SDS350J.xml" modName="FS22_Fliegl_SDS350J" version="1.0.0.0">
+        <vehicleConfiguration configFileName="FS22_Fliegl_SDS350J/SDS350J.xml">
             <loadingArea offset="0 1.0 -0.75" width="2.50" height="3.00" length="8.00"/>
             <options enableRearLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="Krone_Profi_Liner_HD.xml" modName="FS22_Krone_Profi_Liner_HD" version="1.0.0.0">
+        <vehicleConfiguration configFileName="FS22_Krone_Profi_Liner_HD/Krone_Profi_Liner_HD.xml">
             <loadingArea offset="0 1.70 0.5" width="2.40" height="2.50" length="13.0"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="profiLiner.xml" modName="FS22_Profi_Liner_Flatbed" version="1.0.0.0">
+        <vehicleConfiguration configFileName="FS22_Profi_Liner_Flatbed/profiLiner.xml">
             <loadingArea offset="0 1.25 0" width="2.40" height="2.50" length="13.0"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_JohnDeere_Gator_Pack/bale.xml">
+            <loadingArea offset="0 1.0 -0.10" width="1.55" height="1.0" length="1.35"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_selfMadeTrailer/trailer.xml">
+            <loadingArea offset="0 0.90 -0.05" width="1.55" height="1.50" length="4.10"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_reischPack/vehicles/rt160/rt160.xml" selectedConfigs="1,2" >
+            <loadingArea offset="0 1.35 0.00" width="2.50" height="2.00" length="4.50"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_JoskinWagoLoader/Joskin.xml" selectedConfigs="1,2" >
+            <loadingArea offset="0 1.35 0.00" width="2.50" height="2.00" length="4.50"/>
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
