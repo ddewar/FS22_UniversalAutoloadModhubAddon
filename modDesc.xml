@@ -128,4 +128,8 @@ Liste des remorques et plateaux compatibles :
 <!-- MULTIPLAYER CURRENTLY DISABLED until the object synchronisation bug in v1.3.0.0 has been resolved -->
 	<multiplayer supported="true" />
 	<iconFilename>modIcon.dds</iconFilename>
+
+    <extraSourceFiles>
+        <sourceFile filename="UniversalAutoloadModhubAddonInstaller.lua" />
+    </extraSourceFiles>
 </modDesc>
