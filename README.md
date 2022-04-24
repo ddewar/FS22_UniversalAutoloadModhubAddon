@@ -27,6 +27,8 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_flieglDPWpack](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=225492&title=fs2022)
 - [FS22_flieglFlatbed](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=233995&title=fs2022)
 - [FS22_Hw80_pack](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=229524&title=fs2022)
+- [FS22_LizardSantana88](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=233087&title=fs2022)
+- [FS22_Lizard_Selfmade_Tow_Truck](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=233191&title=fs2022)
 - more to come
 
 ## Other Addons
