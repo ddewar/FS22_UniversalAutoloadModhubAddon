@@ -96,6 +96,30 @@
         <vehicleConfiguration configFileName="FS22_Lizard_Selfmade_Tow_Truck/pickup2017.xml">
             <loadingArea offset="0 0.65 -2.70" width="2.0" height="2.20" length="4.25"/>
             <options noLoadingIfUnfolded="true"/>
+		</vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_allPurposeTool/all-purpose-tool.xml">
+            <loadingArea offset="0 0.928 0.819" width="3.436" height="1.602" length="1.704"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PongePack/SPX_816/spx816.xml">
+            <loadingArea offset="0.028 2.629 1.348" width="2.195" height="2.339" length="7.78"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PongePack/RPX_920/rpx920.xml">
+            <loadingArea offset="0.028 2.629 0.791" width="2.195" height="2.339" length="8.662"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PongePack/RPX_1226/rpx1226.xml">
+            <loadingArea offset="0.028 2.703 -0.657" width="2.195" height="2.339" length="11.831"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PongePack/SPEX_7519/SPEX.xml">
+            <loadingArea offset="-0.011 1.688 -2.807" width="1.991" height="1.343" length="5.527"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_RollandPack/LSEL10006/LSEL10006_Square.xml">
+            <loadingArea offset="-0.005 2.312 -0.058" width="2.352" height="2.214" length="9.35"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_RollandPack/LSP9004/LSP9004_Square.xml">
+            <loadingArea offset="-0.005 2.312 -0.641" width="2.352" height="2.214" length="8.099"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PerardPack/platosol/platosol.xml">
+            <loadingArea offset="0 1.744 0" width="2.109" height="1.632" length="5.651"/>
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
