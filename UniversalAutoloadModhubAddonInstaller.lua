@@ -7,7 +7,7 @@ function UniversalAutoloadModhubAddonManager:loadMap(name)
     if g_modIsLoaded["FS22_UniversalAutoload"] then
         print("  ADDON VEHICLES:")
         local vehicleSettingsFile = Utils.getFilename("config/SupportedVehicles.xml", UniversalAutoloadModhubAddonManager.path)
-        UniversalAutoload.ImportVehicleConfigurations(vehicleSettingsFile)
+        FS22_UniversalAutoload.UniversalAutoload.ImportVehicleConfigurations(vehicleSettingsFile)
     else
 		print("FS22_UniversalAutoload is required for FS22_UniversalAutoloadModhubAddon")
 	end
