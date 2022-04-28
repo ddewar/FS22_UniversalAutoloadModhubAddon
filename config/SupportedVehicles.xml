@@ -96,6 +96,35 @@
         <vehicleConfiguration configFileName="FS22_Lizard_Selfmade_Tow_Truck/pickup2017.xml">
             <loadingArea offset="0 0.65 -2.70" width="2.0" height="2.20" length="4.25"/>
             <options noLoadingIfUnfolded="true"/>
+		</vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PongePack/SPX_816/spx816.xml">
+            <loadingArea offset="0 1.39 1.352" width="2.195" height="3.00" length="7.78"/>
+			<options noLoadingIfUnfolded="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PongePack/RPX_920/rpx920.xml">
+            <loadingArea offset="0 1.39 0.816" width="2.195" height="3.00" length="8.662"/>
+			<options noLoadingIfUnfolded="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PongePack/RPX_1226/rpx1226.xml">
+            <loadingArea offset="0 1.39 -0.657" width="2.195" height="3.00" length="11.831"/>
+			<options noLoadingIfUnfolded="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PongePack/SPEX_7519/SPEX.xml">
+            <loadingArea offset="0 0.978 -2.915" width="2.3" height="2.64" length="5.743"/>
+			<options enableRearLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_RollandPack/LSEL10006/LSEL10006_Square.xml">
+            <loadingArea offset="0 1.137 -0.161" width="2.352" height="3.00" length="9.627"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_RollandPack/LSP9004/LSP9004_Square.xml">
+            <loadingArea offset="0 1.137 -0.654" width="2.352" height="3.00" length="8.432"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PerardPack/platosol/platosol.xml">
+            <loadingArea offset="0 0.923 -0.127" width="2.109" height="3.00" length="5.651"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PerardPack/rpe26/rpe26.xml">
+            <loadingArea offset="0 1.207 0" width="2.235" height="3.00" length="6.848"/>
+			<options enableRearLoading="true"/>
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
