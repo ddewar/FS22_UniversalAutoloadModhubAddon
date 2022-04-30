@@ -99,15 +99,12 @@
 		</vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/SPX_816/spx816.xml">
             <loadingArea offset="0 1.39 1.352" width="2.195" height="3.00" length="7.78"/>
-			<options noLoadingIfUnfolded="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/RPX_920/rpx920.xml">
             <loadingArea offset="0 1.39 0.816" width="2.195" height="3.00" length="8.662"/>
-			<options noLoadingIfUnfolded="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/RPX_1226/rpx1226.xml">
             <loadingArea offset="0 1.39 -0.657" width="2.195" height="3.00" length="11.831"/>
-			<options noLoadingIfUnfolded="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/SPEX_7519/SPEX.xml">
             <loadingArea offset="0 0.978 -2.915" width="2.3" height="2.64" length="5.743"/>
