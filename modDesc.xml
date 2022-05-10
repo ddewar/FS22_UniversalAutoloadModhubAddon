@@ -50,6 +50,43 @@ Currently Supported:
 ]]>
 </en>
 
+<fr>
+<![CDATA[Addon pour UniversalAutoload pour ajouter la prise en charge d'une large sélection de véhicule du Modhub. Ce mod ajouteles configurations pour plusieurs vehicles et remorques populaire du modhub.
+
+Actuellement supporté:
+- FS22_20ftGooseneck
+- FS22_2PTS_6
+- FS22_2PTS_6_console
+- FS22_Fliegl_SDS350J
+- FS22_Krone_Profi_Liner_HD
+- FS22_Profi_Liner_Flatbed
+- FS22_JohnDeere_Gator_Pack
+- FS22_selfMadeTrailer
+- FS22_reischPack
+- FS22_JoskinWagoLoader
+- FS22_TLX2020_Series
+- FS22_smallComboTrailer
+- FS22_lizardCarTrailer
+- FS22_strautmannSEK802
+- FS22_strautmannSZK802
+- FS22_lindnerUnitrac122LDrive
+- FS22_allPurposeTool
+- FS22_Bailey_Bale_Pallet_Trailer
+- FS22_Brantner_DD_24073
+- FS22_DPW_1800
+- FS22_flieglDPW180
+- FS22_flieglDPWpack
+- FS22_flieglFlatbed
+- FS22_Hw80_pack
+- FS22_LizardSantana88
+- FS22_Lizard_Selfmade_Tow_Truck
+- FS22_PerardPack (only flatbed trailers)
+- FS22_PongePack (only flatbed trailers)
+- FS22_RollandPack (only flatbed trailers)
+- More to come!
+]]>
+</fr>
+
     </description>
 
     <multiplayer supported="true" />
