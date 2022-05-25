@@ -123,5 +123,35 @@
             <loadingArea offset="0 1.207 0" width="2.235" height="3.00" length="6.848"/>
 			<options enableRearLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_pickupbed3500.xml" selectedConfigs="1,2,3,6,7,8,9">
+            <loadingArea offset="0 1.81 0.12" width="1.45" height="2.00" length="2.90"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_pickupbed3500.xml" selectedConfigs="4,5">
+            <loadingArea offset="0 1.81 0.12" width="1.45" height="1.00" length="2.90"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_pickupbed3500.xml" selectedConfigs="10,11,12">
+            <loadingArea offset="0 1.81 -0.25" width="1.45" height="2.00" length="2.20"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_flatbed3500.xml" selectedConfigs="1">
+            <loadingArea offset="0 2.0 -0.20" width="1.95" height="2.00" length="3.10"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_flatbed3500.xml" selectedConfigs="2">
+            <loadingArea offset="0 2.0 -0.60" width="1.95" height="2.00" length="2.30"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_tipper3500.xml" selectedConfigs="4">
+            <loadingArea offset="0 1.75 -0.15" width="2.25" height="2.00" length="3.25"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_prospector3500.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.9 -0.05" width="1.95" height="2.00" length="3.15"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_prospector3500.xml" selectedConfigs="2">
+            <loadingArea offset="0 1.9 -0.35" width="1.95" height="2.00" length="2.50"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX_Phoenix/attachments/flatbed_x2.xml" selectedConfigs="1,3,4">
+            <loadingArea offset="0 1.38 -0.10" width="2.25" height="2.00" length="5.20"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX_Phoenix/attachments/flatbed_x2.xml" selectedConfigs="2,5,6">
+            <loadingArea offset="0 1.38 -0.85" width="2.25" height="2.00" length="6.70"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
