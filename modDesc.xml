@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-	<modDesc descVersion="65">
-	<author>ddewar</author>
-	<version>1.0.0.0</version>
+<modDesc descVersion="65">
+    <author>ddewar</author>
+    <version>1.0.0.0</version>
 
-	<title>
-		<en>Universal Autoload Modhub Addon</en>
-		<fr>Autoload Universel Modhub Addon</fr>
-		<ru>Универсальная Aвтозагрузка Modhub Addon</ru>
-		<nl>Universele Autoload Modhub Addon</nl>
-		<cz>Univerzální Autoload Modhub Addon</cz>
-		<pl>Universalne Autoładowanie Modhub Addon</pl>
-		<de>Universal Autoload Modhub Erweiterung</de>
-	</title>
-	<description>
-		<en><![CDATA[Addon to UniversalAutoload to add support for a large selection of Modhub vehicles. This mod adds configurations for many popular Modhub vehicles and trailers.
+    <title>
+        <en>Universal Autoload Modhub Addon</en>
+        <fr>Autoload Universel Modhub Addon</fr>
+        <ru>Универсальная Aвтозагрузка Modhub Addon</ru>
+        <nl>Universele Autoload Modhub Addon</nl>
+        <cz>Univerzální Autoload Modhub Addon</cz>
+        <pl>Universalne Autoładowanie Modhub Addon</pl>
+        <de>Universal Autoload Modhub Erweiterung</de>
+    </title>
+    <description>
+        <en><![CDATA[Addon to UniversalAutoload to add support for a large selection of Modhub vehicles. This mod adds configurations for many popular Modhub vehicles and trailers.
 
 		Currently Supported:
 		- FS22_20ftGooseneck
@@ -47,7 +47,7 @@
 		- FS22_RollandPack (only flatbed trailers)
 		- More to come!
 		]]></en>
-		<de><![CDATA[Erweiterung für Universal Autoload. Dieser Mod fügt Autoload Konfigurationen für viele beliebte Modhub Fahrzeuge und Anhänger hinzu.
+        <de><![CDATA[Erweiterung für Universal Autoload. Dieser Mod fügt Autoload Konfigurationen für viele beliebte Modhub Fahrzeuge und Anhänger hinzu.
 
 		Momentan unterstützt:
 		- FS22_20ftGooseneck
@@ -81,12 +81,12 @@
 		- FS22_RollandPack (only flatbed trailers)
 		- Bald noch mehr!
 		]]></de>
-	</description>
+    </description>
 
-	<multiplayer supported="true" />
-	<iconFilename>modIcon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <iconFilename>modIcon.dds</iconFilename>
 
-	<extraSourceFiles>
-	<sourceFile filename="UniversalAutoloadModhubAddonInstaller.lua" />
-	</extraSourceFiles>
+    <extraSourceFiles>
+        <sourceFile filename="UniversalAutoloadModhubAddonInstaller.lua"/>
+    </extraSourceFiles>
 </modDesc>
