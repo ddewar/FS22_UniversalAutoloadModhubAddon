@@ -1,61 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="65">
+	<modDesc descVersion="65">
+	<author>ddewar</author>
+	<version>1.0.0.0</version>
 
-    <author>ddewar</author>
-    <version>1.0.0.0</version>
-
-    <title>
-        <en>Universal Autoload Modhub Addon</en>
-        <fr>Autoload Universel Modhub Addon</fr>
+	<title>
+		<en>Universal Autoload Modhub Addon</en>
+		<fr>Autoload Universel Modhub Addon</fr>
 		<ru>Универсальная Aвтозагрузка Modhub Addon</ru>
 		<nl>Universele Autoload Modhub Addon</nl>
 		<cz>Univerzální Autoload Modhub Addon</cz>
 		<pl>Universalne Autoładowanie Modhub Addon</pl>
-    </title>
+		<de>Universal Autoload Modhub Erweiterung</de>
+	</title>
+	<description>
+		<en><![CDATA[Addon to UniversalAutoload to add support for a large selection of Modhub vehicles. This mod adds configurations for many popular Modhub vehicles and trailers.
 
-    <description>
-<en><![CDATA[Addon to UniversalAutoload to add support for a large selection of Modhub vehicles. This mod adds configurations for many popular Modhub vehicles and trailers.
+		Currently Supported:
+		- FS22_20ftGooseneck
+		- FS22_2PTS_6
+		- FS22_2PTS_6_console
+		- FS22_Fliegl_SDS350J
+		- FS22_Krone_Profi_Liner_HD
+		- FS22_Profi_Liner_Flatbed
+		- FS22_JohnDeere_Gator_Pack
+		- FS22_selfMadeTrailer
+		- FS22_reischPack
+		- FS22_JoskinWagoLoader
+		- FS22_TLX2020_Series
+		- FS22_smallComboTrailer
+		- FS22_lizardCarTrailer
+		- FS22_strautmannSEK802
+		- FS22_strautmannSZK802
+		- FS22_lindnerUnitrac122LDrive
+		- FS22_allPurposeTool
+		- FS22_Bailey_Bale_Pallet_Trailer
+		- FS22_Brantner_DD_24073
+		- FS22_DPW_1800
+		- FS22_flieglDPW180
+		- FS22_flieglDPWpack
+		- FS22_flieglFlatbed
+		- FS22_Hw80_pack
+		- FS22_LizardSantana88
+		- FS22_Lizard_Selfmade_Tow_Truck
+		- FS22_PerardPack (only flatbed trailers)
+		- FS22_PongePack (only flatbed trailers)
+		- FS22_RollandPack (only flatbed trailers)
+		- More to come!
+		]]></en>
+		<de><![CDATA[Erweiterung für Universal Autoload. Dieser Mod fügt Autoload Konfigurationen für viele beliebte Modhub Fahrzeuge und Anhänger hinzu.
 
-Currently Supported:
-- FS22_20ftGooseneck
-- FS22_2PTS_6
-- FS22_2PTS_6_console
-- FS22_Fliegl_SDS350J
-- FS22_Krone_Profi_Liner_HD
-- FS22_Profi_Liner_Flatbed
-- FS22_JohnDeere_Gator_Pack
-- FS22_selfMadeTrailer
-- FS22_reischPack
-- FS22_JoskinWagoLoader
-- FS22_TLX2020_Series
-- FS22_smallComboTrailer
-- FS22_lizardCarTrailer
-- FS22_strautmannSEK802
-- FS22_strautmannSZK802
-- FS22_lindnerUnitrac122LDrive
-- FS22_allPurposeTool
-- FS22_Bailey_Bale_Pallet_Trailer
-- FS22_Brantner_DD_24073
-- FS22_DPW_1800
-- FS22_flieglDPW180
-- FS22_flieglDPWpack
-- FS22_flieglFlatbed
-- FS22_Hw80_pack
-- FS22_LizardSantana88
-- FS22_Lizard_Selfmade_Tow_Truck
-- FS22_PerardPack (only flatbed trailers)
-- FS22_PongePack (only flatbed trailers)
-- FS22_RollandPack (only flatbed trailers)
-- More to come!
-]]>
-</en>
+		Momentan unterstützt:
+		- FS22_20ftGooseneck
+		- FS22_2PTS_6
+		- FS22_2PTS_6_console
+		- FS22_Fliegl_SDS350J
+		- FS22_Krone_Profi_Liner_HD
+		- FS22_Profi_Liner_Flatbed
+		- FS22_JohnDeere_Gator_Pack
+		- FS22_selfMadeTrailer
+		- FS22_reischPack
+		- FS22_JoskinWagoLoader
+		- FS22_TLX2020_Series
+		- FS22_smallComboTrailer
+		- FS22_lizardCarTrailer
+		- FS22_strautmannSEK802
+		- FS22_strautmannSZK802
+		- FS22_lindnerUnitrac122LDrive
+		- FS22_allPurposeTool
+		- FS22_Bailey_Bale_Pallet_Trailer
+		- FS22_Brantner_DD_24073
+		- FS22_DPW_1800
+		- FS22_flieglDPW180
+		- FS22_flieglDPWpack
+		- FS22_flieglFlatbed
+		- FS22_Hw80_pack
+		- FS22_LizardSantana88
+		- FS22_Lizard_Selfmade_Tow_Truck
+		- FS22_PerardPack (only flatbed trailers)
+		- FS22_PongePack (only flatbed trailers)
+		- FS22_RollandPack (only flatbed trailers)
+		- Bald noch mehr!
+		]]></de>
+	</description>
 
-    </description>
+	<multiplayer supported="true" />
+	<iconFilename>modIcon.dds</iconFilename>
 
-    <multiplayer supported="true" />
-    <iconFilename>modIcon.dds</iconFilename>
-
-    <extraSourceFiles>
-        <sourceFile filename="UniversalAutoloadModhubAddonInstaller.lua" />
-    </extraSourceFiles>
+	<extraSourceFiles>
+	<sourceFile filename="UniversalAutoloadModhubAddonInstaller.lua" />
+	</extraSourceFiles>
 </modDesc>
