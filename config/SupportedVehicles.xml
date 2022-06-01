@@ -175,5 +175,8 @@
             <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="12.75"/>
             <options enableRearLoading="true" />
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_lizardFlatbedTrailer/flatbedTrailer.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.43 -2.15" width="2.50" height="2.00" length="11.25"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
