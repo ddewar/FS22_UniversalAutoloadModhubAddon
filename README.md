@@ -36,6 +36,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_TLX_Phoenix](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=234081&title=fs2022)
 - [FS22_orkelTX130](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=226465&title=fs2022)
 - [FS22_adurante_R200A_crossplay](https://www.farming-simulator.com/mod.php?lang=en&country=au&mod_id=125088)
+- [FS22_Pack_Aguas_Tenias_Platforms](https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=234121&title=fs2022)
 - more to come
 
 ## Other Addons

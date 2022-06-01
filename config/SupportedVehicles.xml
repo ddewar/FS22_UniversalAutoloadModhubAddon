@@ -159,5 +159,21 @@
         <vehicleConfiguration configFileName="FS22_adurante_R200A_crossplay/xmlFilename/R200A_trailers_crossplay.xml" selectedConfigs="4,5,6,7">
             <loadingArea offset="0 1.47 -0.20" width="2.30" height="2.00" length="7.30"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma85.xml">
+            <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="8.25"/>
+            <options enableRearLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma100.xml">
+            <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="9.75"/>
+            <options enableRearLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma115.xml">
+            <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="11.25"/>
+            <options enableRearLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma130.xml">
+            <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="12.75"/>
+            <options enableRearLoading="true" />
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
