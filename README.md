@@ -38,6 +38,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_adurante_R200A_crossplay](https://www.farming-simulator.com/mod.php?lang=en&country=au&mod_id=125088)
 - [FS22_Pack_Aguas_Tenias_Platforms](https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=234121&title=fs2022)
 - [FS22_lizardFlatbedTrailer](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=241140&title=fs2022)
+- [FS22_JohnDeere_1075HayWagon](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=242834&title=fs2022)
 - more to come
 
 ## Other Addons
