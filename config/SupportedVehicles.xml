@@ -96,7 +96,7 @@
         <vehicleConfiguration configFileName="FS22_Lizard_Selfmade_Tow_Truck/pickup2017.xml">
             <loadingArea offset="0 0.65 -2.70" width="2.0" height="2.20" length="4.25"/>
             <options noLoadingIfUnfolded="true"/>
-		</vehicleConfiguration>
+		    </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/SPX_816/spx816.xml">
             <loadingArea offset="0 1.39 1.352" width="2.195" height="3.00" length="7.78"/>
         </vehicleConfiguration>
@@ -185,7 +185,7 @@
             <loadingArea offset="0 1.50 0" width="2.35" height="2.5" length="6.2"/>
             <options showDebug="true" />
         </vehicleConfiguration> -->
-		<vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83.xml" selectedConfigs="7,8">
+		    <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83.xml" selectedConfigs="7,8">
             <loadingArea offset="0 1.50 0" width="2.35" height="2.5" length="6.2"/>
             <options enableSideLoading="true" />
         </vehicleConfiguration>
@@ -200,12 +200,21 @@
             <loadingArea offset="0 1.52 0.48" width="2.35" height="2.5" length="7.25"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>			
-		<vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616K.xml" selectedConfigs="1">
+		    <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616K.xml" selectedConfigs="1">
             <loadingArea offset="0 1.70 0.48" width="2.35" height="2.5" length="7.25"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616K.xml" selectedConfigs="7,8">
             <loadingArea offset="0 1.68 0.48" width="2.35" height="2.5" length="7.25"/>
             <options enableSideLoading="true"/>
+        </vehicleConfiguration>
+      				<vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/Granel.xml" selectedConfigs="1,2,3">
+            <loadingArea offset="0 1.865 0.17" width="2.45" height="3" length="13.15"/>
+        </vehicleConfiguration>
+				<vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/3EixoFundo.xml" selectedConfigs="1,2,3">
+            <loadingArea offset="0 1.865 0.17" width="2.45" height="3" length="13.15"/>
+        </vehicleConfiguration>
+				<vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/2Eixos.xml" selectedConfigs="1,2,3">
+            <loadingArea offset="0 1.865 1.97" width="2.45" height="3" length="9.57"/>
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
