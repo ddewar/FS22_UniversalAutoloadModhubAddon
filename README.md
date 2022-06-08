@@ -35,11 +35,12 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_TLX3500_Series](https://farming-simulator.com/mod.php?mod_id=242995&title=fs2022)
 - [FS22_TLX_Phoenix](https://farming-simulator.com/mod.php?mod_id=234081&title=fs2022)
 - [FS22_orkelTX130](https://farming-simulator.com/mod.php?mod_id=226465&title=fs2022)
-- [FS22_adurante_R200A_crossplay](https://www.farming-simulator.com/mod.php?lang=en&country=au&mod_id=125088)
+- [FS22_adurante_R200A_crossplay](https://www.farming-simulator.com/mod.php?mod_id=125088)
 - [FS22_Pack_Aguas_Tenias_Platforms](https://www.farming-simulator.com/mod.php?mod_id=234121&title=fs2022)
 - [FS22_lizardFlatbedTrailer](https://farming-simulator.com/mod.php?mod_id=241140&title=fs2022)
 - [FS22_JohnDeere_1075HayWagon](https://farming-simulator.com/mod.php?mod_id=242834&title=fs2022)
 - [FS22_lizardTrailerPack] (https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022)
+- [FS22_Randon_BulkCarrier_RLine] (https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022)
 - more to come
 
 ## Other Addons
