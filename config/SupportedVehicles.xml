@@ -181,5 +181,31 @@
         <vehicleConfiguration configFileName="FS22_JohnDeere_1075HayWagon/1075Rack.xml" selectedConfigs="2">
             <loadingArea offset="0 1.00 -1.78" width="2.70" height="2.00" length="5.43"/>
         </vehicleConfiguration>
+        <!-- <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83.xml" selectedConfigs="1,5,7">
+            <loadingArea offset="0 1.50 0" width="2.35" height="2.5" length="6.2"/>
+            <options showDebug="true" />
+        </vehicleConfiguration> -->
+		<vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83.xml" selectedConfigs="7,8">
+            <loadingArea offset="0 1.50 0" width="2.35" height="2.5" length="6.2"/>
+            <options enableSideLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83K.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.68 0" width="2.35" height="2.5" length="6.2"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83K.xml" selectedConfigs="7,8">
+            <loadingArea offset="0 1.68 0" width="2.35" height="2.5" length="6.2"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616.xml" selectedConfigs="7,8">
+            <loadingArea offset="0 1.52 0.48" width="2.35" height="2.5" length="7.25"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>			
+		<vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616K.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.70 0.48" width="2.35" height="2.5" length="7.25"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616K.xml" selectedConfigs="7,8">
+            <loadingArea offset="0 1.68 0.48" width="2.35" height="2.5" length="7.25"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
