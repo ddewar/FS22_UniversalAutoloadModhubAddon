@@ -215,5 +215,9 @@
             <loadingArea offset="0 1.865 1.97" width="2.45" height="3" length="9.57"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_MAN_TGX_26640_Platform/tgx26640.xml">
+            <loadingArea offset="0 1.28 -2.03" width="2.45" height="2.5" length="7.65"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

@@ -39,8 +39,9 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_Pack_Aguas_Tenias_Platforms](https://www.farming-simulator.com/mod.php?mod_id=234121&title=fs2022)
 - [FS22_lizardFlatbedTrailer](https://farming-simulator.com/mod.php?mod_id=241140&title=fs2022)
 - [FS22_JohnDeere_1075HayWagon](https://farming-simulator.com/mod.php?mod_id=242834&title=fs2022)
-- [FS22_lizardTrailerPack] (https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022)
-- [FS22_Randon_BulkCarrier_RLine] (https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022)
+- [FS22_lizardTrailerPack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022)
+- [FS22_Randon_BulkCarrier_RLine](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022)
+- [FS22_MAN_TGX_26640_Platform](https://farming-simulator.com/mod.php?mod_id=233238&title=fs2022)
 - more to come
 
 ## Other Addons
