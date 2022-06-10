@@ -219,5 +219,13 @@
             <loadingArea offset="0 1.28 -2.03" width="2.45" height="2.5" length="7.65"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PTS_4_5_BURLAK_Pack/2_PTS_4_5.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.35 -0.12" width="2.30" height="2.5" length="4.25"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_PTS_4_5_BURLAK_Pack/PPTS_4_5.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.35 -0.12" width="2.30" height="2.5" length="4.25" />
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
