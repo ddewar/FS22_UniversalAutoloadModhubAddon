@@ -243,5 +243,9 @@
             <loadingArea offset="0 1.00 -2.10" width="2.30" height="2.50" length="9.6"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardTrailer/LizardTrailer_Bales.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.65 -0.40" width="2.40" height="2.50" length="13.45"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
