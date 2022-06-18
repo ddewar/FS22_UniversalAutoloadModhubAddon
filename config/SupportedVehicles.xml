@@ -231,5 +231,9 @@
             <loadingArea offset="0 0.40 -1.40" width="1.45" height="2.0" length="3.40" />
             <options enableSideLoading="true" />
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Tps_001/tps_001.xml">
+            <loadingArea offset="0 0.87 -1.40" width="2.50" height="2.5" length="7.25" />
+            <options enableSideLoading="true" />
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

@@ -44,7 +44,5 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_MAN_TGX_26640_Platform](https://farming-simulator.com/mod.php?mod_id=233238&title=fs2022)
 - [FS22_PTS_4_5_BURLAK_Pack](https://farming-simulator.com/mod.php?mod_id=230595&title=fs2022)
 - [FS22_OldLowTrailer](https://farming-simulator.com/mod.php?mod_id=238293&title=fs2022)
+- [FS22_Tps_001](https://farming-simulator.com/mod.php?mod_id=233090&title=fs2022)
 - more to come
-
-## Other Addons
-For a more custom approach to adding Autoload to vehicles, check out [FS22_UniversalAutoloadModSettingsAddon](https://github.com/ddewar/FS22_UniversalAutoloadModSettingsAddon).
