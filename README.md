@@ -45,4 +45,6 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_PTS_4_5_BURLAK_Pack](https://farming-simulator.com/mod.php?mod_id=230595&title=fs2022)
 - [FS22_OldLowTrailer](https://farming-simulator.com/mod.php?mod_id=238293&title=fs2022)
 - [FS22_Tps_001](https://farming-simulator.com/mod.php?mod_id=233090&title=fs2022)
+- [FS22_lizard_sp03_crossplay](https://farming-simulator.com/mod.php?mod_id=243958&title=fs2022)
+- [FS22_camara_sp03](https://farming-simulator.com/mod.php?mod_id=243957&title=fs2022)
 - more to come
