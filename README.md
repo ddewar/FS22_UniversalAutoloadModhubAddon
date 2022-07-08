@@ -49,5 +49,6 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_LizardTrailer](https://farming-simulator.com/mod.php?mod_id=229433&title=fs2022)
 - [FS22_53ftDryVan](https://farming-simulator.com/mod.php?mod_id=248424&title=fs2022)
 - [FS22_flatBedTrailerCombo_AutoPack](https://www.farming-simulator.com/mod.php?mod_id=242221&title=fs2022)
-- [FS22_dropdeckTrailer53Ft_AutoPack_crossplay](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022)
+- [FS22_dropdeckTrailer53Ft_AutoPack_crossplay](https://www.farming-simulator.com/?mod.php?mod_id=242220&title=fs2022)
+- [FS22_dropdeckTrailer53Ft_AutoPack](https://www.farming-simulator.com/mod.php?mod_id=238153&title=fs2022)
 - more to come
