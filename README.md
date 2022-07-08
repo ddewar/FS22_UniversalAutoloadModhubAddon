@@ -14,7 +14,6 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_reischPack](https://farming-simulator.com/mod.php?mod_id=224261&title=fs2022)
 - [FS22_JoskinWagoLoader](https://farming-simulator.com/mod.php?mod_id=231477&title=fs2022)
 - [FS22_TLX2020_Series](https://farming-simulator.com/mod.php?mod_id=228656&title=fs2022)
-- [FS22_smallComboTrailer](https://farming-simulator.com/mod.php?mod_id=232221&title=fs2022)
 - [FS22_lizardCarTrailer](https://farming-simulator.com/mod.php?mod_id=225214&title=fs2022)
 - [FS22_strautmannSEK802](https://farming-simulator.com/mod.php?mod_id=223851&title=fs2022)
 - [FS22_strautmannSZK802](https://farming-simulator.com/mod.php?mod_id=225699&title=fs2022)
@@ -47,5 +46,5 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_Tps_001](https://farming-simulator.com/mod.php?mod_id=233090&title=fs2022)
 - [FS22_lizard_sp03_crossplay](https://farming-simulator.com/mod.php?mod_id=243958&title=fs2022)
 - [FS22_camara_sp03](https://farming-simulator.com/mod.php?mod_id=243957&title=fs2022)
-- [FS22_LizardTrailer]https://farming-simulator.com/mod.php?mod_id=229433&title=fs2022)
+- [FS22_LizardTrailer](https://farming-simulator.com/mod.php?mod_id=229433&title=fs2022)
 - more to come

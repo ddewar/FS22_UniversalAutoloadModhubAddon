@@ -1,127 +1,161 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <universalAutoLoad>
-    <vehicleConfigurations>
+    <vehicleConfigurations showDebug="true">
         <vehicleConfiguration configFileName="FS22_20ftGooseneck/lizardgooseneck.xml">  
-            <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.20" length="7.50"/>
+            <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.00" length="7.50" baleHeight="2.50"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_20ftGooseneckSeries/20ftGooseneckFlatbed.xml">  
+            <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.00" length="7.50" baleHeight="2.50"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_2PTS_6/2PTS_6A.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.40 0.15" width="2.25" height="2.25" length="4.25"/>
+            <loadingArea offset="0 1.40 0.15" width="2.25" height="1.85" length="4.25" baleHeight="2.50"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_2PTS_6_console/2PTS_6A.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.40 0.15" width="2.25" height="2.25" length="4.25"/>
+        <vehicleConfiguration configFileName="FS22_2PTS_6_console/2PTS_6A.xml"  selectedConfigs="1">
+            <loadingArea offset="0 1.40 0.15" width="2.25" height="1.85" length="4.25" baleHeight="2.50"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Fliegl_SDS350J/SDS350J.xml">
-            <loadingArea offset="0 1.0 -0.75" width="2.50" height="3.00" length="8.00"/>
-            <options enableRearLoading="true"/>
+            <loadingArea offset="0 1.70 4.45" width="2.35" height="1.30" length="2.15" baleHeight="2.30" noLoadingIfFolded="true" />
+            <loadingArea offset="0 1.0 -0.75" width="2.50" height="2.00" length="8.00" baleHeight="3.00" noLoadingIfUnfolded="true"/>
+            <loadingArea offset="0 1.0 -0.75" width="4.00" height="2.00" length="8.00" baleHeight="3.00" noLoadingIfFolded="true"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Krone_Profi_Liner_HD/Krone_Profi_Liner_HD.xml">
-            <loadingArea offset="0 1.70 0.5" width="2.40" height="2.50" length="13.0"/>
+            <loadingArea offset="0 1.70 0.5" width="2.40" height="2.00" length="13.0" baleHeight="2.50"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Profi_Liner_Flatbed/profiLiner.xml">
-            <loadingArea offset="0 1.25 0" width="2.40" height="2.50" length="13.0"/>
+            <loadingArea offset="0 1.25 0" width="2.40" height="2.50" length="13.0" baleHeight="3.00"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_JohnDeere_Gator_Pack/bale.xml">
-            <loadingArea offset="0 1.0 -0.10" width="1.55" height="1.0" length="1.35"/>
+            <loadingArea offset="0 1.0 -0.10" width="1.55" height="1.50" length="1.35" baleHeight="1.85"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_selfMadeTrailer/trailer.xml">
-            <loadingArea offset="0 0.90 -0.00" width="1.55" height="1.50" length="4.25"/>
+            <loadingArea offset="0 0.90 -0.00" width="1.55" height="1.50" length="4.25" baleHeight="2.50"/>
+            <options enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_reischPack/vehicles/rt160/rt160.xml" selectedConfigs="1,2" >
-            <loadingArea offset="0 1.35 0.00" width="2.50" height="2.00" length="4.50"/>
+            <loadingArea offset="0 1.35 0.00" width="2.50" height="2.00" length="4.50" baleHeight="2.50"/>
+            <options enableRearLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_JoskinWagoLoader/Joskin.xml" selectedConfigs="1,2" >
-            <loadingArea offset="0 1.35 0.00" width="2.50" height="2.00" length="4.50"/>
+        <vehicleConfiguration configFileName="FS22_JoskinWagoLoader/Joskin.xml">
+            <loadingArea offset="0 1.0 0.25" width="2.45" height="2.25" length="5.25" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_flatbed.xml">
-            <loadingArea offset="0 1.13 -1.73" width="1.95" height="2.00" length="2.40"/>
+            <loadingArea offset="0 1.13 -1.73" width="1.95" height="1.00" length="2.40" baleHeight="1.85"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_trailboss.xml" selectedConfigs="1,3,6,7">
-            <loadingArea offset="0 1.0 -1.65" width="1.25" height="2.00" length="2.35"/>
+            <loadingArea offset="0 1.0 -1.65" width="1.25" height="1.00" length="2.35" baleHeight="1.85"/>
+            <options enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_trailboss.xml" selectedConfigs="2,8">
-            <loadingArea offset="0 1.0 -1.83" width="1.25" height="2.00" length="1.80"/>
+            <loadingArea offset="0 1.0 -1.83" width="1.25" height="1.00" length="1.80" baleHeight="1.85"/>
+            <options enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_trailboss.xml" selectedConfigs="4,5">
-            <loadingArea offset="0 1.0 -1.65" width="1.25" height="1.00" length="2.35"/>
+            <loadingArea offset="0 1.0 -1.65" width="1.25" height="1.00" length="2.35" baleHeight="1.85"/>
+            <options enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_trailboss.xml" selectedConfigs="9">
             <loadingArea offset="0 1.0 -1.65" width="1.25" height="0.75" length="2.35"/>
-        </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_smallComboTrailer/smallComboTrailer.xml" selectedConfigs="1" >
-            <loadingArea offset="0 0.75 -1.60" width="2.25" height="3.00" length="6.00"/>
+            <options enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardCarTrailer/lizardCarTrailer.xml">
-            <loadingArea offset="0 0.60 -0.05" width="1.25" height="2.00" length="2.35"/>
+            <loadingArea offset="0 0.60 -0.05" width="1.25" height="1.65" length="2.35"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_strautmannSEK802/sek802.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.30 -0.95" width="2.10" height="2.50" length="4.55"/>
+            <loadingArea offset="0 1.27 -0.95" width="2.20" height="1.70" length="4.55" baleHeight="2.50"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_strautmannSZK802/szk802.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.30 -0.25" width="2.10" height="2.50" length="4.55"/>
+            <loadingArea offset="0 1.27 -0.25" width="2.20" height="1.70" length="4.55" baleHeight="2.50"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lindnerUnitrac122LDrive/unitrac122LDrivePlatform/unitrac122LDrivePlatform.xml" selectedConfigs="1,2">
-            <loadingArea offset="0 1.13 0.15" width="1.95" height="2.25" length="2.65"/>
+            <loadingArea offset="0 1.13 0.15" width="1.95" height="1.50" length="2.65" baleHeight="1.85"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_allPurposeTool/all-purpose-tool.xml">
             <loadingArea offset="0 0.15 0.80" width="3.50" height="2.25" length="1.90"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Bailey_Bale_Pallet_Trailer/BPTrailer.xml" >
-            <loadingArea offset="0 1.10 -0.65" width="2.50" height="1.50" length="6.50"/>
+            <loadingArea offset="0 1.08 -0.65" width="2.55" height="1.50" length="6.70" baleHeight="2.50"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Brantner_DD_24073/dd24073.xml" selectedConfigs="1,4,5">
-            <loadingArea offset="0 1.45 -0.70" width="2.45" height="2.50" length="7.20"/>
+            <loadingArea offset="0 1.43 -0.70" width="2.45" height="1.70" length="7.20" baleHeight="2.50"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_DPW_1800/dpw1800.xml">
-            <loadingArea offset="0 1.130 -0.82" width="2.41" height="2.80" length="9.3"/>
-        </vehicleConfiguration> <!--Could use second zone for unfolded-->
+            <loadingArea offset="0 1.130 -0.82" width="2.41" height="2.0" length="9.3" baleHeight="2.80" noLoadingIfUnfolded="true"/>
+            <loadingArea offset="0 1.130 -1.45" width="2.41" height="2.0" length="10.5" baleHeight="2.80" noLoadingIfFolded="true"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglDPW180/flieglDPW180.xml">
-            <loadingArea offset="0 1.11 -0.40" width="2.41" height="2.80" length="9.85"/>
+            <loadingArea offset="0 1.11 -0.40" width="2.45" height="2.00" length="9.90" baleHeight="2.80"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglDPWpack/flieglDPW180.xml">
-            <loadingArea offset="0 1.11 -0.40" width="2.41" height="2.80" length="9.85"/>
+            <loadingArea offset="0 1.11 -0.40" width="2.45" height="2.00" length="9.90" baleHeight="2.80"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglDPWpack/flieglDPW120.xml">
-            <loadingArea offset="0 1.11 0.45" width="2.41" height="2.80" length="8.25"/>
+            <loadingArea offset="0 1.11 0.45" width="2.45" height="2.00" length="8.25" baleHeight="2.80"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglFlatbed/flieglFlatbed.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.53 0.20" width="2.50" height="2.75" length="11.65"/>
+            <loadingArea offset="0 1.53 0.20" width="2.50" height="2.0" length="11.65" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Hw80_pack/HW80/HW_80.xml" selectedConfigs="7">
-            <loadingArea offset="0 1.46 0" width="2.35" height="2.50" length="5.20"/>
+            <loadingArea offset="0 1.46 0" width="2.35" height="1.60" length="5.20" baleHeight="2.50"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_LizardSantana88/FS22_LizardSantana88.xml">
             <loadingArea offset="0 2.10 -0.78" width="1.45" height="1.00" length="2.25"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Lizard_Selfmade_Tow_Truck/pickup2017.xml">
-            <loadingArea offset="0 0.65 -2.70" width="2.0" height="2.20" length="4.25"/>
-            <options noLoadingIfUnfolded="true"/>
+            <loadingArea offset="0 0.65 -2.70" width="2.0" height="1.70" length="4.25" baleHeight="2.40"/>
+            <options noLoadingIfUnfolded="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/SPX_816/spx816.xml">
-            <loadingArea offset="0 1.39 1.352" width="2.195" height="3.00" length="7.78"/>
+            <loadingArea offset="0 1.39 1.352" width="2.195" height="1.70" length="7.78" baleHeight="3.00"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/RPX_920/rpx920.xml">
-            <loadingArea offset="0 1.39 0.816" width="2.195" height="3.00" length="8.662"/>
+            <loadingArea offset="0 1.39 0.816" width="2.195" height="1.70" length="8.662" baleHeight="3.00"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/RPX_1226/rpx1226.xml">
-            <loadingArea offset="0 1.39 -0.657" width="2.195" height="3.00" length="11.831"/>
+            <loadingArea offset="0 1.39 -0.657" width="2.195" height="1.70" length="11.831" baleHeight="3.00"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PongePack/SPEX_7519/SPEX.xml">
-            <loadingArea offset="0 0.978 -2.915" width="2.3" height="2.64" length="5.743"/>
-			<options enableRearLoading="true"/>
+            <loadingArea offset="0 0.978 -2.915" width="2.3" height="1.70" length="5.743" baleHeight="2.64"/>
+			<options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_RollandPack/LSEL10006/LSEL10006_Square.xml">
-            <loadingArea offset="0 1.137 -0.161" width="2.352" height="3.00" length="9.627"/>
+            <loadingArea offset="0 1.137 -0.161" width="2.352" height="1.90" length="9.627" baleHeight="3.00"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_RollandPack/LSP9004/LSP9004_Square.xml">
-            <loadingArea offset="0 1.137 -0.654" width="2.352" height="3.00" length="8.432"/>
+            <loadingArea offset="0 1.137 -0.654" width="2.352" height="1.90" length="8.432" baleHeight="3.00"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PerardPack/platosol/platosol.xml">
-            <loadingArea offset="0 0.923 -0.127" width="2.109" height="3.00" length="5.651"/>
+            <loadingArea offset="0 0.923 0.05" width="2.109" height="1.70" length="5.651" baleHeight="3.00"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PerardPack/rpe26/rpe26.xml">
-            <loadingArea offset="0 1.207 0" width="2.235" height="3.00" length="6.848"/>
-			<options enableRearLoading="true"/>
+            <loadingArea offset="0 1.207 0" width="2.235" height="1.70" length="6.848" baleHeight="3.00"/>
+			<options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_pickupbed3500.xml" selectedConfigs="1,2,3,6,7,8,9">
             <loadingArea offset="0 1.81 0.12" width="1.45" height="2.00" length="2.90"/>
@@ -153,99 +187,110 @@
         <vehicleConfiguration configFileName="FS22_TLX_Phoenix/attachments/flatbed_x2.xml" selectedConfigs="2,5,6">
             <loadingArea offset="0 1.38 -0.85" width="2.25" height="2.00" length="6.70"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_orkelTX130/TX130.xml" selectedConfigs="1,3,4">
-            <loadingArea offset="0 1.07 -1.10" width="2.39" height="2.00" length="4.75"/>
+        <vehicleConfiguration configFileName="FS22_orkelTX130/TX130.xml" selectedConfigs="1,3">
+            <loadingArea offset="0 1.07 -1.10" width="2.39" height="1.70" length="4.75" baleHeight="2.40"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_orkelTX130/TX130.xml" selectedConfigs="4">
+            <loadingArea offset="0 1.07 -1.10" width="2.39" height="1.70" length="4.75" baleHeight="2.40"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_adurante_R200A_crossplay/xmlFilename/R200A_trailers_crossplay.xml" selectedConfigs="4,5,6,7">
-            <loadingArea offset="0 1.47 -0.20" width="2.30" height="2.00" length="7.30"/>
+            <loadingArea offset="0 1.47 -0.20" width="2.30" height="1.70" length="7.30" baleHeight="2.40"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma85.xml">
-            <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="8.25"/>
-            <options enableRearLoading="true" />
+            <loadingArea offset="0 1.45 0.00" width="2.30" height="1.70" length="8.25" baleHeight="2.40"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma100.xml">
-            <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="9.75"/>
-            <options enableRearLoading="true" />
+            <loadingArea offset="0 1.45 0.00" width="2.30" height="1.70" length="9.75" baleHeight="2.40"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma115.xml">
-            <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="11.25"/>
-            <options enableRearLoading="true" />
+            <loadingArea offset="0 1.45 0.00" width="2.30" height="1.70" length="11.25" baleHeight="2.40"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma130.xml">
-            <loadingArea offset="0 1.45 0.00" width="2.30" height="2.00" length="12.75"/>
-            <options enableRearLoading="true" />
+            <loadingArea offset="0 1.45 0.00" width="2.30" height="1.70" length="12.75" baleHeight="2.40"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardFlatbedTrailer/flatbedTrailer.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.43 -2.15" width="2.50" height="2.00" length="11.25"/>
+            <loadingArea offset="0 1.43 -2.15" width="2.50" height="1.70" length="11.25" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_JohnDeere_1075HayWagon/1075Rack.xml" selectedConfigs="2">
-            <loadingArea offset="0 1.00 -1.78" width="2.70" height="2.00" length="5.43"/>
+            <loadingArea offset="0 1.00 -1.78" width="2.70" height="2.00" length="5.43" baleHeight="2.70"/>
+            <options enableSideLoading="true"/>
         </vehicleConfiguration>
 		    <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83.xml" selectedConfigs="7,8">
             <loadingArea offset="0 1.50 0" width="2.35" height="2.5" length="6.2"/>
             <options enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83K.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.68 0" width="2.35" height="2.5" length="6.2"/>
+            <loadingArea offset="0 1.68 0" width="2.35" height="1.70" length="6.2" baleHeight="2.50"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83K.xml" selectedConfigs="7,8">
-            <loadingArea offset="0 1.68 0" width="2.35" height="2.5" length="6.2"/>
+            <loadingArea offset="0 1.68 0" width="2.35" height="1.70" length="6.2" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616.xml" selectedConfigs="7,8">
-            <loadingArea offset="0 1.52 0.48" width="2.35" height="2.5" length="7.25"/>
+            <loadingArea offset="0 1.52 0.48" width="2.35" height="1.70" length="7.25" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>			
         <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616K.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.70 0.48" width="2.35" height="2.5" length="7.25"/>
+            <loadingArea offset="0 1.70 0.48" width="2.35" height="1.70" length="7.25" baleHeight="2.50"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD616K.xml" selectedConfigs="7,8">
-            <loadingArea offset="0 1.68 0.48" width="2.35" height="2.5" length="7.25"/>
+            <loadingArea offset="0 1.68 0.48" width="2.35" height="1.70" length="7.25" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/Granel.xml" selectedConfigs="1,2,3">
-            <loadingArea offset="0 1.865 0.17" width="2.45" height="3" length="13.15"/>
+            <loadingArea offset="0 1.865 0.17" width="2.45" height="1.80" length="13.15" baleHeight="3.0"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/3EixoFundo.xml" selectedConfigs="1,2,3">
-            <loadingArea offset="0 1.865 0.17" width="2.45" height="3" length="13.15"/>
+            <loadingArea offset="0 1.865 0.17" width="2.45" height="1.80" length="13.15" baleHeight="3.0"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/2Eixos.xml" selectedConfigs="1,2,3">
-            <loadingArea offset="0 1.865 1.97" width="2.45" height="3" length="9.57"/>
+            <loadingArea offset="0 1.865 1.97" width="2.45" height="1.80" length="9.57" baleHeight="3.0"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_MAN_TGX_26640_Platform/tgx26640.xml">
-            <loadingArea offset="0 1.28 -2.03" width="2.45" height="2.5" length="7.65"/>
-            <options enableSideLoading="true"/>
+            <loadingArea offset="0 1.28 -2.03" width="2.45" height="2.5" length="7.65" baleHeight="2.75"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PTS_4_5_BURLAK_Pack/2_PTS_4_5.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.35 -0.12" width="2.30" height="2.5" length="4.25"/>
+            <loadingArea offset="0 1.35 -0.12" width="2.30" height="1.70" length="4.25" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PTS_4_5_BURLAK_Pack/PPTS_4_5.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.35 -0.12" width="2.30" height="2.5" length="4.25" />
+            <loadingArea offset="0 1.35 -0.12" width="2.30" height="1.70" length="4.25" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_OldLowTrailer/Platak.xml" selectedConfigs="2">
-            <loadingArea offset="0 0.40 -1.40" width="1.45" height="2.0" length="3.40" />
-            <options enableSideLoading="true" />
+            <loadingArea offset="0 0.40 -1.40" width="1.45" height="1.70" length="3.40" baleHeight="2.0"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Tps_001/tps_001.xml">
-            <loadingArea offset="0 0.87 -1.40" width="2.50" height="2.5" length="7.25" />
-            <options enableSideLoading="true" />
+            <loadingArea offset="0 0.87 -1.40" width="2.50" height="1.70" length="7.25" baleHeight="2.50"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizard_sp03_crossplay/sp03.xml">
-            <loadingArea offset="0 1.00 -2.10" width="2.30" height="2.50" length="9.6"/>
+            <loadingArea offset="0 1.00 -2.10" width="2.30" height="1.70" length="9.6" baleHeight="2.50"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_camara_sp03/sp03.xml">
-            <loadingArea offset="0 1.00 -2.10" width="2.30" height="2.50" length="9.6"/>
+            <loadingArea offset="0 1.00 -2.10" width="2.30" height="1.70" length="9.6" baleHeight="2.50"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_LizardTrailer/LizardTrailer_Bales.xml" selectedConfigs="1">
-            <loadingArea offset="0 1.65 -0.40" width="2.40" height="2.50" length="13.45"/>
+            <loadingArea offset="0 1.65 -0.40" width="2.40" height="1.70" length="13.45" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_36ftLowLoader/36FT_Low_Loader.xml">
+            <loadingArea offset="0 1.65 1.10" width="2.9" height="1.45" length="2.3" baleHeight="1.95"/>
+            <loadingArea offset="0 1.10 -5.30" width="2.9" height="2.0" length="9.70" baleHeight="2.50"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
