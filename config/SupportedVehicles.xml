@@ -296,5 +296,25 @@
             <loadingArea offset="0.000 1.43 -0.25" width="2.40" height="2.60" length="15.40"/>
             <options enableRearLoading="true" noLoadingIfFolded="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_flatBedTrailerCombo_AutoPack/flatBedTrailer_AutoSmallBale.xml" selectedConfigs="1">  
+            <loadingArea offset="0.00 0.71 -1.60" width="2.45" height="1.70" length="9.45" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <!-- <vehicleConfiguration configFileName="FS22_flatBedTrailerCombo_AutoPack/flatBedTrailer_AutoStandardBale.xml" selectedConfigs="1">  
+            <loadingArea offset="0.00 0.71 -1.60" width="2.45" height="1.70" length="9.45" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_flatBedTrailerCombo_AutoPack/flatBedTrailer_AutoRoundBale.xml" selectedConfigs="1">  
+            <loadingArea offset="0.00 0.71 -1.60" width="2.45" height="1.70" length="9.45" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_flatBedTrailerCombo_AutoPack/flatBedTrailer_AutoCottonSquare.xml" selectedConfigs="1">  
+            <loadingArea offset="0.00 0.71 -1.60" width="2.45" height="1.70" length="9.45" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_flatBedTrailerCombo_AutoPack/flatBedTrailer_AutoCottonRound.xml" selectedConfigs="1">  
+            <loadingArea offset="0.00 0.71 -1.60" width="2.45" height="1.70" length="9.45" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration> -->
     </vehicleConfigurations>
 </universalAutoLoad>
