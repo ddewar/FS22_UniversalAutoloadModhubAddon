@@ -292,5 +292,9 @@
             <loadingArea offset="0 1.10 -5.30" width="2.9" height="2.0" length="9.70" baleHeight="2.50"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_53ftDryVan/dryvan.xml">  
+            <loadingArea offset="0.000 1.43 -0.25" width="2.40" height="2.60" length="15.40"/>
+            <options enableRearLoading="true" noLoadingIfFolded="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
