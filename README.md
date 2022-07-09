@@ -63,3 +63,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_Pallets_And_Bags_Pack](https://www.farming-simulator.com/mod.php?mod_id=226473&title=fs2022)
 - [FS22_Pioneer_Seeds](https://farming-simulator.com/mod.php?mod_id=238011&title=fs2022)
 - [FS22_PolishFertilizersPallets](https://farming-simulator.com/mod.php?mod_id=224706&title=fs2022)
+- [FS22_Schaumann_Animal_Food_Pallet](https://www.farming-simulator.com/mod.php?mod_id=242916&title=fs2022)
