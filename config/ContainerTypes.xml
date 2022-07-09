@@ -124,5 +124,8 @@
         <containerConfiguration name="FS22_Schaumann_Animal_Food_Pallet:schaumannHorseFoodPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
         <containerConfiguration name="FS22_Schaumann_Animal_Food_Pallet:schaumannChickenFoodPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
         <containerConfiguration name="FS22_Schaumann_Animal_Food_Pallet:schaumannMineralFoodPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+
+        <containerConfiguration name="FS22_ForagePack:bigBagPallet" containerType="BIGBAG_PALLET"/>
+		<containerConfiguration name="FS22_ForagePack:bigBag" containerType="BIGBAG"/>
     </containerConfigurations>
 </universalAutoLoad>
