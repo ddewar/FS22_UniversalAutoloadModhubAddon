@@ -117,5 +117,7 @@
         <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagSunflower" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
         <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagSorghum" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
         <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagSorghumForage" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+
+        <containerConfiguration name="FS22_PolishFertilizersPallets:saletrosan26" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
     </containerConfigurations>
 </universalAutoLoad>
