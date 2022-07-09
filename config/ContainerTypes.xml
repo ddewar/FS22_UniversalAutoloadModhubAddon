@@ -27,6 +27,8 @@
         <containerConfiguration name="FS22_PackingFacility:saladBoxPallet" containerType="EURO_PALLET" sizeY="0.95"/>
         <containerConfiguration name="FS22_PackingFacility:soymilkPallet" containerType="EURO_PALLET" sizeY="0.95"/>
         <containerConfiguration name="FS22_PackingFacility:syrupBoxPallet" containerType="EURO_PALLET" sizeY="0.65"/>
+
+        <containerConfiguration name="FS22_seeds_addon_crossplay:bigBagPallet" containerType="BIGBAG_PALLET" />
         
         
     </containerConfigurations>
