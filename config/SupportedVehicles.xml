@@ -278,11 +278,11 @@
         <vehicleConfiguration configFileName="FS22_lizard_sp03_crossplay/sp03.xml">
             <loadingArea offset="0 1.00 -2.10" width="2.30" height="1.70" length="9.6" baleHeight="2.50"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
-        </vehicleConfiguration>
+        </vehicleConfiguration> <!-- needs second loading zone -->
         <vehicleConfiguration configFileName="FS22_camara_sp03/sp03.xml">
             <loadingArea offset="0 1.00 -2.10" width="2.30" height="1.70" length="9.6" baleHeight="2.50"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
-        </vehicleConfiguration>
+        </vehicleConfiguration> <!-- needs second loading zone -->
         <vehicleConfiguration configFileName="FS22_LizardTrailer/LizardTrailer_Bales.xml" selectedConfigs="1">
             <loadingArea offset="0 1.65 -0.40" width="2.40" height="1.70" length="13.45" baleHeight="2.50"/>
             <options enableSideLoading="true"/>

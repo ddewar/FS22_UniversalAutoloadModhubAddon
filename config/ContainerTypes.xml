@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <universalAutoLoad>
     <containerConfigurations>
+        <!-- <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:whiskeyPallet" sizeY="0.765" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:soymilkPallet" sizeY="0.765" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:oatmealPallet" sizeY="1.075" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:pastaPallet" sizeY="1.125" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:chipsPallet" sizeY="0.765" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:beerPallet" sizeY="0.765" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:winePallet" sizeY="0.765" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:ethanolPallet" sizeY="0.765" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:anhydrousTank" containerType="LIQUID_TANK"/>
+        <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:propaneTank" containerType="LIQUID_TANK"/> -->
+
+        <!-- <containerConfiguration containerType="POTATOBOX" name="FS22_Seedpotato_Farm_Pack:PotatoBox"/>
+		<containerConfiguration containerType="POTATOBOX" name="FS22_Seedpotato_Farm_Pack:Potatoboxwaste"/>
+		<containerConfiguration containerType="POTATOBOX" name="FS22_Seedpotato_Farm_Pack:Potatoboxmedium"/>
+		<containerConfiguration containerType="POTATOBOX" name="FS22_Seedpotato_Farm_Pack:Potatoboxpremium"/> -->
+
+        <containerConfiguration name="FS22_PackingFacility:crispsPallet" containerType="EURO_PALLET" sizeY="0.95"/>
+        <containerConfiguration name="FS22_PackingFacility:foodPallet" containerType="EURO_PALLET" sizeY="1.35"/>
+        <containerConfiguration name="FS22_PackingFacility:ketchupBoxPallet" containerType="EURO_PALLET" sizeY="0.95"/>
+        <containerConfiguration name="FS22_PackingFacility:liquidPallet" containerType="EURO_PALLET" sizeY="1.35"/>
+        <containerConfiguration name="FS22_PackingFacility:objectPallet" containerType="EURO_PALLET" sizeY="1.35"/>
+        <containerConfiguration name="FS22_PackingFacility:pelletsPallet" containerType="EURO_PALLET"/>
+        <containerConfiguration name="FS22_PackingFacility:repPallet" containerType="EURO_PALLET" sizeY="0.95"/>
+        <containerConfiguration name="FS22_PackingFacility:saladBoxPallet" containerType="EURO_PALLET" sizeY="0.95"/>
+        <containerConfiguration name="FS22_PackingFacility:soymilkPallet" containerType="EURO_PALLET" sizeY="0.95"/>
+        <containerConfiguration name="FS22_PackingFacility:syrupBoxPallet" containerType="EURO_PALLET" sizeY="0.65"/>
+        
+        
     </containerConfigurations>
 </universalAutoLoad>

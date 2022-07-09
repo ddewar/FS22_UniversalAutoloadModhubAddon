@@ -2,7 +2,7 @@
 This mod will import configurations into [FS22_UniversalAutoload](https://github.com/loki79uk/FS22_UniversalAutoload) for a selection of Modhub vehicles.
 This mod will get expanded with new mods through PR and requests in the issues section.
 
-## Currently Supported Mods:
+## Currently Supported Vehicles:
 - [FS22_20ftGooseneck](https://farming-simulator.com/mod.php?mod_id=230225&title=fs2022)
 - [FS22_2PTS_6](https://farming-simulator.com/mod.php?mod_id=230598&title=fs2022)
 - [FS22_2PTS_6_console](https://farming-simulator.com/mod.php?mod_id=233370&title=fs2022)
@@ -51,4 +51,6 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_flatBedTrailerCombo_AutoPack](https://www.farming-simulator.com/mod.php?mod_id=242221&title=fs2022)
 - [FS22_dropdeckTrailer53Ft_AutoPack_crossplay](https://www.farming-simulator.com/?mod.php?mod_id=242220&title=fs2022)
 - [FS22_dropdeckTrailer53Ft_AutoPack](https://www.farming-simulator.com/mod.php?mod_id=238153&title=fs2022)
-- more to come
+
+## Currently Supported Containers:
+- [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
