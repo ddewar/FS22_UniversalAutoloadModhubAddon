@@ -34,6 +34,46 @@
 
         <containerConfiguration name="FS22_MapleSyrupProduction:mapleSyrupPallet" containerType="EURO_PALLET"/>
 
-        <containerConfiguration name="FS22_DieselCanister:canister" containerType="ALL" sizeX="0.37" sizeY="0.45" sizeZ="0.20" neverStack="true"/>      
+        <containerConfiguration name="FS22_DieselCanister:canister" containerType="ALL" sizeX="0.37" sizeY="0.45" sizeZ="0.20" neverStack="true"/>
+        
+        <containerConfiguration name="FS22_Farm_Supply_Pack:barleyPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:canolaPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:chaffPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:maizePallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:oatPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:potatoPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:soybeanPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:sorghumPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:sunflowerPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:wheatPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:pioneerPalletSilage" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:pioneerPalletStraw" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:sugarBeetPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:sugarCanePallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:fertilizerPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:chickenFoodPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:foragePallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:pigFoodPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:saltPallet" containerType="EURO_PALLET" sizeX="1.60" sizeY="1.05" sizeZ="1.30"/>
+
+		<containerConfiguration name="FS22_Farm_Supply_Pack:barleySack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:canolaSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:chaffSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:maizeSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:oatSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:potatoSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:soybeansSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:sorghumSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:sunflowerSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:wheatSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:pioneerSackSilage" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:pioneerSackStraw" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:sugarBeetSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:sugarCaneSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:fertilizerSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:chickenFoodSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:forageSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:pigFoodSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+		<containerConfiguration name="FS22_Farm_Supply_Pack:saltSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
     </containerConfigurations>
 </universalAutoLoad>

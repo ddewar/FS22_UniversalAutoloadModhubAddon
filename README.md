@@ -58,3 +58,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_SeedPotatoFarmBuildings](https://www.farming-simulator.com/mod.php?mod_id=246051&title=fs2022)
 - [FS22_MapleSyrupProduction](https://farming-simulator.com/mod.php?mod_id=235576&title=fs2022)
 - [FS22_DieselCanister](https://www.farming-simulator.com/mod.php?mod_id=225308&title=fs2022)
+- [FS22_Farm_Supply_Pack](https://farming-simulator.com/mod.php?&mod_id=217592&title=fs2022)
