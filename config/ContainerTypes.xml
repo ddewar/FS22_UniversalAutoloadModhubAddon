@@ -78,5 +78,28 @@
 
         <containerConfiguration name="FS22_IndustrialSugar:sugarPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
 		<containerConfiguration name="FS22_IndustrialSugar:sugarBigBag" containerType="BIGBAG"/>
+
+        <!-- <containerConfiguration name="FS22_LiftablePallets:bigBag" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_LiftablePallets:bigBagPallet" containerType="BIGBAG_PALLET"/> -->
+
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Osivo" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Hnojivo" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Vapno" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Slepice" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Prasata" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Kone" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Sul" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Manure" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Mineral" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Seeds_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Ferti_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Lime_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Slepice_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Pig_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Horse_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:RoadSalt_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Manure_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Mineral_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
     </containerConfigurations>
 </universalAutoLoad>
