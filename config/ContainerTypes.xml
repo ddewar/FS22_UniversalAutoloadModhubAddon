@@ -101,5 +101,21 @@
         <containerConfiguration name="FS22_Pallets_And_Bags_Pack:RoadSalt_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
         <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Manure_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
         <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Mineral_Bag" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerPalletCanola" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerPalletWheat" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerPalletCorn" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerPalletSoybean" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerPalletSunflower" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerPalletSorghum" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerPalletSorghumForage" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagCanola" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagWheat" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagCorn" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagSoybean" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagSunflower" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagSorghum" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
+        <containerConfiguration name="FS22_Pioneer_Seeds:pioneerBagSorghumForage" containerType="ALL" sizeX="0.35" sizeY="0.12" sizeZ="0.70"/>
     </containerConfigurations>
 </universalAutoLoad>
