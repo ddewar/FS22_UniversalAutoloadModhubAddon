@@ -32,6 +32,8 @@
 
         <containerConfiguration name="FS22_seeds_addon_crossplay:bigBagPallet" containerType="BIGBAG_PALLET" />
 
-        <containerConfiguration name="FS22_MapleSyrupProduction:mapleSyrupPallet" containerType="EURO_PALLET"/>      
+        <containerConfiguration name="FS22_MapleSyrupProduction:mapleSyrupPallet" containerType="EURO_PALLET"/>
+
+        <containerConfiguration name="FS22_DieselCanister:canister" containerType="ALL" sizeX="0.37" sizeY="0.45" sizeZ="0.20" neverStack="true"/>      
     </containerConfigurations>
 </universalAutoLoad>
