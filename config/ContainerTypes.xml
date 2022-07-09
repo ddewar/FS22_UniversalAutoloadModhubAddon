@@ -75,5 +75,8 @@
 		<containerConfiguration name="FS22_Farm_Supply_Pack:forageSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
 		<containerConfiguration name="FS22_Farm_Supply_Pack:pigFoodSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
 		<containerConfiguration name="FS22_Farm_Supply_Pack:saltSack" containerType="ALL" sizeX="0.40" sizeY="0.13" sizeZ="0.80"/>
+
+        <containerConfiguration name="FS22_IndustrialSugar:sugarPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+		<containerConfiguration name="FS22_IndustrialSugar:sugarBigBag" containerType="BIGBAG"/>
     </containerConfigurations>
 </universalAutoLoad>
