@@ -55,3 +55,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 ## Currently Supported Containers:
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
 - [FS22_seeds_addon_crossplay](https://www.farming-simulator.com/mod.php?mod_id=243783&title=fs2022)
+- [FS22_SeedPotatoFarmBuildings](https://www.farming-simulator.com/mod.php?mod_id=246051&title=fs2022)

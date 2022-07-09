@@ -12,10 +12,12 @@
         <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:anhydrousTank" containerType="LIQUID_TANK"/>
         <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:propaneTank" containerType="LIQUID_TANK"/> -->
 
-        <!-- <containerConfiguration containerType="POTATOBOX" name="FS22_Seedpotato_Farm_Pack:PotatoBox"/>
-		<containerConfiguration containerType="POTATOBOX" name="FS22_Seedpotato_Farm_Pack:Potatoboxwaste"/>
-		<containerConfiguration containerType="POTATOBOX" name="FS22_Seedpotato_Farm_Pack:Potatoboxmedium"/>
-		<containerConfiguration containerType="POTATOBOX" name="FS22_Seedpotato_Farm_Pack:Potatoboxpremium"/> -->
+        <containerConfiguration name="FS22_SeedPotatoFarmBuildings:PotatoBox" containerType="POTATOBOX"/>
+		<containerConfiguration name="FS22_SeedPotatoFarmBuildings:Potatoboxwaste" containerType="POTATOBOX"/>
+		<containerConfiguration name="FS22_SeedPotatoFarmBuildings:Potatoboxmedium" containerType="POTATOBOX"/>
+		<containerConfiguration name="FS22_SeedPotatoFarmBuildings:Potatoboxpremium" containerType="POTATOBOX"/>
+		<containerConfiguration name="FS22_SeedPotatoFarmBuildings:Seedpotatobagged" containerType="EURO_PALLET" sizeY="1.70"/>
+		<containerConfiguration name="FS22_SeedPotatoFarmBuildings:Premiumbagged" containerType="EURO_PALLET" sizeY="1.70"/>
 
         <containerConfiguration name="FS22_PackingFacility:crispsPallet" containerType="EURO_PALLET" sizeY="0.95"/>
         <containerConfiguration name="FS22_PackingFacility:foodPallet" containerType="EURO_PALLET" sizeY="1.35"/>
@@ -29,7 +31,6 @@
         <containerConfiguration name="FS22_PackingFacility:syrupBoxPallet" containerType="EURO_PALLET" sizeY="0.65"/>
 
         <containerConfiguration name="FS22_seeds_addon_crossplay:bigBagPallet" containerType="BIGBAG_PALLET" />
-        
         
     </containerConfigurations>
 </universalAutoLoad>
