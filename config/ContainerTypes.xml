@@ -142,5 +142,20 @@
 
         <containerConfiguration name="FS22_BigBagCattlePack:bigBagmineralFeed" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_BigBagCattlePack:bigBagTMR" containerType="BIGBAG"/>
+        
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagPolifoska" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagSaletrosan" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagHolist" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagPolidap" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagSalmag" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagMocznik" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagPulan" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagSaletraA" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagSaletrzak" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagfosfarm" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagZaksan" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagLiderW" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagLiderM" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagLiderS" containerType="BIGBAG"/>
     </containerConfigurations>
 </universalAutoLoad>
