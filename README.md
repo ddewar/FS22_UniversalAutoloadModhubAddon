@@ -70,3 +70,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_YaraBigBagFertilizer](https://farming-simulator.com/mod.php?mod_id=227144&title=fs2022)
 - [FS22_Bags_and_Support_Package](https://farming-simulator.com/mod.php?mod_id=225463&title=fs2022)
 - [FS22_CzeBigBag](https://farming-simulator.com/mod.php?mod_id=227638&title=fs2022)
+= [FS22_BigBagCattlePack](https://farming-simulator.com/mod.php?mod_id=246169&title=fs2022)

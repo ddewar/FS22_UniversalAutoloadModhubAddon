@@ -139,5 +139,8 @@
         <containerConfiguration name="FS22_Bags_and_Support_Package:BagSeeds" containerType="BIGBAG" sizeX="1.05" sizeY="1.35" sizeZ="1.05"/>
 
         <containerConfiguration name="FS22_CzeBigBag:bigBag" containerType="BIGBAG"/>
+
+        <containerConfiguration name="FS22_BigBagCattlePack:bigBagmineralFeed" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_BigBagCattlePack:bigBagTMR" containerType="BIGBAG"/>
     </containerConfigurations>
 </universalAutoLoad>
