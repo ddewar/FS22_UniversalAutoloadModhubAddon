@@ -135,5 +135,7 @@
         <containerConfiguration name="FS22_Yara_Fertilizer_Pallets:yaraveraPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
 
         <containerConfiguration name="FS22_YaraBigBagFertilizer:bigBag" containerType="BIGBAG"/>
+
+        <containerConfiguration name="FS22_Bags_and_Support_Package:BagSeeds" containerType="BIGBAG" sizeX="1.05" sizeY="1.35" sizeZ="1.05"/>
     </containerConfigurations>
 </universalAutoLoad>

@@ -68,3 +68,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_Water_And_Diesel_Tank](https://farming-simulator.com/mod.php?mod_id=227192&title=fs2022)
 - [FS22_Yara_Fertilizer_Pallets](https://farming-simulator.com/mod.php?mod_id=227878&title=fs2022)
 - [FS22_YaraBigBagFertilizer](https://farming-simulator.com/mod.php?mod_id=227144&title=fs2022)
+- [FS22_Bags_and_Support_Package](https://farming-simulator.com/mod.php?mod_id=225463&title=fs2022)
