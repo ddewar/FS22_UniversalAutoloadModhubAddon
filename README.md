@@ -65,3 +65,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_PolishFertilizersPallets](https://farming-simulator.com/mod.php?mod_id=224706&title=fs2022)
 - [FS22_Schaumann_Animal_Food_Pallet](https://www.farming-simulator.com/mod.php?mod_id=242916&title=fs2022)
 - [FS22_ForagePack](https://farming-simulator.com/mod.php?mod_id=226406&title=fs2022)
+- [FS22_Water_And_Diesel_Tank](https://farming-simulator.com/mod.php?mod_id=227192&title=fs2022)

@@ -127,5 +127,7 @@
 
         <containerConfiguration name="FS22_ForagePack:bigBagPallet" containerType="BIGBAG_PALLET"/>
 		<containerConfiguration name="FS22_ForagePack:bigBag" containerType="BIGBAG"/>
+
+        <containerConfiguration name="FS22_Water_And_Diesel_Tank:liquidTank" containerType="LIQUID_TANK"/>
     </containerConfigurations>
 </universalAutoLoad>
