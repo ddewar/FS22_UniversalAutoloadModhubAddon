@@ -129,5 +129,9 @@
 		<containerConfiguration name="FS22_ForagePack:bigBag" containerType="BIGBAG"/>
 
         <containerConfiguration name="FS22_Water_And_Diesel_Tank:liquidTank" containerType="LIQUID_TANK"/>
+
+        <containerConfiguration name="FS22_Yara_Fertilizer_Pallets:yaramilaPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Yara_Fertilizer_Pallets:yarabelaPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_Yara_Fertilizer_Pallets:yaraveraPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
     </containerConfigurations>
 </universalAutoLoad>
