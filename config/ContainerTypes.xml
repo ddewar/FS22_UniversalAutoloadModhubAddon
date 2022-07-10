@@ -143,7 +143,7 @@
         <containerConfiguration name="FS22_BigBagCattlePack:bigBagmineralFeed" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_BigBagCattlePack:bigBagTMR" containerType="BIGBAG"/>
         
-        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagPolifoska" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagSaletrosan" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagHolist" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagPolidap" containerType="BIGBAG"/>
@@ -157,5 +157,30 @@
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagLiderW" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagLiderM" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagLiderS" containerType="BIGBAG"/>
+
+        <containerConfiguration name="FS22_FinnishBagsNPallets:hankkijaKlassikko" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:punaheltta" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:pikkunasu" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:lammashertta" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:regular" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:vilomix" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
+        
+        <containerConfiguration name="FS22_FinnishBagsNPallets:fertilex" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:peltosiemen" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:tilasiemen" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:muru" containerType="BIGBAG"/>
+
+        <containerConfiguration name="FS22_FinnishBagsNPallets:hankkijaKlassikkoBag" containerType="ALL" sizeX="0.65" sizeY="0.12" sizeZ="0.30"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:punahelttaBags" containerType="ALL" sizeX="0.65" sizeY="0.12" sizeZ="0.30"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:pikkunasuBag" containerType="ALL" sizeX="0.65" sizeY="0.12" sizeZ="0.30"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:lammasherttaBag" containerType="ALL" sizeX="0.65" sizeY="0.12" sizeZ="0.30"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:regularBag" containerType="ALL" sizeX="0.65" sizeY="0.12" sizeZ="0.30"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:vilomixBag" containerType="ALL" sizeX="0.65" sizeY="0.12" sizeZ="0.30"/>
+        
+        <containerConfiguration name="FS22_FinnishBagsNPallets:aivCanister" containerType="ALL" sizeX="0.27" sizeY="0.52" sizeZ="0.40" neverStack="true"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:aivCanisterPallet" containerType="EURO_PALLET" sizeX="1.20" sizeY="0.70" sizeZ="0.80"/>
+        
+        <containerConfiguration name="FS22_FinnishBagsNPallets:aivBarrel" containerType="ALL" sizeX="0.60" sizeY="0.95" sizeZ="0.60" neverStack="true"/>
+        <containerConfiguration name="FS22_FinnishBagsNPallets:aivBarrelPallet" containerType="EURO_PALLET" sizeX="1.20" sizeY="1.08" sizeZ="0.80"/>
     </containerConfigurations>
 </universalAutoLoad>
