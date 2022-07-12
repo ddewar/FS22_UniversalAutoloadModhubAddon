@@ -17,10 +17,10 @@
             <loadingArea offset="0 1.40 0.15" width="2.25" height="1.85" length="4.25" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_Fliegl_SDS350J/SDS350J.xml">
-            <loadingArea offset="0 1.70 4.45" width="2.35" height="1.30" length="2.15" baleHeight="2.30" noLoadingIfFolded="true" />
-            <loadingArea offset="0 1.0 -0.75" width="2.50" height="2.00" length="8.00" baleHeight="3.00" noLoadingIfUnfolded="true"/>
-            <loadingArea offset="0 1.0 -0.75" width="4.00" height="2.00" length="8.00" baleHeight="3.00" noLoadingIfFolded="true"/>
+        <vehicleConfiguration configFileName="FS22_Fliegl_SDS350J/SDS350J.xml" showDebug="true">
+            <loadingArea offset="0 1.70 4.45" width="2.35" height="1.30" length="2.15" baleHeight="2.30" noLoadingIfCovered="true" />
+            <loadingArea offset="0 1.0 -0.75" width="2.50" height="2.00" length="8.00" baleHeight="3.00" noLoadingIfUncovered="true"/>
+            <loadingArea offset="0 1.0 -0.75" width="4.00" height="2.00" length="8.00" baleHeight="3.00" noLoadingIfCovered="true"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Krone_Profi_Liner_HD/Krone_Profi_Liner_HD.xml">

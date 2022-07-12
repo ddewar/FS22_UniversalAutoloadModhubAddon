@@ -18,6 +18,7 @@
 		<containerConfiguration name="FS22_SeedPotatoFarmBuildings:Potatoboxpremium" containerType="POTATOBOX"/>
 		<containerConfiguration name="FS22_SeedPotatoFarmBuildings:Seedpotatobagged" containerType="EURO_PALLET" sizeY="1.70"/>
 		<containerConfiguration name="FS22_SeedPotatoFarmBuildings:Premiumbagged" containerType="EURO_PALLET" sizeY="1.70"/>
+        <containerConfiguration name="FS22_SeedPotatoFarmBuildings:Wastepotatobagged" containerType="EURO_PALLET" sizeY="1.70"/>
 
         <containerConfiguration name="FS22_PackingFacility:crispsPallet" containerType="EURO_PALLET" sizeY="0.95"/>
         <containerConfiguration name="FS22_PackingFacility:foodPallet" containerType="EURO_PALLET" sizeY="1.35"/>
@@ -143,7 +144,7 @@
         <containerConfiguration name="FS22_BigBagCattlePack:bigBagmineralFeed" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_BigBagCattlePack:bigBagTMR" containerType="BIGBAG"/>
         
-        <containerConfiguration name="FS22_FinnishBagsNPallets:" containerType="BIGBAG"/>
+        <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagPolifoska" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagSaletrosan" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagHolist" containerType="BIGBAG"/>
         <containerConfiguration name="FS22_FertilizerBigBagsPack:bigBagPolidap" containerType="BIGBAG"/>
