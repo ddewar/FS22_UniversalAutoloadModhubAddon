@@ -183,5 +183,7 @@
         
         <containerConfiguration name="FS22_FinnishBagsNPallets:aivBarrel" containerType="ALL" sizeX="0.60" sizeY="0.95" sizeZ="0.60" neverStack="true"/>
         <containerConfiguration name="FS22_FinnishBagsNPallets:aivBarrelPallet" containerType="EURO_PALLET" sizeX="1.20" sizeY="1.08" sizeZ="0.80"/>
+        
+        <containerConfiguration name="FS22_PolandBigBags:bigBag" containerType="BIGBAG"/>
     </containerConfigurations>
 </universalAutoLoad>
