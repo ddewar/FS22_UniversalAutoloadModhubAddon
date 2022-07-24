@@ -187,5 +187,9 @@
         <containerConfiguration name="FS22_PolandBigBags:bigBag" containerType="BIGBAG"/>
 
         <containerConfiguration name="FS22_PolishBigBag:saletrosan26" containerType="BIGBAG"/>
+
+        <containerConfiguration name="FS22_Holmakra:pallet1dry" containerType="EURO_PALLET" sizeX="4.85" sizeY="0.75" sizeZ="1.15"/>
+        <containerConfiguration name="FS22_Holmakra:pallet2dry" containerType="EURO_PALLET" sizeX="4.85" sizeY="0.85" sizeZ="1.15"/>
+        <containerConfiguration name="FS22_Holmakra:pallet3dry" containerType="EURO_PALLET" sizeX="4.85" sizeY="0.85" sizeZ="1.15"/>
     </containerConfigurations>
 </universalAutoLoad>
