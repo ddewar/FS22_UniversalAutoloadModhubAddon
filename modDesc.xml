@@ -4,16 +4,16 @@
     <version>1.0.0.0</version>
 
     <title>
-        <en>Universal Autoload Modhub Addon</en>
-        <fr>Autoload Universel Modhub Addon</fr>
-        <ru>Универсальная Aвтозагрузка Modhub Addon</ru>
-        <nl>Universele Autoload Modhub Addon</nl>
-        <cz>Univerzální Autoload Modhub Doplněk</cz>
-        <pl>Universalne Autoładowanie Modhub Addon</pl>
-        <de>Universal Autoload Modhub Erweiterung</de>
+        <en>Universal Autoload ModHub Add-on</en>
+        <fr>Autoload Universel ModHub Add-on</fr>
+        <ru>Универсальная Aвтозагрузка ModHub Add-on</ru>
+        <nl>Universele Autoload ModHub Add-on</nl>
+        <cz>Univerzální Autoload ModHub Doplněk</cz>
+        <pl>Universalne Autoładowanie ModHub Add-on</pl>
+        <de>Universal Autoload ModHub Erweiterung</de>
     </title>
     <description>
-        <en><![CDATA[Addon to UniversalAutoload to add support for a large selection of Modhub vehicles. This mod adds configurations for many popular Modhub vehicles and trailers.
+        <en><![CDATA[Add-on to UniversalAutoload to add support for a large selection of ModHub vehicles. This mod adds configurations for many popular ModHub vehicles and trailers.
 Currently Supported:
 - FS22_20ftGooseneck
 - FS22_2PTS_6
@@ -90,7 +90,7 @@ Currently Supported:
 
 For bug reports, help, and mod suggestions please visit "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
         ]]></en>
-        <de><![CDATA[Erweiterung für Universal Autoload. Dieser Mod fügt Autoload Konfigurationen für viele beliebte Modhub Fahrzeuge und Anhänger hinzu.
+        <de><![CDATA[Erweiterung für Universal Autoload. Dieser Mod fügt Autoload Konfigurationen für viele beliebte ModHub Fahrzeuge und Anhänger hinzu.
 Momentan unterstützt:
 - FS22_20ftGooseneck
 - FS22_2PTS_6
