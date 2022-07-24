@@ -5,15 +5,18 @@
 
     <title>
         <en>Universal Autoload ModHub Add-on</en>
-        <fr>Autoload Universel ModHub Add-on</fr>
+        <fr>Complément ModHub Pour Autoload Universel</fr>
         <ru>Универсальная Aвтозагрузка ModHub Add-on</ru>
         <nl>Universele Autoload ModHub Add-on</nl>
         <cz>Univerzální Autoload ModHub Doplněk</cz>
         <pl>Universalne Autoładowanie ModHub Add-on</pl>
-        <de>Universal Autoload ModHub Erweiterung</de>
+        <de>Universal Autoload ModHub-Zusatzmodul</de>
     </title>
     <description>
-        <en><![CDATA[Add-on to UniversalAutoload to add support for a large selection of ModHub vehicles. This mod adds configurations for many popular ModHub vehicles and trailers.
+        <en><![CDATA[Add-on to Universal Autoload to add support for a large selection of ModHub vehicles. This mod adds configurations for many popular ModHub vehicles and trailers.
+
+For bug reports, help, and mod suggestions please visit "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+
 Currently Supported:
 - FS22_20ftGooseneck
 - FS22_2PTS_6
@@ -87,10 +90,11 @@ Currently Supported:
 - FS22_PolishBigBag
 - FS22_Holmakra
 - More to come!
-
-For bug reports, help, and mod suggestions please visit "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
         ]]></en>
         <de><![CDATA[Erweiterung für Universal Autoload. Dieser Mod fügt Autoload Konfigurationen für viele beliebte ModHub Fahrzeuge und Anhänger hinzu.
+
+Für Fehlerberichte, Hilfe und Mod-Vorschläge besuchen Sie bitte "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+
 Momentan unterstützt:
 - FS22_20ftGooseneck
 - FS22_2PTS_6
@@ -164,10 +168,11 @@ Momentan unterstützt:
 - FS22_PolishBigBag
 - FS22_Holmakra
 - Bald noch mehr!
-
-Für Fehlerberichte, Hilfe und Mod-Vorschläge besuchen Sie bitte "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
         ]]></de>
-    <cz><![CDATA[Rozšíření k modu UniversalAutoload, které umožňuje přidat další konfigurace pro velké množství různých vozidel z Modhubu. Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. 
+    <cz><![CDATA[Rozšíření k modu Univerzální Autoload, které umožňuje přidat další konfigurace pro velké množství různých vozidel z Modhubu. Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. 
+
+Hlášení chyb, nápovědu a návrhy úprav naleznete na adrese "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+
 Aktuálně podporovaná vozidla:
 - FS22_20ftGooseneck
 - FS22_2PTS_6
@@ -242,8 +247,7 @@ Aktuálně podporovaná vozidla:
 - FS22_Holmakra
 - A další budou přidávána!
 
-Hlášení chyb, nápovědu a návrhy úprav naleznete na adrese "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
-        ]]></cz>	    
+]]></cz>	    
     </description>
 
     <multiplayer supported="true"/>
