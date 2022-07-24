@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="65">
-    <author>ddewar</author>
+<modDesc descVersion="67">
+    <author>ddewar, loki_79</author>
     <version>1.0.0.0</version>
 
     <title>
@@ -8,239 +8,242 @@
         <fr>Autoload Universel Modhub Addon</fr>
         <ru>Универсальная Aвтозагрузка Modhub Addon</ru>
         <nl>Universele Autoload Modhub Addon</nl>
-        <cz>Universal Autoload Modhub Addon</cz>
+        <cz>Univerzální Autoload Modhub Doplněk</cz>
         <pl>Universalne Autoładowanie Modhub Addon</pl>
         <de>Universal Autoload Modhub Erweiterung</de>
     </title>
     <description>
         <en><![CDATA[Addon to UniversalAutoload to add support for a large selection of Modhub vehicles. This mod adds configurations for many popular Modhub vehicles and trailers.
+Currently Supported:
+- FS22_20ftGooseneck
+- FS22_2PTS_6
+- FS22_2PTS_6_console
+- FS22_Fliegl_SDS350J
+- FS22_Krone_Profi_Liner_HD
+- FS22_Profi_Liner_Flatbed
+- FS22_JohnDeere_Gator_Pack
+- FS22_selfMadeTrailer
+- FS22_reischPack
+- FS22_JoskinWagoLoader
+- FS22_TLX2020_Series
+- FS22_lizardCarTrailer
+- FS22_strautmannSEK802
+- FS22_strautmannSZK802
+- FS22_lindnerUnitrac122LDrive
+- FS22_allPurposeTool
+- FS22_Bailey_Bale_Pallet_Trailer
+- FS22_Brantner_DD_24073
+- FS22_DPW_1800
+- FS22_flieglDPW180
+- FS22_flieglDPWpack
+- FS22_flieglFlatbed
+- FS22_Hw80_pack
+- FS22_LizardSantana88
+- FS22_Lizard_Selfmade_Tow_Truck
+- FS22_PerardPack (only flatbed trailers)
+- FS22_PongePack (only flatbed trailers)
+- FS22_RollandPack (only flatbed trailers)
+- FS22_TLX3500_Series
+- FS22_TLX_Phoenix
+- FS22_orkelTX130
+- FS22_adurante_R200A_crossplay
+- FS22_Pack_Aguas_Tenias_Platforms
+- FS22_lizardFlatbedTrailer
+- FS22_JohnDeere_1075HayWagon
+- FS22_lizardTrailerPack
+- FS22_Randon_BulkCarrier_RLine
+- FS22_MAN_TGX_26640_Platform
+- FS22_PTS_4_5_BURLAK_Pack
+- FS22_OldLowTrailer
+- FS22_Tps_001
+- FS22_lizard_sp03_crossplay
+- FS22_camara_sp03
+- FS22_LizardTrailer
+- FS22_53ftDryVan
+- FS22_flatBedTrailerCombo_AutoPack
+- FS22_dropdeckTrailer53Ft_AutoPack_crossplay
+- FS22_dropdeckTrailer53Ft_AutoPack
+- FS22_PackingFacility
+- FS22_seeds_addon_crossplay
+- FS22_SeedPotatoFarmBuildings
+- FS22_MapleSyrupProduction
+- FS22_DieselCanister
+- FS22_Farm_Supply_Pack
+- FS22_IndustrialSugar
+- FS22_Pallets_And_Bags_Pack
+- FS22_Pioneer_Seeds
+- FS22_PolishFertilizersPallets
+- FS22_Schaumann_Animal_Food_Pallet
+- FS22_ForagePack
+- FS22_Water_And_Diesel_Tank
+- FS22_Yara_Fertilizer_Pallets
+- FS22_YaraBigBagFertilizer
+- FS22_Bags_and_Support_Package
+- FS22_CzeBigBag
+- FS22_BigBagCattlePack
+- FS22_FertilizerBigBagsPack
+- FS22_FinnishBagsNPallets
+- FS22_PolandBigBags
+- FS22_PolishBigBag
+- FS22_Holmakra
+- More to come!
 
-		Currently Supported:
-		- FS22_20ftGooseneck
-		- FS22_2PTS_6
-		- FS22_2PTS_6_console
-		- FS22_Fliegl_SDS350J
-		- FS22_Krone_Profi_Liner_HD
-		- FS22_Profi_Liner_Flatbed
-		- FS22_JohnDeere_Gator_Pack
-		- FS22_selfMadeTrailer
-		- FS22_reischPack
-		- FS22_JoskinWagoLoader
-		- FS22_TLX2020_Series
-		- FS22_lizardCarTrailer
-		- FS22_strautmannSEK802
-		- FS22_strautmannSZK802
-		- FS22_lindnerUnitrac122LDrive
-		- FS22_allPurposeTool
-		- FS22_Bailey_Bale_Pallet_Trailer
-		- FS22_Brantner_DD_24073
-		- FS22_DPW_1800
-		- FS22_flieglDPW180
-		- FS22_flieglDPWpack
-		- FS22_flieglFlatbed
-		- FS22_Hw80_pack
-		- FS22_LizardSantana88
-		- FS22_Lizard_Selfmade_Tow_Truck
-		- FS22_PerardPack (only flatbed trailers)
-		- FS22_PongePack (only flatbed trailers)
-		- FS22_RollandPack (only flatbed trailers)
-		- FS22_TLX3500_Series
-		- FS22_TLX_Phoenix
-		- FS22_orkelTX130
-		- FS22_adurante_R200A_crossplay
-		- FS22_Pack_Aguas_Tenias_Platforms
-		- FS22_lizardFlatbedTrailer
-		- FS22_JohnDeere_1075HayWagon
-		- FS22_lizardTrailerPack
-		- FS22_Randon_BulkCarrier_RLine
-		- FS22_MAN_TGX_26640_Platform
-		- FS22_PTS_4_5_BURLAK_Pack
-		- FS22_OldLowTrailer
-		- FS22_Tps_001
-		- FS22_lizard_sp03_crossplay
-		- FS22_camara_sp03
-		- FS22_LizardTrailer
-		- FS22_53ftDryVan
-		- FS22_flatBedTrailerCombo_AutoPack
-		- FS22_dropdeckTrailer53Ft_AutoPack_crossplay
-		- FS22_dropdeckTrailer53Ft_AutoPack
-		- FS22_PackingFacility
-		- FS22_seeds_addon_crossplay
-		- FS22_SeedPotatoFarmBuildings
-		- FS22_MapleSyrupProduction
-		- FS22_DieselCanister
-		- FS22_Farm_Supply_Pack
-		- FS22_IndustrialSugar
-		- FS22_Pallets_And_Bags_Pack
-		- FS22_Pioneer_Seeds
-		- FS22_PolishFertilizersPallets
-		- FS22_Schaumann_Animal_Food_Pallet
-		- FS22_ForagePack
-		- FS22_Water_And_Diesel_Tank
-		- FS22_Yara_Fertilizer_Pallets
-		- FS22_YaraBigBagFertilizer
-		- FS22_Bags_and_Support_Package
-		- FS22_CzeBigBag
-		- FS22_BigBagCattlePack
-		- FS22_FertilizerBigBagsPack
-		- FS22_FinnishBagsNPallets
-		- FS22_PolandBigBags
-		- FS22_PolishBigBag
-		- FS22_Holmakra
-		- More to come!
-		]]></en>
+For bug reports, help, and mod suggestions please visit "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+        ]]></en>
         <de><![CDATA[Erweiterung für Universal Autoload. Dieser Mod fügt Autoload Konfigurationen für viele beliebte Modhub Fahrzeuge und Anhänger hinzu.
+Momentan unterstützt:
+- FS22_20ftGooseneck
+- FS22_2PTS_6
+- FS22_2PTS_6_console
+- FS22_Fliegl_SDS350J
+- FS22_Krone_Profi_Liner_HD
+- FS22_Profi_Liner_Flatbed
+- FS22_JohnDeere_Gator_Pack
+- FS22_selfMadeTrailer
+- FS22_reischPack
+- FS22_JoskinWagoLoader
+- FS22_TLX2020_Series
+- FS22_lizardCarTrailer
+- FS22_strautmannSEK802
+- FS22_strautmannSZK802
+- FS22_lindnerUnitrac122LDrive
+- FS22_allPurposeTool
+- FS22_Bailey_Bale_Pallet_Trailer
+- FS22_Brantner_DD_24073
+- FS22_DPW_1800
+- FS22_flieglDPW180
+- FS22_flieglDPWpack
+- FS22_flieglFlatbed
+- FS22_Hw80_pack
+- FS22_LizardSantana88
+- FS22_Lizard_Selfmade_Tow_Truck
+- FS22_PerardPack (only flatbed trailers)
+- FS22_PongePack (only flatbed trailers)
+- FS22_RollandPack (only flatbed trailers)
+- FS22_TLX3500_Series
+- FS22_TLX_Phoenix
+- FS22_orkelTX130
+- FS22_adurante_R200A_crossplay
+- FS22_Pack_Aguas_Tenias_Platforms
+- FS22_lizardFlatbedTrailer
+- FS22_JohnDeere_1075HayWagon
+- FS22_lizardTrailerPack
+- FS22_Randon_BulkCarrier_RLine
+- FS22_MAN_TGX_26640_Platform
+- FS22_PTS_4_5_BURLAK_Pack
+- FS22_OldLowTrailer
+- FS22_Tps_001
+- FS22_lizard_sp03_crossplay
+- FS22_camara_sp03
+- FS22_LizardTrailer
+- FS22_53ftDryVan
+- FS22_flatBedTrailerCombo_AutoPack
+- FS22_dropdeckTrailer53Ft_AutoPack_crossplay
+- FS22_dropdeckTrailer53Ft_AutoPack
+- FS22_PackingFacility
+- FS22_seeds_addon_crossplay
+- FS22_SeedPotatoFarmBuildings
+- FS22_MapleSyrupProduction
+- FS22_DieselCanister
+- FS22_Farm_Supply_Pack
+- FS22_IndustrialSugar
+- FS22_Pallets_And_Bags_Pack
+- FS22_Pioneer_Seeds
+- FS22_PolishFertilizersPallets
+- FS22_Schaumann_Animal_Food_Pallet
+- FS22_ForagePack
+- FS22_Water_And_Diesel_Tank
+- FS22_Yara_Fertilizer_Pallets
+- FS22_YaraBigBagFertilizer
+- FS22_Bags_and_Support_Package
+- FS22_CzeBigBag
+- FS22_BigBagCattlePack
+- FS22_FertilizerBigBagsPack
+- FS22_FinnishBagsNPallets
+- FS22_PolandBigBags
+- FS22_PolishBigBag
+- FS22_Holmakra
+- Bald noch mehr!
 
-		Momentan unterstützt:
-		- FS22_20ftGooseneck
-		- FS22_2PTS_6
-		- FS22_2PTS_6_console
-		- FS22_Fliegl_SDS350J
-		- FS22_Krone_Profi_Liner_HD
-		- FS22_Profi_Liner_Flatbed
-		- FS22_JohnDeere_Gator_Pack
-		- FS22_selfMadeTrailer
-		- FS22_reischPack
-		- FS22_JoskinWagoLoader
-		- FS22_TLX2020_Series
-		- FS22_lizardCarTrailer
-		- FS22_strautmannSEK802
-		- FS22_strautmannSZK802
-		- FS22_lindnerUnitrac122LDrive
-		- FS22_allPurposeTool
-		- FS22_Bailey_Bale_Pallet_Trailer
-		- FS22_Brantner_DD_24073
-		- FS22_DPW_1800
-		- FS22_flieglDPW180
-		- FS22_flieglDPWpack
-		- FS22_flieglFlatbed
-		- FS22_Hw80_pack
-		- FS22_LizardSantana88
-		- FS22_Lizard_Selfmade_Tow_Truck
-		- FS22_PerardPack (only flatbed trailers)
-		- FS22_PongePack (only flatbed trailers)
-		- FS22_RollandPack (only flatbed trailers)
-		- FS22_TLX3500_Series
-		- FS22_TLX_Phoenix
-		- FS22_orkelTX130
-		- FS22_adurante_R200A_crossplay
-		- FS22_Pack_Aguas_Tenias_Platforms
-		- FS22_lizardFlatbedTrailer
-		- FS22_JohnDeere_1075HayWagon
-		- FS22_lizardTrailerPack
-		- FS22_Randon_BulkCarrier_RLine
-		- FS22_MAN_TGX_26640_Platform
-		- FS22_PTS_4_5_BURLAK_Pack
-		- FS22_OldLowTrailer
-		- FS22_Tps_001
-		- FS22_lizard_sp03_crossplay
-		- FS22_camara_sp03
-		- FS22_LizardTrailer
-		- FS22_53ftDryVan
-		- FS22_flatBedTrailerCombo_AutoPack
-		- FS22_dropdeckTrailer53Ft_AutoPack_crossplay
-		- FS22_dropdeckTrailer53Ft_AutoPack
-		- FS22_PackingFacility
-		- FS22_seeds_addon_crossplay
-		- FS22_SeedPotatoFarmBuildings
-		- FS22_MapleSyrupProduction
-		- FS22_DieselCanister
-		- FS22_Farm_Supply_Pack
-		- FS22_IndustrialSugar
-		- FS22_Pallets_And_Bags_Pack
-		- FS22_Pioneer_Seeds
-		- FS22_PolishFertilizersPallets
-		- FS22_Schaumann_Animal_Food_Pallet
-		- FS22_ForagePack
-		- FS22_Water_And_Diesel_Tank
-		- FS22_Yara_Fertilizer_Pallets
-		- FS22_YaraBigBagFertilizer
-		- FS22_Bags_and_Support_Package
-		- FS22_CzeBigBag
-		- FS22_BigBagCattlePack
-		- FS22_FertilizerBigBagsPack
-		- FS22_FinnishBagsNPallets
-		- FS22_PolandBigBags
-		- FS22_PolishBigBag
-		- FS22_Holmakra
-		- Bald noch mehr!
-		]]></de>
-	<cz><![CDATA[Rozšíření k modu UniversalAutoload, které umožňuje přidat další konfigurace pro velké množství různých vozidel z Modhubu. Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. 
+Für Fehlerberichte, Hilfe und Mod-Vorschläge besuchen Sie bitte "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+        ]]></de>
+    <cz><![CDATA[Rozšíření k modu UniversalAutoload, které umožňuje přidat další konfigurace pro velké množství různých vozidel z Modhubu. Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. 
+Aktuálně podporovaná vozidla:
+- FS22_20ftGooseneck
+- FS22_2PTS_6
+- FS22_2PTS_6_console
+- FS22_Fliegl_SDS350J
+- FS22_Krone_Profi_Liner_HD
+- FS22_Profi_Liner_Flatbed
+- FS22_JohnDeere_Gator_Pack
+- FS22_selfMadeTrailer
+- FS22_reischPack
+- FS22_JoskinWagoLoader
+- FS22_TLX2020_Series
+- FS22_lizardCarTrailer
+- FS22_strautmannSEK802
+- FS22_strautmannSZK802
+- FS22_lindnerUnitrac122LDrive
+- FS22_allPurposeTool
+- FS22_Bailey_Bale_Pallet_Trailer
+- FS22_Brantner_DD_24073
+- FS22_DPW_1800
+- FS22_flieglDPW180
+- FS22_flieglDPWpack
+- FS22_flieglFlatbed
+- FS22_Hw80_pack
+- FS22_LizardSantana88
+- FS22_Lizard_Selfmade_Tow_Truck
+- FS22_PerardPack (only flatbed trailers)
+- FS22_PongePack (only flatbed trailers)
+- FS22_RollandPack (only flatbed trailers)
+- FS22_TLX3500_Series
+- FS22_TLX_Phoenix
+- FS22_orkelTX130
+- FS22_adurante_R200A_crossplay
+- FS22_Pack_Aguas_Tenias_Platforms
+- FS22_lizardFlatbedTrailer
+- FS22_JohnDeere_1075HayWagon
+- FS22_lizardTrailerPack
+- FS22_Randon_BulkCarrier_RLine
+- FS22_MAN_TGX_26640_Platform
+- FS22_PTS_4_5_BURLAK_Pack
+- FS22_OldLowTrailer
+- FS22_Tps_001
+- FS22_lizard_sp03_crossplay
+- FS22_camara_sp03
+- FS22_LizardTrailer
+- FS22_53ftDryVan
+- FS22_flatBedTrailerCombo_AutoPack
+- FS22_dropdeckTrailer53Ft_AutoPack_crossplay
+- FS22_dropdeckTrailer53Ft_AutoPack
+- FS22_PackingFacility
+- FS22_seeds_addon_crossplay
+- FS22_SeedPotatoFarmBuildings
+- FS22_MapleSyrupProduction
+- FS22_DieselCanister
+- FS22_Farm_Supply_Pack
+- FS22_IndustrialSugar
+- FS22_Pallets_And_Bags_Pack
+- FS22_Pioneer_Seeds
+- FS22_PolishFertilizersPallets
+- FS22_Schaumann_Animal_Food_Pallet
+- FS22_ForagePack
+- FS22_Water_And_Diesel_Tank
+- FS22_Yara_Fertilizer_Pallets
+- FS22_YaraBigBagFertilizer
+- FS22_Bags_and_Support_Package
+- FS22_CzeBigBag
+- FS22_BigBagCattlePack
+- FS22_FertilizerBigBagsPack
+- FS22_FinnishBagsNPallets
+- FS22_PolandBigBags
+- FS22_PolishBigBag
+- FS22_Holmakra
+- A další budou přidávána!
 
-		Aktuálně podporovaná vozidla:
-		- FS22_20ftGooseneck
-		- FS22_2PTS_6
-		- FS22_2PTS_6_console
-		- FS22_Fliegl_SDS350J
-		- FS22_Krone_Profi_Liner_HD
-		- FS22_Profi_Liner_Flatbed
-		- FS22_JohnDeere_Gator_Pack
-		- FS22_selfMadeTrailer
-		- FS22_reischPack
-		- FS22_JoskinWagoLoader
-		- FS22_TLX2020_Series
-		- FS22_lizardCarTrailer
-		- FS22_strautmannSEK802
-		- FS22_strautmannSZK802
-		- FS22_lindnerUnitrac122LDrive
-		- FS22_allPurposeTool
-		- FS22_Bailey_Bale_Pallet_Trailer
-		- FS22_Brantner_DD_24073
-		- FS22_DPW_1800
-		- FS22_flieglDPW180
-		- FS22_flieglDPWpack
-		- FS22_flieglFlatbed
-		- FS22_Hw80_pack
-		- FS22_LizardSantana88
-		- FS22_Lizard_Selfmade_Tow_Truck
-		- FS22_PerardPack (only flatbed trailers)
-		- FS22_PongePack (only flatbed trailers)
-		- FS22_RollandPack (only flatbed trailers)
-		- FS22_TLX3500_Series
-		- FS22_TLX_Phoenix
-		- FS22_orkelTX130
-		- FS22_adurante_R200A_crossplay
-		- FS22_Pack_Aguas_Tenias_Platforms
-		- FS22_lizardFlatbedTrailer
-		- FS22_JohnDeere_1075HayWagon
-		- FS22_lizardTrailerPack
-		- FS22_Randon_BulkCarrier_RLine
-		- FS22_MAN_TGX_26640_Platform
-		- FS22_PTS_4_5_BURLAK_Pack
-		- FS22_OldLowTrailer
-		- FS22_Tps_001
-		- FS22_lizard_sp03_crossplay
-		- FS22_camara_sp03
-		- FS22_LizardTrailer
-		- FS22_53ftDryVan
-		- FS22_flatBedTrailerCombo_AutoPack
-		- FS22_dropdeckTrailer53Ft_AutoPack_crossplay
-		- FS22_dropdeckTrailer53Ft_AutoPack
-		- FS22_PackingFacility
-		- FS22_seeds_addon_crossplay
-		- FS22_SeedPotatoFarmBuildings
-		- FS22_MapleSyrupProduction
-		- FS22_DieselCanister
-		- FS22_Farm_Supply_Pack
-		- FS22_IndustrialSugar
-		- FS22_Pallets_And_Bags_Pack
-		- FS22_Pioneer_Seeds
-		- FS22_PolishFertilizersPallets
-		- FS22_Schaumann_Animal_Food_Pallet
-		- FS22_ForagePack
-		- FS22_Water_And_Diesel_Tank
-		- FS22_Yara_Fertilizer_Pallets
-		- FS22_YaraBigBagFertilizer
-		- FS22_Bags_and_Support_Package
-		- FS22_CzeBigBag
-		- FS22_BigBagCattlePack
-		- FS22_FertilizerBigBagsPack
-		- FS22_FinnishBagsNPallets
-		- FS22_PolandBigBags
-		- FS22_PolishBigBag
-		- FS22_Holmakra
-		- A další budou přidávána!
-		]]></cz>	    
+Hlášení chyb, nápovědu a návrhy úprav naleznete na adrese "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+        ]]></cz>	    
     </description>
 
     <multiplayer supported="true"/>
