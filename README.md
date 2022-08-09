@@ -76,3 +76,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_PolandBigBags](https://www.farming-simulator.com/mod.php?mod_id=227577&title=fs2022)
 - [FS22_PolishBigBag](https://www.farming-simulator.com/mod.php?mod_id=227302&title=fs2022)
 - [FS22_Holmakra](https://farming-simulator.com/mod.php?mod_id=245260&title=fs2022)
+- [FS22_GlobalTransportPallet](https://farming-simulator.com/mod.php?mod_id=250753&title=fs2022)

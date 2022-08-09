@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <universalAutoLoad>
+    <objectTypes>
+        <objectType name="FS22_GlobalTransportPallet:globalpallet"/>
+        <objectType name="FS22_GlobalTransportPallet:globalpallet_liquids"/>
+    </objectTypes>
     <containerConfigurations>
         <!-- <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:whiskeyPallet" sizeY="0.765" containerType="EURO_PALLET"/>
         <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:soymilkPallet" sizeY="0.765" containerType="EURO_PALLET"/>
@@ -79,9 +83,6 @@
 
         <containerConfiguration name="FS22_IndustrialSugar:sugarPallet" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
 		<containerConfiguration name="FS22_IndustrialSugar:sugarBigBag" containerType="BIGBAG"/>
-
-        <!-- <containerConfiguration name="FS22_LiftablePallets:bigBag" containerType="BIGBAG"/>
-        <containerConfiguration name="FS22_LiftablePallets:bigBagPallet" containerType="BIGBAG_PALLET"/> -->
 
         <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Osivo" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
         <containerConfiguration name="FS22_Pallets_And_Bags_Pack:Hnojivo" containerType="EURO_PALLET" sizeX="1.350" sizeY="0.833" sizeZ="1.050"/>
@@ -191,5 +192,10 @@
         <containerConfiguration name="FS22_Holmakra:pallet1dry" containerType="EURO_PALLET" sizeX="4.85" sizeY="0.75" sizeZ="1.15"/>
         <containerConfiguration name="FS22_Holmakra:pallet2dry" containerType="EURO_PALLET" sizeX="4.85" sizeY="0.85" sizeZ="1.15"/>
         <containerConfiguration name="FS22_Holmakra:pallet3dry" containerType="EURO_PALLET" sizeX="4.85" sizeY="0.85" sizeZ="1.15"/>
+
+        <containerConfiguration name="FS22_GlobalTransportPallet:transportpallet" containerType="EURO_PALLET" sizeX="2.90" sizeY="2.25" sizeZ="1.85" neverStack="true"/>
+        <containerConfiguration name="FS22_GlobalTransportPallet:transportbag" containerType="BIGBAG" sizeX="2.80" sizeY="2.0" sizeZ="1.75" neverStack="true"/>
+        <containerConfiguration name="FS22_GlobalTransportPallet:transportpallet_liquids" containerType="EURO_PALLET" sizeX="2.90" sizeY="2.25" sizeZ="1.85" neverStack="true"/>
+        <containerConfiguration name="FS22_GlobalTransportPallet:transportbag_liquids" containerType="BIGBAG" sizeX="2.80" sizeY="2.0" sizeZ="1.75" neverStack="true"/>
     </containerConfigurations>
 </universalAutoLoad>
