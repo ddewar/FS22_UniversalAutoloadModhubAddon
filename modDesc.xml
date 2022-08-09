@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="67">
-    <author>ddewar, loki_79</author>
+    <author>loki_79, ddewar</author>
     <version>1.0.0.0</version>
 
     <title>
         <en>Universal Autoload ModHub Add-on</en>
+        <de>Universal Autoload ModHub-Zusatzmodul</de>
         <fr>Complément ModHub Pour Autoload Universel</fr>
         <ru>Универсальная Aвтозагрузка ModHub Add-on</ru>
         <nl>Universele Autoload ModHub Add-on</nl>
         <cz>Univerzální Autoload ModHub Doplněk</cz>
         <pl>Universalne Autoładowanie ModHub Add-on</pl>
-        <de>Universal Autoload ModHub-Zusatzmodul</de>
     </title>
-    <description>
-        <en><![CDATA[Add-on to Universal Autoload to add support for a large selection of ModHub vehicles. This mod adds configurations for many popular ModHub vehicles and trailers.
+	
+    <multiplayer supported="true"/>
+    <iconFilename>modIcon.dds</iconFilename>
 
-For bug reports, help, and mod suggestions please visit "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+    <extraSourceFiles>
+        <sourceFile filename="UniversalAutoloadModhubAddonInstaller.lua"/>
+    </extraSourceFiles>
+    <dependencies>
+        <dependency>FS22_UniversalAutoload</dependency>
+    </dependencies>
+	
+    <description>
+<en><![CDATA[Add-on to Universal Autoload to include support for a large selection of ModHub vehicles.
+
+This mod adds configurations for many popular ModHub vehicles and trailers. For bug reports, help and mod suggestions please visit: https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon
 
 Currently Supported:
 - FS22_20ftGooseneck
@@ -90,10 +101,12 @@ Currently Supported:
 - FS22_PolishBigBag
 - FS22_Holmakra
 - More to come!
-        ]]></en>
-        <de><![CDATA[Erweiterung für Universal Autoload. Dieser Mod fügt Autoload Konfigurationen für viele beliebte ModHub Fahrzeuge und Anhänger hinzu.
+]]>
+</en>
 
-Für Fehlerberichte, Hilfe und Mod-Vorschläge besuchen Sie bitte "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+<de><![CDATA[Erweiterung für Universal Autoload.
+
+Dieser Mod fügt Autoload Konfigurationen für viele beliebte ModHub Fahrzeuge und Anhänger hinzu. Für Fehlerberichte, Hilfe und Mod-Vorschläge besuchen Sie bitte: https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon
 
 Momentan unterstützt:
 - FS22_20ftGooseneck
@@ -168,10 +181,90 @@ Momentan unterstützt:
 - FS22_PolishBigBag
 - FS22_Holmakra
 - Bald noch mehr!
-        ]]></de>
-    <cz><![CDATA[Rozšíření k modu Univerzální Autoload, které umožňuje přidat další konfigurace pro velké množství různých vozidel z Modhubu. Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. 
+]]></de>
 
-Hlášení chyb, nápovědu a návrhy úprav naleznete na adrese "https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon"
+<fr><![CDATA[Complément à Autoload Universel permettant le support d'une large sélection de véhicules du ModHub.
+
+Ce mod permet d'ajouter les fonctionnalités de l'Autoload Universel pour de nombreux véhicules et remorques du ModHub. Pour la déclaration d'erreurs, le support ou encore des suggestions d'améliorations, rendez-vous sur : https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon
+
+Liste des mods actuellement pris en charge :
+- FS22_20ftGooseneck
+- FS22_2PTS_6
+- FS22_2PTS_6_console
+- FS22_Fliegl_SDS350J
+- FS22_Krone_Profi_Liner_HD
+- FS22_Profi_Liner_Flatbed
+- FS22_JohnDeere_Gator_Pack
+- FS22_selfMadeTrailer
+- FS22_reischPack
+- FS22_JoskinWagoLoader
+- FS22_TLX2020_Series
+- FS22_lizardCarTrailer
+- FS22_strautmannSEK802
+- FS22_strautmannSZK802
+- FS22_lindnerUnitrac122LDrive
+- FS22_allPurposeTool
+- FS22_Bailey_Bale_Pallet_Trailer
+- FS22_Brantner_DD_24073
+- FS22_DPW_1800
+- FS22_flieglDPW180
+- FS22_flieglDPWpack
+- FS22_flieglFlatbed
+- FS22_Hw80_pack
+- FS22_LizardSantana88
+- FS22_Lizard_Selfmade_Tow_Truck
+- FS22_PerardPack (uniquement les remorques à plateau)
+- FS22_PongePack (uniquement les remorques à plateau)
+- FS22_RollandPack (uniquement les remorques à plateau)
+- FS22_TLX3500_Series
+- FS22_TLX_Phoenix
+- FS22_orkelTX130
+- FS22_adurante_R200A_crossplay
+- FS22_Pack_Aguas_Tenias_Platforms
+- FS22_lizardFlatbedTrailer
+- FS22_JohnDeere_1075HayWagon
+- FS22_lizardTrailerPack
+- FS22_Randon_BulkCarrier_RLine
+- FS22_MAN_TGX_26640_Platform
+- FS22_PTS_4_5_BURLAK_Pack
+- FS22_OldLowTrailer
+- FS22_Tps_001
+- FS22_lizard_sp03_crossplay
+- FS22_camara_sp03
+- FS22_LizardTrailer
+- FS22_53ftDryVan
+- FS22_flatBedTrailerCombo_AutoPack
+- FS22_dropdeckTrailer53Ft_AutoPack_crossplay
+- FS22_dropdeckTrailer53Ft_AutoPack
+- FS22_PackingFacility
+- FS22_seeds_addon_crossplay
+- FS22_SeedPotatoFarmBuildings
+- FS22_MapleSyrupProduction
+- FS22_DieselCanister
+- FS22_Farm_Supply_Pack
+- FS22_IndustrialSugar
+- FS22_Pallets_And_Bags_Pack
+- FS22_Pioneer_Seeds
+- FS22_PolishFertilizersPallets
+- FS22_Schaumann_Animal_Food_Pallet
+- FS22_ForagePack
+- FS22_Water_And_Diesel_Tank
+- FS22_Yara_Fertilizer_Pallets
+- FS22_YaraBigBagFertilizer
+- FS22_Bags_and_Support_Package
+- FS22_CzeBigBag
+- FS22_BigBagCattlePack
+- FS22_FertilizerBigBagsPack
+- FS22_FinnishBagsNPallets
+- FS22_PolandBigBags
+- FS22_PolishBigBag
+- FS22_Holmakra
+- Plus à venir!
+]]></fr>
+
+<cz><![CDATA[Rozšíření k modu Univerzální Autoload, které umožňuje přidat další konfigurace pro velké množství různých vozidel z Modhubu.
+
+Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. Hlášení chyb, nápovědu a návrhy úprav naleznete na adrese: https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon
 
 Aktuálně podporovaná vozidla:
 - FS22_20ftGooseneck
@@ -246,14 +339,7 @@ Aktuálně podporovaná vozidla:
 - FS22_PolishBigBag
 - FS22_Holmakra
 - A další budou přidávána!
-
-]]></cz>	    
+]]>
+</cz>
     </description>
-
-    <multiplayer supported="true"/>
-    <iconFilename>modIcon.dds</iconFilename>
-
-    <extraSourceFiles>
-        <sourceFile filename="UniversalAutoloadModhubAddonInstaller.lua"/>
-    </extraSourceFiles>
 </modDesc>
