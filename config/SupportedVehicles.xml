@@ -395,5 +395,20 @@
             <loadingArea offset="0 0.40 0.20" width="2.50" height="1.85" length="7.05" baleHeight="2.80"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_ITRunnerPack2433HD_2633HD/containerWood2.xml" selectedConfigs="2,3,4,5,6,7,8,9,10,11,12,13,14,15">
+            <loadingArea offset="0 0.40 -0.52" width="2.25" height="1.85" length="5.40" baleHeight="2.80"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_ITRunnerPack2433HD_2633HD/containerWood2.xml" selectedConfigs="1">
+            <loadingArea offset="0 0.40 -0.59" width="2.50" height="1.85" length="5.50" baleHeight="2.80"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_4000_H/4000_H.xml" selectedConfigs="1">
+            <loadingArea offset="0 0.40 0.25" width="2.50" height="1.85" length="7.10" baleHeight="2.80"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_4000_H/4000_H.xml" selectedConfigs="2">
+            <loadingArea offset="0 0.40 0.25" width="3.65" height="1.85" length="7.10" baleHeight="2.80" />
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

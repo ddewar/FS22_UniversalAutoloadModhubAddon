@@ -52,6 +52,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_dropdeckTrailer53Ft_AutoPack_crossplay](https://www.farming-simulator.com/?mod.php?mod_id=242220&title=fs2022)
 - [FS22_dropdeckTrailer53Ft_AutoPack](https://www.farming-simulator.com/mod.php?mod_id=238153&title=fs2022)
 - [FS22_ITRunnerPack2433HD_2633HD](https://farming-simulator.com/mod.php?mod_id=247553&title=fs2022)
+- [FS22_4000_H](https://farming-simulator.com/mod.php?mod_id=232175&title=fs2022)
 
 ## Currently Supported Containers:
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
