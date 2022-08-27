@@ -417,5 +417,9 @@
         <vehicleConfiguration configFileName="FS22_Fiat682_N4/fiat682N4.xml">
             <loadingArea offset="0 1.39 -2.36" width="2.32" height="1.3" length="4.72"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Fiat190_48_TurboStar/TurboStar190.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.50 -2.90" width="2.40" height="1.8" length="6.50" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
