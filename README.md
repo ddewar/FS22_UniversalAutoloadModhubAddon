@@ -56,6 +56,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_lommaZDK1802Pack](https://www.farming-simulator.com/mod.php?mod_id=237992&title=fs2022)
 - [FS22_Fiat682_N4](https://www.farming-simulator.com/mod.php?mod_id=245649&title=fs2022)
 - [FS22_Fiat190_48_TurboStar](https://www.farming-simulator.com/mod.php?mod_id=252000&title=fs2022)
+- [FS22_Iveco190_48_TurboStar](https://www.farming-simulator.com/mod.php?mod_id=251870&title=fs2022)
 
 ## Currently Supported Containers:
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
