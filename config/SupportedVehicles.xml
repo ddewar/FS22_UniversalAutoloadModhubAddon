@@ -425,5 +425,9 @@
             <loadingArea offset="0 1.50 -2.90" width="2.40" height="1.8" length="6.50" baleHeight="2.75"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_SemiTrailer/SemiTrailer.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.45 0.90" width="2.22" height="1.8" length="7.75" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
