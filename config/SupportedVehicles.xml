@@ -429,5 +429,8 @@
             <loadingArea offset="0 1.45 0.90" width="2.22" height="1.8" length="7.75" baleHeight="2.75"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_tatraPhoenixKipper/phoenix.xml" selectedConfigs="1">
+            <loadingArea offset="0 1.57 -1.60" width="2.43" height="1.4" length="4.65" baleHeight="2.80"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
