@@ -287,8 +287,12 @@
             <loadingArea offset="0 1.65 -0.40" width="2.40" height="1.70" length="13.45" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_36ftLowLoader/36FT_Low_Loader.xml">
+        <vehicleConfiguration configFileName="FS22_36ftLowLoader/36FT_Low_Loader.xml" selectedConfigs="3">
             <loadingArea offset="0 1.65 1.10" width="2.9" height="1.45" length="2.3" baleHeight="1.95"/>
+            <loadingArea offset="0 1.10 -5.30" width="2.9" height="2.0" length="9.70" baleHeight="2.50"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_36ftLowLoader/36FT_Low_Loader.xml" selectedConfigs="1,2">
             <loadingArea offset="0 1.10 -5.30" width="2.9" height="2.0" length="9.70" baleHeight="2.50"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
