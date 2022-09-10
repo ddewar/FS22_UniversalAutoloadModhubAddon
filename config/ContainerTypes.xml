@@ -197,5 +197,21 @@
         <containerConfiguration name="FS22_GlobalTransportPallet:transportbag" containerType="BIGBAG" sizeX="2.80" sizeY="2.0" sizeZ="1.75" neverStack="true"/>
         <containerConfiguration name="FS22_GlobalTransportPallet:transportpallet_liquids" containerType="EURO_PALLET" sizeX="2.90" sizeY="2.25" sizeZ="1.85" neverStack="true"/>
         <containerConfiguration name="FS22_GlobalTransportPallet:transportbag_liquids" containerType="BIGBAG" sizeX="2.80" sizeY="2.0" sizeZ="1.75" neverStack="true"/>
+    
+        <!-- MiddleburghNY Custom Pallets -->
+        <containerConfiguration name="FS22_Middleburgh:bagelBoxPallet" sizeX="1.25" sizeY="1.0" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:doughnutBoxPallet" sizeX="1.25" sizeY="1.0" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:doughnutBoxPallet" sizeX="1.25" sizeY="1.0" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:beerPallet" sizeX="1.25" sizeY="1.12" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:cornWhiskeyPallet" sizeX="1.25" sizeY="1.12" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:whiskeyPallet" sizeX="1.25" sizeY="1.12" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:frenchFryBoxPallet" sizeX="1.25" sizeY="0.8" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:potatoChipBoxPallet" sizeX="1.25" sizeY="0.8" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:crackedCornPallet" sizeX="1.25" sizeY="0.8" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:rolledBarleyPallet" sizeX="1.25" sizeY="0.8" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:cornSyrupPallet" sizeX="1.25" sizeY="0.48" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:sodaBoxPallet" sizeX="1.25" sizeY="1.0" sizeZ="0.85" containerType="EURO_PALLET" />
+        <containerConfiguration name="FS22_Middleburgh:winePallet_component1" sizeX="1.25" sizeY="1.15" sizeZ="0.85" containerType="EURO_PALLET" />
+
     </containerConfigurations>
 </universalAutoLoad>
