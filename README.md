@@ -59,6 +59,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_Iveco190_48_TurboStar](https://www.farming-simulator.com/mod.php?mod_id=251870&title=fs2022)
 - [FS22_SemiTrailer](https://farming-simulator.com/mod.php?mod_id=246086&title=fs2022)
 - [FS22_tatraPhoenixKipper](https://www.farming-simulator.com/mod.php?mod_id=243003&title=fs2022)
+- [FS22_marston22ftBaleTrailer_1993](https://www.farming-simulator.com/mod.php?mod_id=252407&title=fs2022)
 
 ## Currently Supported Containers:
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)

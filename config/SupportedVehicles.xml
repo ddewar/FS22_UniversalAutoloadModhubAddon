@@ -436,5 +436,9 @@
         <vehicleConfiguration configFileName="FS22_tatraPhoenixKipper/phoenix.xml" selectedConfigs="1">
             <loadingArea offset="0 1.57 -1.60" width="2.43" height="1.4" length="4.65" baleHeight="2.80"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_marston22ftBaleTrailer_1993/trailer_1993.xml">  
+            <loadingArea offset="0.000 1.03 -0.70" width="2.40" height="2.00" length="6.50" baleHeight="2.50"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
