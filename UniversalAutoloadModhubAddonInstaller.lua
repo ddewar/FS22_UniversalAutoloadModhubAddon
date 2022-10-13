@@ -10,6 +10,7 @@ function UniversalAutoloadModhubAddonManager:loadMap(name)
         print("MODHUB ADDON: IMPORT vehicle configurations")
         FS22_UniversalAutoload.UniversalAutoloadManager.ImportVehicleConfigurations(vehicleSettingsFile)
         print("MODHUB ADDON: IMPORT container configurations")
+        FS22_UniversalAutoload.UniversalAutoloadManager.ImportGlobalSettings(containerSettingsFile)
         FS22_UniversalAutoload.UniversalAutoloadManager.ImportContainerTypeConfigurations(containerSettingsFile, true)
     else 
         print("FS22_UniversalAutoload is required for FS22_UniversalAutoloadModhubAddon") 
