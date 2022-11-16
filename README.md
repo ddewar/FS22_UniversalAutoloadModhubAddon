@@ -63,6 +63,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_McCauleyLowloader](https://www.farming-simulator.com/mod.php?mod_id=252504&title=fs2022)
 - [FS22_RandonBitrem](https://www.farming-simulator.com/mod.php?mod_id=252491&title=fs2022)
 - [FS22_Goldhofer_StzVp3](https://www.farming-simulator.com/mod.php?mod_id=239983&title=fs2022)
+- [FS22_Goldhofer_STZSpezial](https://www.farming-simulator.com/mod.php?mod_id=237603&title=fs2022)
 
 ## Currently Supported Containers:
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
