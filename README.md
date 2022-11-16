@@ -3,7 +3,7 @@ This mod will import configurations into [FS22_UniversalAutoload](https://github
 This mod will get expanded with new mods through PR and requests in the issues section.
 
 ## Currently Supported Vehicles:
-- [FS22_20ftGooseneck](https://farming-simulator.com/mod.php?mod_id=230225&title=fs2022)
+- [FS22_20ftGooseneck](https://farming-simulator.com/mod.php?mod_id=247589&title=fs2022)
 - [FS22_2PTS_6](https://farming-simulator.com/mod.php?mod_id=230598&title=fs2022)
 - [FS22_2PTS_6_console](https://farming-simulator.com/mod.php?mod_id=233370&title=fs2022)
 - [FS22_Fliegl_SDS350J](https://farming-simulator.com/mod.php?mod_id=226313&title=fs2022)
@@ -62,6 +62,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_marston22ftBaleTrailer_1993](https://www.farming-simulator.com/mod.php?mod_id=252407&title=fs2022)
 - [FS22_McCauleyLowloader](https://www.farming-simulator.com/mod.php?mod_id=252504&title=fs2022)
 - [FS22_RandonBitrem](https://www.farming-simulator.com/mod.php?mod_id=252491&title=fs2022)
+- [FS22_Goldhofer_StzVp3](https://www.farming-simulator.com/mod.php?mod_id=239983&title=fs2022)
 
 ## Currently Supported Containers:
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
