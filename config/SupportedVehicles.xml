@@ -87,7 +87,7 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Bailey_Bale_Pallet_Trailer/BPTrailer.xml" >
             <loadingArea offset="0 1.08 -0.65" width="2.55" height="1.50" length="6.70" baleHeight="2.50"/>
-            <options enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Brantner_DD_24073/dd24073.xml" selectedConfigs="1,4,5">
             <loadingArea offset="0 1.43 -0.70" width="2.45" height="1.70" length="7.20" baleHeight="2.50"/>
@@ -100,15 +100,15 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglDPW180/flieglDPW180.xml">
             <loadingArea offset="0 1.11 -0.40" width="2.45" height="2.00" length="9.90" baleHeight="2.80"/>
-            <options enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglDPWpack/flieglDPW180.xml">
             <loadingArea offset="0 1.11 -0.40" width="2.45" height="2.00" length="9.90" baleHeight="2.80"/>
-            <options enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglDPWpack/flieglDPW120.xml">
             <loadingArea offset="0 1.11 0.45" width="2.45" height="2.00" length="8.25" baleHeight="2.80"/>
-            <options enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglFlatbed/flieglFlatbed.xml" selectedConfigs="1">
             <loadingArea offset="0 1.53 0.20" width="2.50" height="2.0" length="11.65" baleHeight="2.75"/>
@@ -143,11 +143,11 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_RollandPack/LSEL10006/LSEL10006_Square.xml">
             <loadingArea offset="0 1.137 -0.161" width="2.352" height="1.90" length="9.627" baleHeight="3.00"/>
-            <options enableRearLoading="true" enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_RollandPack/LSP9004/LSP9004_Square.xml">
             <loadingArea offset="0 1.137 -0.654" width="2.352" height="1.90" length="8.432" baleHeight="3.00"/>
-            <options enableRearLoading="true" enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PerardPack/platosol/platosol.xml">
             <loadingArea offset="0 0.923 0.05" width="2.109" height="1.70" length="5.651" baleHeight="3.00"/>
@@ -219,7 +219,7 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_JohnDeere_1075HayWagon/1075Rack.xml" selectedConfigs="2">
             <loadingArea offset="0 1.00 -1.78" width="2.70" height="2.00" length="5.43" baleHeight="2.70"/>
-            <options enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
 		    <vehicleConfiguration configFileName="FS22_lizardTrailerPack/lizardD83.xml" selectedConfigs="7,8">
             <loadingArea offset="0 1.50 0" width="2.35" height="2.5" length="6.2"/>
@@ -450,7 +450,7 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_marston22ftBaleTrailer_1993/trailer_1993.xml">  
             <loadingArea offset="0.000 1.03 -0.70" width="2.40" height="2.00" length="6.50" baleHeight="2.50"/>
-            <options enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_McCauleyLowloader/lowloader.xml">  
             <loadingArea offset="0.000 0.94 0.74" width="2.40" height="2.00" length="5.43" baleHeight="2.50"/>
