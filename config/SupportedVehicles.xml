@@ -546,5 +546,9 @@
             <loadingArea offset="0 0.85 -2.55" width="1.80" height="1.25" length="5"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_MaizePlus/data/stadeZW4010/StadeZW4010.xml">  
+            <loadingArea offset="-0.100 1.10 0.80" width="1.44" height="1.75" length="1.44"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
