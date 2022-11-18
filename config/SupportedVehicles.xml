@@ -522,5 +522,17 @@
             <loadingArea offset="0 1.666 -0.05" width="2.40" height="2.2" length="12.3"/>
 			<options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TimberPack/xml/TimberSemi.xml">
+            <loadingArea offset="0 1.666 -0.05" width="2.40" height="2.50" length="12.3"/>
+			<options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TimberPack/xml/Trailer.xml" >  
+            <loadingArea offset="0 1.67 -0.20" width="2.35" height="2.50" length="7.0"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TimberPack/xml/Trailer3.xml" >  
+            <loadingArea offset="0 1.67 -0.20" width="2.35" height="2.15" length="7.0"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

@@ -71,6 +71,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_LizardLT699LogTrailer](https://www.farming-simulator.com/mod.php?mod_id=253186&title=fs2022)
 - [FS22_ShortTimberTrailer](https://www.farming-simulator.com/mod.php?mod_id=225491&title=fs2022)
 - [FS22_Longbunktimber](https://www.farming-simulator.com/mod.php?mod_id=254475&title=fs2022)
+- [FS22_TimberPack](https://www.farming-simulator.com/mod.php?mod_id=250084&title=fs2022)
 
 ## Currently Supported Containers:
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
