@@ -514,5 +514,9 @@
             <loadingArea offset="0 1.85 -0.05" width="2.30" height="1.75" length="13.0"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_ShortTimberTrailer/Trailer.xml" >  
+            <loadingArea offset="0 1.67 -0.20" width="2.35" height="2.50" length="7.0"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
