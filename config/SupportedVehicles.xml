@@ -498,5 +498,9 @@
             <loadingArea offset="0 1.35 0.25" width="1.95" height="1.60" length="6.0"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Kesla_144ND/nd122.xml">
+            <loadingArea offset="0 0.888 -0.30" width="2.20" height="1.7" length="4.2"/>
+			<options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
