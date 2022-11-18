@@ -510,5 +510,9 @@
             <loadingArea offset="0 1.35 -0.05" width="3.25" height="1.75" length="8.0"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardLT699LogTrailer/lt699.xml" >  
+            <loadingArea offset="0 1.85 -0.05" width="2.30" height="1.75" length="13.0"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

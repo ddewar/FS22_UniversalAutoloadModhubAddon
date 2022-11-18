@@ -68,6 +68,7 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_Kesla_144ND](https://www.farming-simulator.com/mod.php?mod_id=232093&title=fs2022)
 - [FS22_LizardLT679SmallLogTrailer](https://www.farming-simulator.com/mod.php?mod_id=245565&title=fs2022)
 - [FS22_LizardLT689LogTrailer](https://www.farming-simulator.com/mod.php?mod_id=245566&title=fs2022)
+- [FS22_LizardLT699LogTrailer](https://www.farming-simulator.com/mod.php?mod_id=253186&title=fs2022)
 
 ## Currently Supported Containers:
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
