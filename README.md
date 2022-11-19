@@ -125,3 +125,5 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_GlobalTransportPallet](https://farming-simulator.com/mod.php?mod_id=250753&title=fs2022)
 - [FS22_MaizePlus](https://farming-simulator.com/mod.php?mod_id=253528&title=fs2022)
 </details>
+
+[Supported Mods](readMeRawData.md)

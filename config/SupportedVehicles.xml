@@ -5,11 +5,11 @@
             <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.00" length="7.50" baleHeight="2.50"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_20ftGooseneckSeries/20ftGooseneckFlatbed.xml">  
+        <vehicleConfiguration configFileName="FS22_20ftGooseneckSeries/20ftGooseneckFlatbed.xml" modHubId="247589">  
             <loadingArea offset="0.000 1.100 -0.300" width="3.00" height="2.00" length="7.50" baleHeight="2.50"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_2PTS_6/2PTS_6A.xml" selectedConfigs="1">
+        <vehicleConfiguration configFileName="FS22_2PTS_6/2PTS_6A.xml" selectedConfigs="1" modHubId="230598">
             <loadingArea offset="0 1.40 0.15" width="2.25" height="1.85" length="4.25" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
@@ -85,7 +85,7 @@
         <vehicleConfiguration configFileName="FS22_allPurposeTool/all-purpose-tool.xml">
             <loadingArea offset="0 0.15 0.80" width="3.50" height="2.25" length="1.90"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_Bailey_Bale_Pallet_Trailer/BPTrailer.xml" >
+        <vehicleConfiguration configFileName="FS22_Bailey_Bale_Pallet_Trailer/BPTrailer.xml" modHubId="228030">
             <loadingArea offset="0 1.08 -0.65" width="2.55" height="1.50" length="6.70" baleHeight="2.50"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
@@ -296,7 +296,7 @@
             <loadingArea offset="0 1.10 -5.30" width="2.9" height="2.0" length="9.70" baleHeight="2.50"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_53ftDryVan/dryvan.xml">  
+        <vehicleConfiguration configFileName="FS22_53ftDryVan/dryvan.xml" modHubId="248424">  
             <loadingArea offset="0.000 1.43 -0.25" width="2.40" height="2.60" length="15.40"/>
             <options enableRearLoading="true" noLoadingIfFolded="true"/>
         </vehicleConfiguration>
