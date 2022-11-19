@@ -5,7 +5,12 @@ This mod will get expanded with new mods through PR and requests in the issues s
 ## Currently Supported Mods
 
 <details>
-  <summary>Trailers</summary>
+  <summary>
+
+  
+    # Trailers
+  
+  </summary>
 
 - [FS22_20ftGooseneck](https://farming-simulator.com/mod.php?mod_id=247589&title=fs2022)
 - [FS22_2PTS_6](https://farming-simulator.com/mod.php?mod_id=230598&title=fs2022)
@@ -126,4 +131,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_MaizePlus](https://farming-simulator.com/mod.php?mod_id=253528&title=fs2022)
 </details>
 
-[Supported Mods](readMeRawData.md)
+[Supported Mods](supportedMods.md)

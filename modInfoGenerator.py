@@ -6,13 +6,14 @@
 import xml.etree.ElementTree as ET
 import requests
 from bs4 import BeautifulSoup
+from collections import defaultdict
 
 class ModHubObject:
     def __init__(self):
         self.enableRearLoading = False
         self.enableSideLoading = False
         self.isBaleTrailer = False
-        self.isTimberTrailer = False
+        self.isLogTrailer = False
         self.isBoxTrailer = False
         self.isCurtainTrailer = False
         self.noLoadingIfFolded = False
@@ -32,7 +33,7 @@ class ModHubObject:
             'enableRearLoading': 'Rear Loading',
             'enableSideLoading': 'Side Loading',
             'isBaleTrailer': 'Bale Trailer',
-            'isTimberTrailer': 'Timber Trailer',
+            'isLogTrailer': 'Log Trailer',
             'isBoxTrailer': 'Box Trailer',
             'isCurtainTrailer': 'Curtain Trailer',
             'noLoadingIfFolded': 'No Loading When Folded',
@@ -58,34 +59,52 @@ class ModHubObject:
                 options.append(v)
         return ', '.join(options)
 
-xmlFile = ET.parse('config/SupportedVehicles.xml')
-readMeRawData = 'readMeRawData.md'
+configuredMods = defaultdict(dict)
 
-with open(readMeRawData, 'w') as out:
-    out.write('Title | Author | Loading Areas | Options' + '\n'  + '---|---|:---:|---' + '\n')
-    for x in xmlFile.getroot()[0]:
-        if 'modHubId' in x.attrib:
-            mho = ModHubObject()
-            mho.modFileName = x.attrib['configFileName']
-            mho.modHubId = x.attrib['modHubId']
-            print(f'Getting ModHub info for {mho.modHubId}')
+xmlFiles = [ 'config/ContainerTypes.xml', 'config/SupportedVehicles.xml']
+for xmlFile in xmlFiles:
+    xmlFile = ET.parse(xmlFile)
+    for y in xmlFile.getroot():
+        for x in y:
+            if 'modHubId' in x.attrib:
+                mho = ModHubObject()
+                if 'configFileName' in x.attrib:
+                    mho.modFileName = x.attrib['configFileName']
+                elif 'name' in x.attrib:
+                    mho.modFileName = x.attrib['name']
+                mho.modHubId = x.attrib['modHubId']
+                print(f'Getting ModHub info for {mho.modHubId}')
 
-            mho.url = f'https://www.farming-simulator.com/mod.php?mod_id={mho.modHubId}&title=fs2022'
-            page = requests.get(mho.url)
+                mho.url = f'https://www.farming-simulator.com/mod.php?mod_id={mho.modHubId}&title=fs2022'
+                page = requests.get(mho.url)
 
-            soup = BeautifulSoup(page.content, "html.parser")
+                soup = BeautifulSoup(page.content, "html.parser")
 
-            if not soup.find("h2", "column title-label"):
-                print(f'Skipping {mho.modHubId}')
-                continue
-            mho.title = soup.find("h2", "column title-label").text
-            mho.category = soup.find("div", "table table-game-info").findAll('div', "table-row")[2].findAll("div")[1].text
-            mho.author = soup.find("div", "table table-game-info").findAll('div', "table-row")[3].findAll("div")[1].text
-            mho.number_areas = len(x.findall('loadingArea'))
-            options = x.find('options')
-            for opt in mho.options_list():
-                if opt in options.attrib:
-                    if options.attrib[opt]:
-                        setattr(mho, opt, True)
+                if not soup.find("h2", "column title-label"):
+                    print(f'Skipping {mho.modHubId}')
+                    continue
+                mho.title = soup.find("h2", "column title-label").text
+                mho.category = soup.find("div", "table table-game-info").findAll('div', "table-row")[2].findAll("div")[1].text
+                mho.author = soup.find("div", "table table-game-info").findAll('div', "table-row")[3].findAll("div")[1].text
+                mho.number_areas = len(x.findall('loadingArea'))
+                xmlOptions = x.find('options')
+                if xmlOptions is not None:
+                    for opt in mho.options_list():
+                        if opt in xmlOptions.attrib:
+                            if xmlOptions.attrib[opt]:
+                                setattr(mho, opt, True)
 
-            out.write(mho.tableRow())
+                configuredMods.setdefault(mho.category, [])
+                configuredMods[mho.category].append(mho)
+
+supportedMods = 'supportedMods.md'
+with open(supportedMods, 'w') as out:
+    out.write(f'# Supported Mods \n\n')
+
+    for category, mods in configuredMods.items():
+        out.write(f'## {category} \n\n')
+        out.write('Title | Author | Loading Areas | Options Set' + '\n'  + '---|---|:---:|---' + '\n')
+        for mod in mods:
+            out.write(mod.tableRow())
+
+    out.write('\n\n')
