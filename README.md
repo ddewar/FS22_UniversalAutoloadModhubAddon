@@ -2,45 +2,36 @@
 This mod will import configurations into [FS22_UniversalAutoload](https://github.com/loki79uk/FS22_UniversalAutoload) for a selection of Modhub vehicles.
 This mod will get expanded with new mods through PR and requests in the issues section.
 
-## Currently Supported Vehicles:
+## Currently Supported Mods
+
+<details>
+  <summary>Trailers</summary>
+
 - [FS22_20ftGooseneck](https://farming-simulator.com/mod.php?mod_id=247589&title=fs2022)
 - [FS22_2PTS_6](https://farming-simulator.com/mod.php?mod_id=230598&title=fs2022)
 - [FS22_2PTS_6_console](https://farming-simulator.com/mod.php?mod_id=233370&title=fs2022)
 - [FS22_Fliegl_SDS350J](https://farming-simulator.com/mod.php?mod_id=226313&title=fs2022)
 - [FS22_Krone_Profi_Liner_HD](https://farming-simulator.com/mod.php?mod_id=233243&title=fs2022)
 - [FS22_Profi_Liner_Flatbed](https://farming-simulator.com/mod.php?mod_id=227132&title=fs2022)
-- [FS22_JohnDeere_Gator_Pack](https://farming-simulator.com/mod.php?mod_id=228440&title=fs2022)
 - [FS22_selfMadeTrailer](https://farming-simulator.com/mod.php?mod_id=229132&title=fs2022)
 - [FS22_reischPack](https://farming-simulator.com/mod.php?mod_id=224261&title=fs2022)
 - [FS22_JoskinWagoLoader](https://farming-simulator.com/mod.php?mod_id=231477&title=fs2022)
-- [FS22_TLX2020_Series](https://farming-simulator.com/mod.php?mod_id=228656&title=fs2022)
 - [FS22_lizardCarTrailer](https://farming-simulator.com/mod.php?mod_id=225214&title=fs2022)
 - [FS22_strautmannSEK802](https://farming-simulator.com/mod.php?mod_id=223851&title=fs2022)
 - [FS22_strautmannSZK802](https://farming-simulator.com/mod.php?mod_id=225699&title=fs2022)
 - [FS22_lindnerUnitrac122LDrive](https://farming-simulator.com/mod.php?mod_id=239534&title=fs2022)
 - [FS22_allPurposeTool](https://farming-simulator.com/mod.php?mod_id=227935&title=fs2022)
-- [FS22_Bailey_Bale_Pallet_Trailer](https://farming-simulator.com/mod.php?mod_id=228030&title=fs2022)
 - [FS22_Brantner_DD_24073](https://farming-simulator.com/mod.php?mod_id=227421&title=fs2022)
-- [FS22_DPW_1800](https://farming-simulator.com/mod.php?mod_id=231490&title=fs2022)
-- [FS22_flieglDPW180](https://farming-simulator.com/mod.php?mod_id=224967&title=fs2022)
-- [FS22_flieglDPWpack](https://farming-simulator.com/mod.php?mod_id=225492&title=fs2022)
 - [FS22_flieglFlatbed](https://farming-simulator.com/mod.php?mod_id=233995&title=fs2022)
 - [FS22_Hw80_pack](https://farming-simulator.com/mod.php?mod_id=229524&title=fs2022)
-- [FS22_LizardSantana88](https://farming-simulator.com/mod.php?mod_id=233087&title=fs2022)
-- [FS22_Lizard_Selfmade_Tow_Truck](https://farming-simulator.com/mod.php?mod_id=233191&title=fs2022)
-- [FS22_RollandPack](https://www.farming-simulator.com/mod.php?mod_id=225090&title=fs2022)
 - [FS22_PongePack](https://www.farming-simulator.com/mod.php?mod_id=229558&title=fs2022)
 - [FS22_PerardPack](https://www.farming-simulator.com/mod.php?mod_id=241424&title=fs2022)
-- [FS22_TLX3500_Series](https://farming-simulator.com/mod.php?mod_id=242995&title=fs2022)
-- [FS22_TLX_Phoenix](https://farming-simulator.com/mod.php?mod_id=234081&title=fs2022)
 - [FS22_orkelTX130](https://farming-simulator.com/mod.php?mod_id=226465&title=fs2022)
 - [FS22_adurante_R200A_crossplay](https://www.farming-simulator.com/mod.php?mod_id=125088)
 - [FS22_Pack_Aguas_Tenias_Platforms](https://www.farming-simulator.com/mod.php?mod_id=234121&title=fs2022)
 - [FS22_lizardFlatbedTrailer](https://farming-simulator.com/mod.php?mod_id=241140&title=fs2022)
-- [FS22_JohnDeere_1075HayWagon](https://farming-simulator.com/mod.php?mod_id=242834&title=fs2022)
 - [FS22_lizardTrailerPack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022)
 - [FS22_Randon_BulkCarrier_RLine](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022)
-- [FS22_MAN_TGX_26640_Platform](https://farming-simulator.com/mod.php?mod_id=233238&title=fs2022)
 - [FS22_PTS_4_5_BURLAK_Pack](https://farming-simulator.com/mod.php?mod_id=230595&title=fs2022)
 - [FS22_OldLowTrailer](https://farming-simulator.com/mod.php?mod_id=238293&title=fs2022)
 - [FS22_Tps_001](https://farming-simulator.com/mod.php?mod_id=233090&title=fs2022)
@@ -54,16 +45,28 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_ITRunnerPack2433HD_2633HD](https://farming-simulator.com/mod.php?mod_id=247553&title=fs2022)
 - [FS22_4000_H](https://farming-simulator.com/mod.php?mod_id=232175&title=fs2022)
 - [FS22_lommaZDK1802Pack](https://www.farming-simulator.com/mod.php?mod_id=237992&title=fs2022)
-- [FS22_Fiat682_N4](https://www.farming-simulator.com/mod.php?mod_id=245649&title=fs2022)
-- [FS22_Fiat190_48_TurboStar](https://www.farming-simulator.com/mod.php?mod_id=252000&title=fs2022)
-- [FS22_Iveco190_48_TurboStar](https://www.farming-simulator.com/mod.php?mod_id=251870&title=fs2022)
 - [FS22_SemiTrailer](https://farming-simulator.com/mod.php?mod_id=246086&title=fs2022)
-- [FS22_tatraPhoenixKipper](https://www.farming-simulator.com/mod.php?mod_id=243003&title=fs2022)
-- [FS22_marston22ftBaleTrailer_1993](https://www.farming-simulator.com/mod.php?mod_id=252407&title=fs2022)
 - [FS22_McCauleyLowloader](https://www.farming-simulator.com/mod.php?mod_id=252504&title=fs2022)
 - [FS22_RandonBitrem](https://www.farming-simulator.com/mod.php?mod_id=252491&title=fs2022)
 - [FS22_Goldhofer_StzVp3](https://www.farming-simulator.com/mod.php?mod_id=239983&title=fs2022)
 - [FS22_Goldhofer_STZSpezial](https://www.farming-simulator.com/mod.php?mod_id=237603&title=fs2022)
+</details>
+
+<details>
+  <summary>Bale Trailers</summary>
+
+- [FS22_Bailey_Bale_Pallet_Trailer](https://farming-simulator.com/mod.php?mod_id=228030&title=fs2022)
+- [FS22_flieglDPW180](https://farming-simulator.com/mod.php?mod_id=224967&title=fs2022)
+- [FS22_flieglDPWpack](https://farming-simulator.com/mod.php?mod_id=225492&title=fs2022)
+- [FS22_RollandPack](https://www.farming-simulator.com/mod.php?mod_id=225090&title=fs2022)
+- [FS22_JohnDeere_1075HayWagon](https://farming-simulator.com/mod.php?mod_id=242834&title=fs2022)
+- [FS22_marston22ftBaleTrailer_1993](https://www.farming-simulator.com/mod.php?mod_id=252407&title=fs2022)
+- [FS22_DPW_1800](https://farming-simulator.com/mod.php?mod_id=231490&title=fs2022)
+</details>
+
+<details>
+  <summary>Timber Trailers</summary>
+
 - [FS22_HW80WoodTrailer](https://www.farming-simulator.com/mod.php?mod_id=227137&title=fs2022)
 - [FS22_Kesla_144ND](https://www.farming-simulator.com/mod.php?mod_id=232093&title=fs2022)
 - [FS22_LizardLT679SmallLogTrailer](https://www.farming-simulator.com/mod.php?mod_id=245565&title=fs2022)
@@ -75,7 +78,27 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_TLX_X52_Logger](https://www.farming-simulator.com/mod.php?mod_id=248615&title=fs2022)
 - [FS22_Lizard_wood_trailer](https://www.farming-simulator.com/mod.php?mod_id=245659&title=fs2022)
 
-## Currently Supported Containers:
+</details>
+
+<details>
+  <summary>Vehicles</summary>
+
+- [FS22_TLX2020_Series](https://farming-simulator.com/mod.php?mod_id=228656&title=fs2022)
+- [FS22_TLX3500_Series](https://farming-simulator.com/mod.php?mod_id=242995&title=fs2022)
+- [FS22_TLX_Phoenix](https://farming-simulator.com/mod.php?mod_id=234081&title=fs2022)
+- [FS22_LizardSantana88](https://farming-simulator.com/mod.php?mod_id=233087&title=fs2022)
+- [FS22_Lizard_Selfmade_Tow_Truck](https://farming-simulator.com/mod.php?mod_id=233191&title=fs2022)
+- [FS22_MAN_TGX_26640_Platform](https://farming-simulator.com/mod.php?mod_id=233238&title=fs2022)
+- [FS22_Fiat682_N4](https://www.farming-simulator.com/mod.php?mod_id=245649&title=fs2022)
+- [FS22_Fiat190_48_TurboStar](https://www.farming-simulator.com/mod.php?mod_id=252000&title=fs2022)
+- [FS22_Iveco190_48_TurboStar](https://www.farming-simulator.com/mod.php?mod_id=251870&title=fs2022)
+- [FS22_tatraPhoenixKipper](https://www.farming-simulator.com/mod.php?mod_id=243003&title=fs2022)
+- [FS22_JohnDeere_Gator_Pack](https://farming-simulator.com/mod.php?mod_id=228440&title=fs2022)
+</details>
+
+<details>
+  <summary>Containers</summary>
+
 - [FS22_PackingFacility](https://www.farming-simulator.com/mod.php?mod_id=243358&title=fs2022)
 - [FS22_seeds_addon_crossplay](https://www.farming-simulator.com/mod.php?mod_id=243783&title=fs2022)
 - [FS22_SeedPotatoFarmBuildings](https://www.farming-simulator.com/mod.php?mod_id=246051&title=fs2022)
@@ -101,3 +124,4 @@ This mod will get expanded with new mods through PR and requests in the issues s
 - [FS22_Holmakra](https://farming-simulator.com/mod.php?mod_id=245260&title=fs2022)
 - [FS22_GlobalTransportPallet](https://farming-simulator.com/mod.php?mod_id=250753&title=fs2022)
 - [FS22_MaizePlus](https://farming-simulator.com/mod.php?mod_id=253528&title=fs2022)
+</details>

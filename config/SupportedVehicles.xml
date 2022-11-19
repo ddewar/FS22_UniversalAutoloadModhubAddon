@@ -96,7 +96,7 @@
         <vehicleConfiguration configFileName="FS22_DPW_1800/dpw1800.xml">
             <loadingArea offset="0 1.130 -0.82" width="2.41" height="2.0" length="9.3" baleHeight="2.80" noLoadingIfUnfolded="true"/>
             <loadingArea offset="0 1.130 -1.45" width="2.41" height="2.0" length="10.5" baleHeight="2.80" noLoadingIfFolded="true"/>
-            <options enableSideLoading="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flieglDPW180/flieglDPW180.xml">
             <loadingArea offset="0 1.11 -0.40" width="2.45" height="2.00" length="9.90" baleHeight="2.80"/>

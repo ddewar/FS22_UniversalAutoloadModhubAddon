@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="67">
+<modDesc descVersion="72">
     <author>loki_79, ddewar</author>
     <version>1.0.0.0</version>
 
@@ -26,7 +26,7 @@
     <description>
 <en><![CDATA[Add-on to Universal Autoload to include support for a large selection of ModHub vehicles.
 
-This mod adds configurations for many popular ModHub vehicles and trailers. For bug reports, help and mod suggestions please visit: https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon
+This mod adds configurations for many popular ModHub vehicles and trailers. For bug reports, help and mod suggestions please visit <a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
 
 Currently Supported:
 - FS22_20ftGooseneck
@@ -131,7 +131,7 @@ Currently Supported:
 
 <de><![CDATA[Erweiterung für Universal Autoload.
 
-Dieser Mod fügt Autoload Konfigurationen für viele beliebte ModHub Fahrzeuge und Anhänger hinzu. Für Fehlerberichte, Hilfe und Mod-Vorschläge besuchen Sie bitte: https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon
+Dieser Mod fügt Autoload Konfigurationen für viele beliebte ModHub Fahrzeuge und Anhänger hinzu. Für Fehlerberichte, Hilfe und Mod-Vorschläge besuchen Sie bitte<a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
 
 Momentan unterstützt:
 - FS22_20ftGooseneck
@@ -235,7 +235,7 @@ Momentan unterstützt:
 
 <fr><![CDATA[Complément à Autoload Universel permettant le support d'une large sélection de véhicules du ModHub.
 
-Ce mod permet d'ajouter les fonctionnalités de l'Autoload Universel pour de nombreux véhicules et remorques du ModHub. Pour la déclaration d'erreurs, le support ou encore des suggestions d'améliorations, rendez-vous sur : https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon
+Ce mod permet d'ajouter les fonctionnalités de l'Autoload Universel pour de nombreux véhicules et remorques du ModHub. Pour la déclaration d'erreurs, le support ou encore des suggestions d'améliorations, rendez-vous sur <a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
 
 Liste des mods actuellement pris en charge :
 - FS22_20ftGooseneck
@@ -339,7 +339,7 @@ Liste des mods actuellement pris en charge :
 
 <cz><![CDATA[Rozšíření k modu Univerzální Autoload, které umožňuje přidat další konfigurace pro velké množství různých vozidel z Modhubu.
 
-Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. Hlášení chyb, nápovědu a návrhy úprav naleznete na adrese: https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon
+Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. Hlášení chyb, nápovědu a návrhy úprav naleznete na adrese <a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
 
 Aktuálně podporovaná vozidla:
 - FS22_20ftGooseneck
