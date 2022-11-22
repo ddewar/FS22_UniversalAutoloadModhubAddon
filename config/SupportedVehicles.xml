@@ -298,7 +298,7 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_53ftDryVan/dryvan.xml" modHubId="248424">  
             <loadingArea offset="0.000 1.43 -0.25" width="2.40" height="2.60" length="15.40"/>
-            <options enableRearLoading="true" noLoadingIfFolded="true"/>
+            <options enableRearLoading="true" noLoadingIfFolded="true" isBoxTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_flatBedTrailerCombo_AutoPack/flatBedTrailer_AutoSmallBale.xml" selectedConfigs="1" modHubId="242221">  
             <loadingArea offset="0.00 0.71 -1.60" width="2.45" height="1.70" length="9.45" baleHeight="2.75"/>
@@ -567,6 +567,10 @@
         <vehicleConfiguration configFileName="FS22_LizardLightTrailer650/FS22_LightTrailer650.xml" useConfigName="fillUnit" selectedConfigs="3" modHubId="243955">  
             <loadingArea offset="0.000 1.01 0.0" width="2.30" height="1.40" length="4.30"/>
             <options enableRearLoading="true" isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX_X52_Enclosed/x52_enclosed.xml" useConfigName="fillUnit" selectedConfigs="1,4" modHubId="250236" >
+            <loadingArea offset="0.000 1.36 -0.88" width="2.60" height="2.60" length="15.25"/>
+            <options enableRearLoading="true" noLoadingIfFolded="true" isBoxTrailer="true"/>
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

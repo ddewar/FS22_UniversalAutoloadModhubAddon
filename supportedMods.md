@@ -106,7 +106,7 @@ Title | Author | Loading Areas | Options Set
 [PTS-4,5 "BURLAK" Pack](https://www.farming-simulator.com/mod.php?mod_id=230595&title=fs2022) | FSSA Modding Team  | 1 | Side Loading
 [Old Low Trailer](https://www.farming-simulator.com/mod.php?mod_id=238293&title=fs2022) | Happy_M0le | 1 | Rear Loading, Side Loading
 [Lizard Trailer](https://www.farming-simulator.com/mod.php?mod_id=229433&title=fs2022) | Dutch-Modding | 1 | Side Loading
-[53 Ft Dry Van](https://www.farming-simulator.com/mod.php?mod_id=248424&title=fs2022) | Perma's Modding | 1 | Rear Loading, No Loading When Folded
+[53 Ft Dry Van](https://www.farming-simulator.com/mod.php?mod_id=248424&title=fs2022) | Perma's Modding | 1 | Rear Loading, Box Trailer, No Loading When Folded
 [30' Flatbed Autoloading Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242221&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading
 [30' Flatbed Autoloading Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242221&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Log Trailer
 [ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | 
@@ -127,6 +127,7 @@ Title | Author | Loading Areas | Options Set
 [Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Rear Loading, Side Loading
 [Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Side Loading, Bale Trailer
 [Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Rear Loading, Log Trailer
+[TLX X52 Enclosed Trailer](https://www.farming-simulator.com/mod.php?mod_id=250236&title=fs2022) | 82Studio | 1 | Rear Loading, Box Trailer, No Loading When Folded
 ## Low Loaders 
 
 Title | Author | Loading Areas | Options Set
