@@ -159,6 +159,10 @@ Title | Author | Loading Areas | Options Set
 [McCauley Lowloader](https://www.farming-simulator.com/mod.php?mod_id=252504&title=fs2022) | FastFarming | 2 | Side Loading
 [Goldhofer STZ-VP 3](https://www.farming-simulator.com/mod.php?mod_id=239983&title=fs2022) | HR Forst und Fahrzeugbau | 1 | 
 [Goldhofer STZ Special Lowloader](https://www.farming-simulator.com/mod.php?mod_id=237603&title=fs2022) | Woodcraft Modding | 2 | Side Loading
+[50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
+[50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
+[50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
+[50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
 ## Cars 
 
 Title | Author | Loading Areas | Options Set

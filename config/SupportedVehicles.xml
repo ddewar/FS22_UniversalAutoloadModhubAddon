@@ -572,5 +572,21 @@
             <loadingArea offset="0.000 1.36 -0.88" width="2.60" height="2.60" length="15.25"/>
             <options enableRearLoading="true" noLoadingIfFolded="true" isBoxTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_50ft_Gooseneck_Trailer/modulartrailer.xml" useConfigName="tensionBelts" selectedConfigs="1" modHubId="255051">  
+            <loadingArea offset="0.000 1.100 -0.05" width="2.58" height="2.00" length="6.90" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_50ft_Gooseneck_Trailer/modulartrailer.xml" useConfigName="tensionBelts" selectedConfigs="2" modHubId="255051">  
+            <loadingArea offset="0.000 1.100 0.80" width="2.58" height="2.00" length="8.55" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_50ft_Gooseneck_Trailer/modulartrailer.xml" useConfigName="tensionBelts" selectedConfigs="3" modHubId="255051">  
+            <loadingArea offset="0.000 1.100 1.65" width="2.58" height="2.00" length="10.25" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_50ft_Gooseneck_Trailer/modulartrailer.xml" useConfigName="tensionBelts" selectedConfigs="4" modHubId="255051">  
+            <loadingArea offset="0.000 1.100 2.5" width="2.58" height="2.00" length="11.92" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
