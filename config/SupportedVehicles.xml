@@ -552,5 +552,9 @@
             <loadingArea offset="-0.100 1.10 0.80" width="1.44" height="1.75" length="1.44"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Unimog_U1X00/UnimogU1600.xml" selectedConfigs="4,5,6" modHubId="258254">  
+            <loadingArea offset="0.000 1.40 -1.35" width="2.10" height="1.75" length="2.15" baleHeight="2.0"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
