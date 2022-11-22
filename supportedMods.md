@@ -124,6 +124,9 @@ Title | Author | Loading Areas | Options Set
 [Timber Pack](https://www.farming-simulator.com/mod.php?mod_id=250084&title=fs2022) | Sylv3r | 1 | Log Trailer
 [Timber Pack](https://www.farming-simulator.com/mod.php?mod_id=250084&title=fs2022) | Sylv3r | 1 | Log Trailer
 [Timber Pack](https://www.farming-simulator.com/mod.php?mod_id=250084&title=fs2022) | Sylv3r | 1 | Log Trailer
+[Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Rear Loading, Side Loading
+[Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Side Loading, Bale Trailer
+[Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Rear Loading, Log Trailer
 ## Low Loaders 
 
 Title | Author | Loading Areas | Options Set
