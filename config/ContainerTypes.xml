@@ -5,6 +5,13 @@
         <objectType name="FS22_GlobalTransportPallet:globalpallet_liquids"/>
         <objectType name="FS22_MaizePlus:roundbaleCCM80"/>
         <objectType name="FS22_MaizePlus:fillablePallet"/>
+        <objectType name="FS22_HofBergmann:bucket"/>
+        <objectType name="FS22_HofBergmann:petCarrier"/>
+        <objectType name="FS22_HofBergmann:simpleObject"/>
+        <objectType name="FS22_HofBergmann:properPallet"/>
+        <objectType name="FS22_HofBergmann:livestockBox"/>
+        <objectType name="FS22_HofBergmann:attachablePallet"/>
+        <objectType name="FS22_HofBergmann:transportPallet"/>
     </objectTypes>
     <containerConfigurations>
         <!-- <containerConfiguration name="FS22_Green_Valley_Nebraska_4X:whiskeyPallet" sizeY="0.765" containerType="EURO_PALLET"/>
@@ -229,5 +236,56 @@
         <containerConfiguration name="FS22_MaizePlus:squarebale80Ng_pallet" containerType="EURO_PALLET" sizeY="1.90"/>
         <containerConfiguration name="FS22_MaizePlus:squarebale80_2Ng_pallet" containerType="EURO_PALLET" sizeY="1.80"/>
         <containerConfiguration name="FS22_MaizePlus:squarebale120Ng_pallet" containerType="EURO_PALLET" sizeX="1.25" sizeY="2.45" sizeZ="1.25"/>
+
+        <!-- FACTORY BOTTLEMILK -->
+        <containerConfiguration name="FS22_FactoryBottlesMilk:bottlemilkPallet" containerType="EURO_PALLET" sizeX="1.225" sizeY="0.790" sizeZ="0.850"/>
+
+        <!-- HOF BERGMANN -->
+        <containerConfiguration name="FS22_HofBergmann:beerKeg" containerType="ALL" sizeX="0.625" sizeY="0.775" sizeZ="0.625"/>
+        <containerConfiguration name="FS22_HofBergmann:bigBag" containerType="BIGBAG" sizeX="1.40" sizeY="2.25" sizeZ="1.20"/>
+        <containerConfiguration name="FS22_HofBergmann:fixFermActiveContainer" containerType="LIQUID_TANK" sizeX="1.600" sizeY="1.510" sizeZ="1.400"/>
+        <containerConfiguration name="FS22_HofBergmann:fillablePallet" containerType="EURO_PALLET" sizeX="1.450" sizeY="0.950" sizeZ="1.050"/>
+        <containerConfiguration name="FS22_HofBergmann:transportPallet" containerType="EURO_PALLET" sizeY="0.175" neverStack="true"/>
+        <containerConfiguration name="FS22_HofBergmann:milkPallet" containerType="EURO_PALLET" sizeY="0.985"/>
+        <containerConfiguration name="FS22_HofBergmann:milkCartonPallet" containerType="EURO_PALLET" sizeY="0.985"/>
+        <containerConfiguration name="FS22_HofBergmann:grapeJuicePallet" containerType="EURO_PALLET" sizeY="0.985"/>
+        
+        <containerConfiguration name="FS22_HofBergmann:lettuceBox" containerType="ALL" sizeX="1.000" sizeY="0.350" sizeZ="0.666"/>
+        <containerConfiguration name="FS22_HofBergmann:tomatoesBox" containerType="ALL" sizeX="1.000" sizeY="0.350" sizeZ="0.666"/>
+        <containerConfiguration name="FS22_HofBergmann:cucumberBox" containerType="ALL" sizeX="1.000" sizeY="0.350" sizeZ="0.666"/>
+        <containerConfiguration name="FS22_HofBergmann:cauliflowerBox" containerType="ALL" sizeX="1.000" sizeY="0.350" sizeZ="0.666"/>
+        <containerConfiguration name="FS22_HofBergmann:strawberriesBox" containerType="ALL" sizeX="0.575" sizeY="0.285" sizeZ="0.800"/>
+        <containerConfiguration name="FS22_HofBergmann:wineCrate" containerType="ALL" sizeX="0.775" sizeY="0.500" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:beefMeatBox" containerType="ALL" sizeX="0.775" sizeY="0.265" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:porkMeatBox" containerType="ALL" sizeX="0.775" sizeY="0.265" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:poultryMeatBox" containerType="ALL" sizeX="0.775" sizeY="0.265" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:sheepGoatMeatBox" containerType="ALL" sizeX="0.775" sizeY="0.265" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:eggBox" containerType="ALL" sizeX="0.78" sizeY="0.48" sizeZ="0.52"/>
+        <containerConfiguration name="FS22_HofBergmann:eggWoodBox" containerType="ALL" sizeX="0.775" sizeY="0.185" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:butterBox" containerType="ALL" sizeX="0.400" sizeY="0.385" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:catFoodPallet" containerType="ALL" sizeX="0.650" sizeY="0.155" sizeZ="0.450"/>
+        <containerConfiguration name="FS22_HofBergmann:beerCrate" containerType="ALL" sizeX="0.425" sizeY="0.333" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:breadBox" containerType="ALL" sizeX="0.650" sizeY="0.300" sizeZ="0.450"/>
+        <containerConfiguration name="FS22_HofBergmann:liquidYeastCanister" containerType="ALL" sizeX="0.19" sizeY="0.37" sizeZ="0.29"/>
+        <containerConfiguration name="FS22_HofBergmann:hopsBale" containerType="ALL" sizeX="1.250" sizeY="0.790" sizeZ="0.850"/>
+        <containerConfiguration name="FS22_HofBergmann:woolBundle" containerType="ALL" sizeX="0.600" sizeY="0.550" sizeZ="0.800"/>
+        <containerConfiguration name="FS22_HofBergmann:maltMealSack" containerType="ALL" sizeX="0.58" sizeY="0.20" sizeZ="1.0"/>
+        <containerConfiguration name="FS22_HofBergmann:maltSack" containerType="ALL" sizeX="0.58" sizeY="0.20" sizeZ="1.0"/>
+        <containerConfiguration name="FS22_HofBergmann:flourSack" containerType="ALL" sizeX="0.600" sizeY="0.375" sizeZ="1.100"/>
+        <containerConfiguration name="FS22_HofBergmann:onionSack" containerType="ALL" sizeX="0.90" sizeY="0.20" sizeZ="0.58"/>
+        <containerConfiguration name="FS22_HofBergmann:cheese" containerType="ALL" sizeX="0.65" sizeY="0.230" sizeZ="0.65"/>
+        <containerConfiguration name="FS22_HofBergmann:animalSack" containerType="ALL" sizeX="0.30" sizeY="0.60" sizeZ="0.45" neverStack="true"/>
+        <containerConfiguration name="FS22_HofBergmann:petCarrier" containerType="ALL" sizeX="1.00" sizeY="0.70" sizeZ="0.70" neverStack="true"/>
+        <containerConfiguration name="FS22_HofBergmann:fillableBucket" containerType="ALL" sizeX="0.45" sizeY="0.50" sizeZ="0.45"/>
+        <containerConfiguration name="FS22_HofBergmann:poultryBox" containerType="ALL" sizeX="1.350" sizeY="0.320" sizeZ="0.650"/>
+        <containerConfiguration name="FS22_HofBergmann:bigBox" containerType="ALL" sizeX="1.00" sizeY="0.80" sizeZ="1.00"/>
+        <containerConfiguration name="FS22_HofBergmann:fillableAppleBox" containerType="ALL"  sizeY="0.800"/>
+        <containerConfiguration name="FS22_HofBergmann:fillableAppleBoxSmall" containerType="ALL" sizeX="0.775" sizeY="0.333" sizeZ="0.550"/>
+        <containerConfiguration name="FS22_HofBergmann:fertilizerBag" containerType="ALL" sizeX="0.58" sizeY="0.155" sizeZ="0.95"/>
+        <containerConfiguration name="FS22_HofBergmann:woodBasketGrapes" containerType="ALL" sizeX="0.55" sizeY="0.60" sizeZ="0.55"/>
+
+        <!-- THESE HAVE AN INCORRECTLY DEFINED OFFSET -->
+        <containerConfiguration name="FS22_HofBergmann:goatcheese" containerType="ALL" sizeX="0.55" sizeY="0.185" sizeZ="0.55"/>
+        <containerConfiguration name="FS22_HofBergmann:fillableWateringCan" containerType="ALL" sizeX="1.00" sizeY="0.550" sizeZ="0.35" neverStack="true"/>
     </containerConfigurations>
 </universalAutoLoad>
