@@ -92,7 +92,6 @@ Title | Author | Loading Areas | Options Set
 [HW80 Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=229524&title=fs2022) | Aaa modding | 1 | Side Loading
 [Orkel TX 130](https://www.farming-simulator.com/mod.php?mod_id=226465&title=fs2022) | OlaHaldor, [NMC]T-Bone | 1 | 
 [Orkel TX 130](https://www.farming-simulator.com/mod.php?mod_id=226465&title=fs2022) | OlaHaldor, [NMC]T-Bone | 1 | Rear Loading, Side Loading
-[Adurante Pack](https://www.farming-simulator.com/mod.php?mod_id=125088&title=fs2022) | DD ModPassion | 1 | 
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | Side Loading
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | 
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | Side Loading
@@ -182,8 +181,6 @@ Title | Author | Loading Areas | Options Set
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
-[TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
-[TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 ## Miscellaneous 
 
 Title | Author | Loading Areas | Options Set
@@ -211,6 +208,9 @@ Title | Author | Loading Areas | Options Set
 
 Title | Author | Loading Areas | Options Set
 ---|---|:---:|---
+[TLX Phoenix Series](https://www.farming-simulator.com/mod.php?mod_id=234081&title=fs2022) | 82Studio | 1 | 
+[TLX Phoenix Series](https://www.farming-simulator.com/mod.php?mod_id=234081&title=fs2022) | 82Studio | 1 | 
+[TLX Phoenix Series](https://www.farming-simulator.com/mod.php?mod_id=234081&title=fs2022) | 82Studio | 1 | Log Trailer
 [MAN TGX 26.640 Platform](https://www.farming-simulator.com/mod.php?mod_id=233238&title=fs2022) | Farmer_22 | 1 | Rear Loading, Side Loading
 [Fiat 682 N4](https://www.farming-simulator.com/mod.php?mod_id=245649&title=fs2022) | Peppe978 | 1 | 
 [Fiat 190-48](https://www.farming-simulator.com/mod.php?mod_id=252000&title=fs2022) | Peppe978 | 1 | Rear Loading, Side Loading
