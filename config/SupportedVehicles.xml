@@ -592,35 +592,67 @@
             <loadingArea offset="0.000 1.100 2.5" width="2.58" height="2.00" length="11.92" baleHeight="2.75"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_Auto.xml" selectedConfigs="1" modHubId="247924">  
+            <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22" baleHeight="3.65"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_Auto.xml" selectedConfigs="4" modHubId="247924">  
+            <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoRoundCotton.xml" selectedConfigs="1" modHubId="247924">  
+            <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22" baleHeight="3.65"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoRoundCotton.xml" selectedConfigs="4" modHubId="247924">  
+            <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoSquareCotton.xml" selectedConfigs="1" modHubId="247924">  
+            <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22" baleHeight="3.65"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoSquareCotton.xml" selectedConfigs="4" modHubId="247924">  
+            <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoSquareRound.xml" selectedConfigs="1" modHubId="247924">  
+            <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22" baleHeight="3.65"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoSquareRound.xml" selectedConfigs="4" modHubId="247924">  
+            <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner.xml" modHubId="258564">
             <loadingArea offset="0 1.666 -0.05" width="2.37" height="2.15" length="12.3"/>
-			<options isLogTrailer="true"/>
+			      <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner2AK.xml" modHubId="258564">
             <loadingArea offset="0 1.666 1.13" width="2.37" height="2.15" length="10.0"/>
-			<options isLogTrailer="true"/>
+			      <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner3AGK.xml" modHubId="258564">
             <loadingArea offset="0 1.666 2.0" width="2.37" height="2.15" length="8.25"/>
-			<options isLogTrailer="true"/>
+			      <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner3AK.xml" modHubId="258564">
             <loadingArea offset="0 1.666 1.13" width="2.37" height="2.15" length="10.0"/>
-			<options isLogTrailer="true"/>
+			      <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner3LL.xml" modHubId="258564">
             <loadingArea offset="0 1.666 4.1" width="2.37" height="2.15" length="4.1"/>
-			<options isLogTrailer="true"/>
+			      <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner3SH.xml" modHubId="258564">
             <loadingArea offset="0 1.45 0.64" width="2.37" height="2.35" length="11.0"/>
             <!-- <loadingArea offset="0 1.666 3.7" width="2.37" height="2.15" length="4.8"/> -->
             <!-- <loadingArea offset="0 1.45 -1.8" width="2.37" height="2.35" length="6.2"/> -->
-			<options isLogTrailer="true" zonesOverlap="true"/>
+			      <options isLogTrailer="true" zonesOverlap="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner4AN.xml" modHubId="258564">
             <loadingArea offset="0 1.666 -0.05" width="2.37" height="2.15" length="12.3"/>
-			<options isLogTrailer="true"/>
+			      <options isLogTrailer="true"/>
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
