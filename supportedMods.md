@@ -127,7 +127,14 @@ Title | Author | Loading Areas | Options Set
 [Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Side Loading, Bale Trailer
 [Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Rear Loading, Log Trailer
 [TLX X52 Enclosed Trailer](https://www.farming-simulator.com/mod.php?mod_id=250236&title=fs2022) | 82Studio | 1 | Rear Loading, Box Trailer, No Loading When Folded
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Log Trailer
+[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
+[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
+[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
+[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
+[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
+[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
+[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
+[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
 ## Low Loaders 
 
 Title | Author | Loading Areas | Options Set

@@ -594,7 +594,7 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_Auto.xml" selectedConfigs="1" modHubId="247924">  
             <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22" baleHeight="3.65"/>
-            <options enableRearLoading="true" enableSideLoading="true"/>
+            <options enableRearLoading="true" enableSideLoading="true" horizontalLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_Auto.xml" selectedConfigs="4" modHubId="247924">  
             <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22"/>
@@ -602,7 +602,7 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoRoundCotton.xml" selectedConfigs="1" modHubId="247924">  
             <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22" baleHeight="3.65"/>
-            <options enableRearLoading="true" enableSideLoading="true"/>
+            <options enableRearLoading="true" enableSideLoading="true" horizontalLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoRoundCotton.xml" selectedConfigs="4" modHubId="247924">  
             <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22"/>
@@ -610,7 +610,7 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoSquareCotton.xml" selectedConfigs="1" modHubId="247924">  
             <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22" baleHeight="3.65"/>
-            <options enableRearLoading="true" enableSideLoading="true"/>
+            <options enableRearLoading="true" enableSideLoading="true" horizontalLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoSquareCotton.xml" selectedConfigs="4" modHubId="247924">  
             <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22"/>
@@ -618,7 +618,7 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoSquareRound.xml" selectedConfigs="1" modHubId="247924">  
             <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22" baleHeight="3.65"/>
-            <options enableRearLoading="true" enableSideLoading="true"/>
+            <options enableRearLoading="true" enableSideLoading="true" horizontalLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_smallComboTrailer_AutoPack_crossplay/smallComboTrailer_AutoSquareRound.xml" selectedConfigs="4" modHubId="247924">  
             <loadingArea offset="0 0.7 -1.575" width="2.5" height="2.00" length="6.22"/>
