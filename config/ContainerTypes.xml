@@ -3,7 +3,7 @@
     <objectTypes>
         <objectType name="FS22_GlobalTransportPallet:globalpallet"/>
         <objectType name="FS22_GlobalTransportPallet:globalpallet_liquids"/>
-        <objectType name="FS22_MaizePlus:roundbaleCCM80"/>
+        <objectType name="FS22_MaizePlus:CCM80_roundbale125"/>
         <objectType name="FS22_MaizePlus:fillablePallet"/>
         <objectType name="FS22_HofBergmann:bucket"/>
         <objectType name="FS22_HofBergmann:petCarrier"/>
@@ -206,7 +206,7 @@
         <containerConfiguration name="FS22_GlobalTransportPallet:transportpallet_liquids" containerType="EURO_PALLET" sizeX="2.90" sizeY="2.25" sizeZ="1.85" neverStack="true"/>
         <containerConfiguration name="FS22_GlobalTransportPallet:transportbag_liquids" containerType="BIGBAG" sizeX="2.80" sizeY="2.0" sizeZ="1.75" neverStack="true"/>
 
-        <containerConfiguration name="FS22_MaizePlus:roundbaleCCM80" containerType="BALE" sizeX="0.85" sizeY="1.15" sizeZ="0.85" isRoundbale="true" flipYZ="true" modHubId="253528"/>
+        <containerConfiguration name="FS22_MaizePlus:CCM80_roundbale125" containerType="BALE" sizeX="0.85" sizeY="1.15" sizeZ="0.85" isRoundbale="true" flipYZ="true" modHubId="253528"/>
         <containerConfiguration name="FS22_MaizePlus:chickenFood_pallet" containerType="EURO_PALLET" sizeY="0.77" sizeZ="0.90"/>
         <containerConfiguration name="FS22_MaizePlus:feedPellets_pallet" containerType="EURO_PALLET" sizeY="0.77" sizeZ="0.90"/>
         <containerConfiguration name="FS22_MaizePlus:grainGrist_pallet" containerType="EURO_PALLET" sizeY="0.77" sizeZ="0.90"/>
