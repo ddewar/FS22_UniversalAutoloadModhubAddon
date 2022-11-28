@@ -28,26 +28,45 @@
 
 This mod adds configurations for many popular ModHub vehicles and trailers. For bug reports, help and mod suggestions please visit <a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
 
-Changelog 1.1.0.0:
-- Adding support for more mods
-- Adding more container support
-- Adding log trailer support
+Changelog:
+v1.1.0.0
+- Added support for more mods
+- Added more container support
+- Added log trailer support
 ]]>
 </en>
 
 <de><![CDATA[Erweiterung für Universal Autoload.
 
 Dieser Mod fügt Autoload Konfigurationen für viele beliebte ModHub Fahrzeuge und Anhänger hinzu. Für Fehlerberichte, Hilfe und Mod-Vorschläge besuchen Sie bitte<a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
+
+Changelog:
+v1.1.0.0
+- Unterstützung für weitere Mods hinzugefügt
+- Unterstützung für weitere Container hinzugefügt
+- Unterstützung für Log-Trailer hinzugefügt
 ]]></de>
 
 <fr><![CDATA[Complément à Autoload Universel permettant le support d'une large sélection de véhicules du ModHub.
 
 Ce mod permet d'ajouter les fonctionnalités de l'Autoload Universel pour de nombreux véhicules et remorques du ModHub. Pour la déclaration d'erreurs, le support ou encore des suggestions d'améliorations, rendez-vous sur <a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
+
+Changelog :
+v1.1.0.0
+- Ajout du support pour plus de mods
+- Ajout de la prise en charge de plus de conteneurs
+- Ajout de la prise en charge des bandes-annonces
 ]]></fr>
 
 <cz><![CDATA[Rozšíření k modu Univerzální Autoload, které umožňuje přidat další konfigurace pro velké množství různých vozidel z Modhubu.
 
 Aktuálně přidává konfigurační parametry pro mnohé oblíbené vleky a další vozidla na Modhubu, uvedená v následujícím seznamu. Hlášení chyb, nápovědu a návrhy úprav naleznete na adrese <a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
+
+Changelog:
+v1.1.0.0
+- Přidána podpora dalších módů
+- Přidána větší podpora kontejnerů
+- Přidána podpora přívěsů k záznamům
 ]]>
 </cz>
     </description>
