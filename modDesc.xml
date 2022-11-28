@@ -14,7 +14,7 @@
     </title>
 	
     <multiplayer supported="true"/>
-    <iconFilename>modIcon.dds</iconFilename>
+    <iconFilename>icon_UniversalAutoloadModhubAddon.dds</iconFilename>
 
     <extraSourceFiles>
         <sourceFile filename="UniversalAutoloadModhubAddonInstaller.lua"/>
@@ -27,6 +27,11 @@
 <en><![CDATA[Add-on to Universal Autoload to include support for a large selection of ModHub vehicles.
 
 This mod adds configurations for many popular ModHub vehicles and trailers. For bug reports, help and mod suggestions please visit <a href="https://github.com/ddewar/FS22_UniversalAutoloadModhubAddon">GitHub</a>
+
+Changelog 1.1.0.0:
+- Adding support for more mods
+- Adding more container support
+- Adding log trailer support
 ]]>
 </en>
 
