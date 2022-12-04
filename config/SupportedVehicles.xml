@@ -185,6 +185,10 @@
             <loadingArea offset="0 1.207 0" width="2.235" height="1.70" length="6.848" baleHeight="3.00"/>
 			<options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_ThievinPack/mistral_pl_260_118/mistral_pl_260_118.xml" modHubId="257556">
+            <loadingArea offset="0 1.123 -0.354" width="2.299" height="1.90" length="11.327" baleHeight="3.00"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_TLX3500_Series/attachments/xl_pickupbed3500.xml" selectedConfigs="1,2,3,6,7,8,9" modHubId="242995">
             <loadingArea offset="0 1.81 0.12" width="1.45" height="2.00" length="2.90"/>
         </vehicleConfiguration>
