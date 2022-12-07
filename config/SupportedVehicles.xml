@@ -658,5 +658,13 @@
             <loadingArea offset="0 1.35 -1.30" width="2.25" height="2.30" length="7.25"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Shortwood_Trailer_Pack/Tandem.xml" modHubId="242219">
+            <loadingArea offset="0 1.35 -0.55" width="2.25" height="2.30" length="7.25"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Shortwood_Trailer_Pack/Tridem.xml" modHubId="242219">
+            <loadingArea offset="0 1.35 -1.0" width="2.25" height="2.30" length="8.25"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
