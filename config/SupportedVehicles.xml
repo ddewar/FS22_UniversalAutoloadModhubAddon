@@ -674,5 +674,17 @@
             <loadingArea offset="0 1.35 -1.0" width="2.25" height="2.30" length="8.25"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Minor6x4/minor6x4.xml" modHubId="260194" selectedConfigs="3">
+            <loadingArea offset="0 0.90 -0.84" width="1.60" height="1.50" length="2.35" baleHeight="1.85"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Minor6x4/minor6x4.xml" modHubId="260194" selectedConfigs="1">
+            <loadingArea offset="0 0.90 -0.95" width="1.60" height="1.50" length="2.35"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Minor6x4/minor6x4.xml" modHubId="260194" selectedConfigs="2">
+            <loadingArea offset="0 0.92 -0.92" width="1.80" height="1.50" length="2.50" baleHeight="1.85"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

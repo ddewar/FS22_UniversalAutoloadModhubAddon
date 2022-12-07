@@ -227,6 +227,9 @@ Title | Author | Loading Areas | Options Set
 [Iveco 190-48](https://www.farming-simulator.com/mod.php?mod_id=251870&title=fs2022) | Peppe978 | 1 | Rear Loading, Side Loading
 [TATRA PHOENIX 6x6 Kipper](https://www.farming-simulator.com/mod.php?mod_id=243003&title=fs2022) | Hydraulik,Kasztan | 1 | 
 [Unimog U1200, U1400, U1600](https://www.farming-simulator.com/mod.php?mod_id=258254&title=fs2022) | Modding-Welt, bm-modding | 1 | Rear Loading, Side Loading
+[Lizard Minor 6x4](https://www.farming-simulator.com/mod.php?mod_id=260194&title=fs2022) | SleutjesModding | 1 | Rear Loading, Side Loading
+[Lizard Minor 6x4](https://www.farming-simulator.com/mod.php?mod_id=260194&title=fs2022) | SleutjesModding | 1 | Log Trailer
+[Lizard Minor 6x4](https://www.farming-simulator.com/mod.php?mod_id=260194&title=fs2022) | SleutjesModding | 1 | Rear Loading, Side Loading
 ## Forestry Equipment 
 
 Title | Author | Loading Areas | Options Set
