@@ -175,6 +175,8 @@ Title | Author | Loading Areas | Options Set
 Title | Author | Loading Areas | Options Set
 ---|---|:---:|---
 [John Deere Gator Pack](https://www.farming-simulator.com/mod.php?mod_id=228440&title=fs2022) | BlackSheep Modding | 1 | Rear Loading, Side Loading
+[John Deere Gator Pack](https://www.farming-simulator.com/mod.php?mod_id=228440&title=fs2022) | BlackSheep Modding | 1 | Rear Loading, Side Loading
+[John Deere Gator Pack](https://www.farming-simulator.com/mod.php?mod_id=228440&title=fs2022) | BlackSheep Modding | 1 | Log Trailer
 [TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
 [TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading
 [TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading

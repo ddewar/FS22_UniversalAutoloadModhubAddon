@@ -35,6 +35,14 @@
             <loadingArea offset="0 1.0 -0.10" width="1.55" height="1.50" length="1.35" baleHeight="1.85"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_JohnDeere_Gator_Pack/Tipper.xml" modHubId="228440" selectedConfigs="1">
+            <loadingArea offset="0 0.93 -0.06" width="1.48" height="1.50" length="1.37" baleHeight="1.85" />
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_JohnDeere_Gator_Pack/Tipper.xml" modHubId="228440" selectedConfigs="2">
+            <loadingArea offset="0 0.93 -0.06" width="1.48" height="0.90" length="1.37" />
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_selfMadeTrailer/trailer.xml" modHubId="229132">
             <loadingArea offset="0 0.90 -0.00" width="1.55" height="1.50" length="4.25" baleHeight="2.50"/>
             <options enableRearLoading="true"/>
