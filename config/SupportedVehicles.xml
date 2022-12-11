@@ -75,6 +75,26 @@
             <loadingArea offset="0 1.0 -1.65" width="1.25" height="0.75" length="2.35"/>
             <options enableRearLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_logit.xml" modHubId="228656">
+            <loadingArea offset="0 1.13 -1.75" width="2.10" height="1.10" length="2.60" baleheight="1.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_logit2.xml" modHubId="228656">
+            <loadingArea offset="0 1.13 -1.70" width="2.10" height="1.10" length="2.60" baleheight="1.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_lawncare.xml" modHubId="228656">
+            <loadingArea offset="0 1.13 -2.05" width="2.35" height="1.50" length="2.25"/>
+            <options enableRearLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_lawncare2.xml" modHubId="228656">
+            <loadingArea offset="0 1.13 -2.05" width="2.35" height="1.50" length="2.25"/>
+            <options enableRearLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_TLX2020_Series/attachments/tlx2020_tipit3.xml" modHubId="228656">
+            <loadingArea offset="0 1.05 -1.83" width="1.95" height="1.5" length="2.65"/>
+            <options enableRearLoading="true" />
+        </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardCarTrailer/lizardCarTrailer.xml" modHubId="225214">
             <loadingArea offset="0 0.60 -0.05" width="1.25" height="1.65" length="2.35"/>
             <options enableSideLoading="true"/>
@@ -255,10 +275,7 @@
             <loadingArea offset="0 1.68 0.48" width="2.35" height="1.70" length="7.25" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/Granel.xml" selectedConfigs="1,2,3" modHubId="240367">
-            <loadingArea offset="0 1.865 0.17" width="2.45" height="1.80" length="13.15" baleHeight="3.0"/>
-            <options enableSideLoading="true"/>
-        </vehicleConfiguration>
+
         <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/3EixoFundo.xml" selectedConfigs="1,2,3" modHubId="240367">
             <loadingArea offset="0 1.865 0.17" width="2.45" height="1.80" length="13.15" baleHeight="3.0"/>
             <options enableSideLoading="true"/>

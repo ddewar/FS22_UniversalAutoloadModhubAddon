@@ -100,7 +100,6 @@ Title | Author | Loading Areas | Options Set
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | Side Loading
 [Randon Bulk Carrier R Line](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022) | Erik Isac, Agro Mods | 1 | Side Loading
 [Randon Bulk Carrier R Line](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022) | Erik Isac, Agro Mods | 1 | Side Loading
-[Randon Bulk Carrier R Line](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022) | Erik Isac, Agro Mods | 1 | Side Loading
 [PTS-4,5 "BURLAK" Pack](https://www.farming-simulator.com/mod.php?mod_id=230595&title=fs2022) | FSSA Modding Team  | 1 | Side Loading
 [PTS-4,5 "BURLAK" Pack](https://www.farming-simulator.com/mod.php?mod_id=230595&title=fs2022) | FSSA Modding Team  | 1 | Side Loading
 [Old Low Trailer](https://www.farming-simulator.com/mod.php?mod_id=238293&title=fs2022) | Happy_M0le | 1 | Rear Loading, Side Loading
@@ -182,6 +181,11 @@ Title | Author | Loading Areas | Options Set
 [TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading
 [TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading
 [TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading
+[TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
+[TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
+[TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading
+[TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading
+[TLX 2020 Series](https://www.farming-simulator.com/mod.php?mod_id=228656&title=fs2022) | 82Studio | 1 | Rear Loading
 [Lizard Santana 88](https://www.farming-simulator.com/mod.php?mod_id=233087&title=fs2022) | AFModding | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
@@ -251,7 +255,7 @@ Title | Author | Loading Areas | Options Set
 [Fliegl Timber Runner Pack](https://www.farming-simulator.com/mod.php?mod_id=258564&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Fliegl Timber Runner Pack](https://www.farming-simulator.com/mod.php?mod_id=258564&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer, Overlapping Zones
 [Fliegl Timber Runner Pack](https://www.farming-simulator.com/mod.php?mod_id=258564&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
-[MAN TGS Shortwood](https://www.farming-simulator.com/mod.php?mod_id=230299&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
+[MAN TGS Shortwood Pack](https://www.farming-simulator.com/mod.php?mod_id=230299&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Lizard Short Wood Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242219&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Lizard Short Wood Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242219&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 
