@@ -712,11 +712,11 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Lizard_BiTrainForestry_Caastor/caastor.xml" modHubId="250102">
             <loadingArea offset="0 1.666 1.55" width="2.37" height="2.4" length="7"/>
-                <options enableRearLoading="true" enableSideLoading="true" isLogTrailer="true"/>
+            <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Lizard_BiTrainForestry_Caastor/caastor_rear.xml" modHubId="250102">
             <loadingArea offset="0 1.666 0.95" width="2.37" height="2.4" length="7"/>
-                <options enableRearLoading="true" enableSideLoading="true" isLogTrailer="true"/>
+            <options isLogTrailer="true"/>
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
