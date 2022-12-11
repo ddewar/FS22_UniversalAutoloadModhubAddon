@@ -36,6 +36,7 @@ Title | Author | Loading Areas | Options Set
 [Rolland Pack](https://www.farming-simulator.com/mod.php?mod_id=225090&title=fs2022) | Univers Simu Modding | 1 | Rear Loading, Side Loading, Bale Trailer
 [Perard Pack](https://www.farming-simulator.com/mod.php?mod_id=241424&title=fs2022) | Univers Simu Modding | 1 | Rear Loading, Side Loading
 [Perard Pack](https://www.farming-simulator.com/mod.php?mod_id=241424&title=fs2022) | Univers Simu Modding | 1 | Rear Loading, Side Loading
+[Thievin Pack](https://www.farming-simulator.com/mod.php?mod_id=257556&title=fs2022) | Univers Simu Modding | 1 | Rear Loading, Side Loading, Bale Trailer
 ## Pallets 
 
 Title | Author | Loading Areas | Options Set
