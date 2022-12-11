@@ -275,14 +275,17 @@
             <loadingArea offset="0 1.68 0.48" width="2.35" height="1.70" length="7.25" baleHeight="2.50"/>
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
-
-        <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/3EixoFundo.xml" selectedConfigs="1,2,3" modHubId="240367">
-            <loadingArea offset="0 1.865 0.17" width="2.45" height="1.80" length="13.15" baleHeight="3.0"/>
-            <options enableSideLoading="true"/>
+        <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/granel.xml" selectedConfigs="1,2,3" modHubId="240367">
+            <loadingArea offset="0 1.23 0.95" width="2.45" height="1.80" length="13.15" baleHeight="3.0"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/2Eixos.xml" selectedConfigs="1,2,3" modHubId="240367">
-            <loadingArea offset="0 1.865 1.97" width="2.45" height="1.80" length="9.57" baleHeight="3.0"/>
-            <options enableSideLoading="true"/>
+        <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/eixo3.xml" selectedConfigs="1,2,3" modHubId="240367">
+            <loadingArea offset="0 1.23 0.95" width="2.45" height="1.80" length="13.15" baleHeight="3.0"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Randon_BulkCarrier_RLine/eixo2.xml" selectedConfigs="1,2,3" modHubId="240367">
+            <loadingArea offset="0 1.27 0.40" width="2.45" height="1.80" length="9.57" baleHeight="3.0"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_MAN_TGX_26640_Platform/tgx26640.xml" modHubId="233238">
             <loadingArea offset="0 1.28 -2.03" width="2.45" height="2.5" length="7.65" baleHeight="2.75"/>

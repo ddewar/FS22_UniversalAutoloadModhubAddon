@@ -98,8 +98,9 @@ Title | Author | Loading Areas | Options Set
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | Side Loading
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | 
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | Side Loading
-[Randon Bulk Carrier R Line](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022) | Erik Isac, Agro Mods | 1 | Side Loading
-[Randon Bulk Carrier R Line](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022) | Erik Isac, Agro Mods | 1 | Side Loading
+[Randon Bulk Carrier R Line](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022) | Erik Isac, Agro Mods | 1 | Rear Loading, Side Loading
+[Randon Bulk Carrier R Line](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022) | Erik Isac, Agro Mods | 1 | Rear Loading, Side Loading
+[Randon Bulk Carrier R Line](https://www.farming-simulator.com/mod.php?mod_id=240367&title=fs2022) | Erik Isac, Agro Mods | 1 | Rear Loading, Side Loading
 [PTS-4,5 "BURLAK" Pack](https://www.farming-simulator.com/mod.php?mod_id=230595&title=fs2022) | FSSA Modding Team  | 1 | Side Loading
 [PTS-4,5 "BURLAK" Pack](https://www.farming-simulator.com/mod.php?mod_id=230595&title=fs2022) | FSSA Modding Team  | 1 | Side Loading
 [Old Low Trailer](https://www.farming-simulator.com/mod.php?mod_id=238293&title=fs2022) | Happy_M0le | 1 | Rear Loading, Side Loading
