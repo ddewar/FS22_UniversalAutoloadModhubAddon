@@ -262,5 +262,8 @@ Title | Author | Loading Areas | Options Set
 [Lizard Short Wood Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242219&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Lizard Bi-Train Forestry Caastor](https://www.farming-simulator.com/mod.php?mod_id=250102&title=fs2022) | SleutjesModding | 1 | Log Trailer
 [Lizard Bi-Train Forestry Caastor](https://www.farming-simulator.com/mod.php?mod_id=250102&title=fs2022) | SleutjesModding | 1 | Log Trailer
+[Komatsu Forwarder Pack](https://www.farming-simulator.com/mod.php?mod_id=247034&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
+[Komatsu Forwarder Pack](https://www.farming-simulator.com/mod.php?mod_id=247034&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
+[Komatsu Forwarder Pack](https://www.farming-simulator.com/mod.php?mod_id=247034&title=fs2022) | HR Forst und Fahrzeugbau | 2 | Log Trailer
 
 
