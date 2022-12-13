@@ -266,5 +266,6 @@ Title | Author | Loading Areas | Options Set
 [Komatsu Forwarder Pack](https://www.farming-simulator.com/mod.php?mod_id=247034&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Komatsu Forwarder Pack](https://www.farming-simulator.com/mod.php?mod_id=247034&title=fs2022) | HR Forst und Fahrzeugbau | 2 | Log Trailer
 [Logger](https://www.farming-simulator.com/mod.php?mod_id=230269&title=fs2022) | Farm Sim World, FS Modding | 1 | Log Trailer
+[Plantation Trailer](https://www.farming-simulator.com/mod.php?mod_id=242524&title=fs2022) | GamerDesigns | 1 | Log Trailer
 
 
