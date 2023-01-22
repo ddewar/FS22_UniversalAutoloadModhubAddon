@@ -234,19 +234,19 @@
             <loadingArea offset="0 1.47 -0.20" width="2.30" height="1.70" length="7.30" baleHeight="2.40"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma85.xml" modHubId="234121">
-            <loadingArea offset="0 1.45 0.00" width="2.30" height="1.70" length="8.25" baleHeight="2.40"/>
+            <loadingArea offset="0 1.45 0.00" width="2.50" height="1.70" length="8.25" baleHeight="2.40"/>
             <options enableRearLoading="true" enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma100.xml"  modHubId="234121">
-            <loadingArea offset="0 1.45 0.00" width="2.30" height="1.70" length="9.75" baleHeight="2.40"/>
+            <loadingArea offset="0 1.45 0.00" width="2.50" height="1.70" length="9.75" baleHeight="2.40"/>
             <options enableRearLoading="true" enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma115.xml"  modHubId="234121">
-            <loadingArea offset="0 1.45 0.00" width="2.30" height="1.70" length="11.25" baleHeight="2.40"/>
+            <loadingArea offset="0 1.45 0.00" width="2.50" height="1.70" length="11.25" baleHeight="2.40"/>
             <options enableRearLoading="true" enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Pack_Aguas_Tenias_Platforms/xml/plataforma130.xml"  modHubId="234121">
-            <loadingArea offset="0 1.45 0.00" width="2.30" height="1.70" length="12.75" baleHeight="2.40"/>
+            <loadingArea offset="0 1.45 0.00" width="2.50" height="1.70" length="12.75" baleHeight="2.40"/>
             <options enableRearLoading="true" enableSideLoading="true" />
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardFlatbedTrailer/flatbedTrailer.xml" selectedConfigs="1" modHubId="241140">
