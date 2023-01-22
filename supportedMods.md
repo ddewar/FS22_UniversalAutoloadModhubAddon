@@ -109,9 +109,9 @@ Title | Author | Loading Areas | Options Set
 [53 Ft Dry Van](https://www.farming-simulator.com/mod.php?mod_id=248424&title=fs2022) | Perma's Modding | 1 | Rear Loading, Box Trailer, No Loading When Folded
 [30' Flatbed Autoloading Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242221&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading
 [30' Flatbed Autoloading Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242221&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Log Trailer
-[ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | 
+[ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | Log Trailer
 [ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
-[ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | 
+[ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | Log Trailer
 [ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
 [Lomma ZDK 1802](https://www.farming-simulator.com/mod.php?mod_id=237992&title=fs2022) | VertexDezign | 1 | Side Loading
 [Semi-Trailer](https://www.farming-simulator.com/mod.php?mod_id=246086&title=fs2022) | Peppe978 | 1 | Rear Loading, Side Loading
@@ -142,15 +142,18 @@ Title | Author | Loading Areas | Options Set
 ---|---|:---:|---
 [Fliegl SDS350J](https://www.farming-simulator.com/mod.php?mod_id=226313&title=fs2022) | Peppe978 | 3 | Rear Loading, Side Loading
 [Lizard Self-Made Trailer](https://www.farming-simulator.com/mod.php?mod_id=229132&title=fs2022) | KaWa | 1 | Rear Loading
-[Lizard Flatbed Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=243958&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading
+[Straw Bale Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=243958&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 2 | Rear Loading, Side Loading
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 1 | Log Trailer
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 1 | Side Loading
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 2 | Rear Loading, Side Loading
+[53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 1 | Log Trailer
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 1 | Side Loading
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 2 | Rear Loading, Side Loading
+[53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 1 | Log Trailer
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 1 | Side Loading
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 2 | Rear Loading, Side Loading
+[53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 1 | Log Trailer
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=242220&title=fs2022) | macktrucker921 | 1 | Side Loading
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=238153&title=fs2022) | macktrucker921 | 2 | Rear Loading, Side Loading
 [53' Dropdeck Trailer Pack With Autoload](https://www.farming-simulator.com/mod.php?mod_id=238153&title=fs2022) | macktrucker921 | 1 | Log Trailer
@@ -218,7 +221,7 @@ Title | Author | Loading Areas | Options Set
 [Lizard Flatbed Trailer](https://www.farming-simulator.com/mod.php?mod_id=241140&title=fs2022) | North Modding Company | 1 | Rear Loading, Side Loading
 [John Deere 1075 Hay Wagon](https://www.farming-simulator.com/mod.php?mod_id=242834&title=fs2022) | Rooster Mods, 46 Mods | 1 | Side Loading, Bale Trailer
 [Tps-001](https://www.farming-simulator.com/mod.php?mod_id=233090&title=fs2022) | Serega_56 | 1 | Rear Loading, Side Loading
-[Camara Flatbed Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=243957&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading
+[Camara Straw Bale Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=243957&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading
 [Marston 22' Bale Trailer 1993](https://www.farming-simulator.com/mod.php?mod_id=252407&title=fs2022) | johndeere2450, Mattxjs | 1 | Side Loading, Bale Trailer
 ## Trucks 
 

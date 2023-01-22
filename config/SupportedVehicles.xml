@@ -453,16 +453,16 @@
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_ITRunnerPack2433HD_2633HD/containerWood.xml" selectedConfigs="2,3,4,5,6,7,8,9,10,11,12,13,14,15" modHubId="247553">
-            <loadingArea offset="0 0.40 0.26" width="2.25" height="1.85" length="6.95" baleHeight="2.80"/>
-            <!-- <options isLogTrailer="true"/> -->
+            <loadingArea offset="0 0.40 0.26" width="2.25" height="2.80" length="6.95" />
+            <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_ITRunnerPack2433HD_2633HD/containerWood.xml" selectedConfigs="1" modHubId="247553">
             <loadingArea offset="0 0.40 0.20" width="2.50" height="1.85" length="7.05" baleHeight="2.80"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_ITRunnerPack2433HD_2633HD/containerWood2.xml" selectedConfigs="2,3,4,5,6,7,8,9,10,11,12,13,14,15"  modHubId="247553">
-            <loadingArea offset="0 0.40 -0.52" width="2.25" height="1.85" length="5.40" baleHeight="2.80"/>
-            <!-- <options isLogTrailer="true"/> -->
+            <loadingArea offset="0 0.40 -0.52" width="2.25" height="2.80" length="5.40" />
+            <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_ITRunnerPack2433HD_2633HD/containerWood2.xml" selectedConfigs="1"  modHubId="247553">
             <loadingArea offset="0 0.40 -0.59" width="2.50" height="1.85" length="5.50" baleHeight="2.80"/>
