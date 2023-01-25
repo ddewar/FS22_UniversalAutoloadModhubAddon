@@ -174,6 +174,7 @@ Title | Author | Loading Areas | Options Set
 [50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
 [50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
 [50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
+[Lizard TP 10M](https://www.farming-simulator.com/mod.php?mod_id=249931&title=fs2022) | Holzs FS/Gian FS | 1 | Rear Loading, Side Loading
 ## Cars 
 
 Title | Author | Loading Areas | Options Set
