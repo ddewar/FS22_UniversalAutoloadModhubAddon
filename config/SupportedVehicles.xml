@@ -785,5 +785,9 @@
             <loadingArea offset="0 1.392 1.80" width="2.30" height="1.95" length="1.45" baleHeight="2.8"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_BaleTrailer/baletrailer.xml" modHubId="243382">  
+            <loadingArea offset="0 0.86 -0.58" width="2.30" height="1.5" length="4.25" baleHeight="2.8"/>
+            <options enableRearLoading="true" />
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

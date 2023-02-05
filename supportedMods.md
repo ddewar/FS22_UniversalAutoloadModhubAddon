@@ -230,6 +230,7 @@ Title | Author | Loading Areas | Options Set
 [Tps-001](https://www.farming-simulator.com/mod.php?mod_id=233090&title=fs2022) | Serega_56 | 1 | Rear Loading, Side Loading
 [Camara Straw Bale Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=243957&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading
 [Marston 22' Bale Trailer 1993](https://www.farming-simulator.com/mod.php?mod_id=252407&title=fs2022) | johndeere2450, Mattxjs | 1 | Side Loading, Bale Trailer
+[Lizard Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=243382&title=fs2022) | TomSky | 1 | Rear Loading
 ## Trucks 
 
 Title | Author | Loading Areas | Options Set
