@@ -230,7 +230,7 @@ Title | Author | Loading Areas | Options Set
 [Tps-001](https://www.farming-simulator.com/mod.php?mod_id=233090&title=fs2022) | Serega_56 | 1 | Rear Loading, Side Loading
 [Camara Straw Bale Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=243957&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading
 [Marston 22' Bale Trailer 1993](https://www.farming-simulator.com/mod.php?mod_id=252407&title=fs2022) | johndeere2450, Mattxjs | 1 | Side Loading, Bale Trailer
-[Lizard Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=243382&title=fs2022) | TomSky | 1 | Rear Loading
+[Lizard Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=243382&title=fs2022) | TomSky | 1 | Side Loading
 ## Trucks 
 
 Title | Author | Loading Areas | Options Set
@@ -247,6 +247,13 @@ Title | Author | Loading Areas | Options Set
 [Lizard Minor 6x4](https://www.farming-simulator.com/mod.php?mod_id=260194&title=fs2022) | SleutjesModding | 1 | Rear Loading, Side Loading
 [Lizard Minor 6x4](https://www.farming-simulator.com/mod.php?mod_id=260194&title=fs2022) | SleutjesModding | 1 | Log Trailer
 [Lizard Minor 6x4](https://www.farming-simulator.com/mod.php?mod_id=260194&title=fs2022) | SleutjesModding | 1 | Rear Loading, Side Loading
+[Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Rear Loading, Side Loading
+[Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Rear Loading, Side Loading
+[Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Log Trailer
+[Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Rear Loading, Side Loading
+[Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Rear Loading, Side Loading
+[Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Log Trailer
+[Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Rear Loading, Side Loading, Box Trailer
 ## Forestry Equipment 
 
 Title | Author | Loading Areas | Options Set

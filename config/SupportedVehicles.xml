@@ -787,7 +787,35 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_BaleTrailer/baletrailer.xml" modHubId="243382">  
             <loadingArea offset="0 0.86 -0.58" width="2.30" height="1.5" length="4.25" baleHeight="2.8"/>
-            <options enableRearLoading="true" />
+            <options enableSideLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardHpnSeries/granel6x2.xml" modHubId="237555" selectedConfigs="1">  
+            <loadingArea offset="0.000 2.08 0.03" width="2.42" height="2.00" length="7.4" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardHpnSeries/granel6x2.xml" modHubId="237555" selectedConfigs="2">  
+            <loadingArea offset="0.000 2.08 0.03" width="2.42" height="1.5" length="7.4" baleHeight="1.5"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardHpnSeries/granel6x2.xml" modHubId="237555" selectedConfigs="3">  
+            <loadingArea offset="0.000 2.08 0.03" width="2.42" height="1.5" length="7.4" />
+            <options isLogTrailer="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardHpnSeries/granel4x2.xml" modHubId="237555" selectedConfigs="1">  
+            <loadingArea offset="0.000 2.08 0.03" width="2.42" height="2.00" length="6.1" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardHpnSeries/granel4x2.xml" modHubId="237555" selectedConfigs="2">  
+            <loadingArea offset="0.000 2.08 0.03" width="2.42" height="1.5" length="6.1" baleHeight="1.5"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardHpnSeries/granel4x2.xml" modHubId="237555" selectedConfigs="3">  
+            <loadingArea offset="0.000 2.08 0.03" width="2.42" height="1.5" length="6.1" />
+            <options isLogTrailer="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_LizardHpnSeries/sider6x2.xml" modHubId="237555">  
+            <loadingArea offset="0.000 1.95 0.03" width="2.42" height="2.75" length="7.3" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true" isBoxTrailer="true" />
         </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
