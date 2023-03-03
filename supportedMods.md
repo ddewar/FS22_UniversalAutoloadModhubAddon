@@ -107,8 +107,6 @@ Title | Author | Loading Areas | Options Set
 [Old Low Trailer](https://www.farming-simulator.com/mod.php?mod_id=238293&title=fs2022) | Happy_M0le | 1 | Rear Loading, Side Loading
 [Lizard Trailer](https://www.farming-simulator.com/mod.php?mod_id=229433&title=fs2022) | Dutch-Modding | 1 | Side Loading
 [53 Ft Dry Van](https://www.farming-simulator.com/mod.php?mod_id=248424&title=fs2022) | Perma's Modding | 1 | Rear Loading, Box Trailer, No Loading When Folded
-[30' Flatbed Autoloading Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242221&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading
-[30' Flatbed Autoloading Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242221&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Log Trailer
 [ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | Log Trailer
 [ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
 [ITRunner Pack 2433HD And 2633HD](https://www.farming-simulator.com/mod.php?mod_id=247553&title=fs2022) | Agro Tonho | 1 | Log Trailer
@@ -207,6 +205,7 @@ Title | Author | Loading Areas | Options Set
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
+[Lizard XJ](https://www.farming-simulator.com/mod.php?mod_id=261213&title=fs2022) | Dominick | 2 | Rear Loading, Box Trailer
 ## Miscellaneous 
 
 Title | Author | Loading Areas | Options Set
