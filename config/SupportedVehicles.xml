@@ -822,5 +822,21 @@
             <loadingArea offset="0.000 2.20 -0.70" width="1.35" height="1.0" length="2.15"/>
             <options enableRearLoading="true" isBoxTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_MultiTrailer_Pack/OneAxle.xml" useConfigName="design" selectedConfigs="1,2,3,4" modHubId="247532">
+            <loadingArea offset="0.000 1.12 0.500" width="2.62" height="2.0" length="6.06" baleHeight="2.731"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_MultiTrailer_Pack/OneAxle.xml" useConfigName="design" selectedConfigs="5" modHubId="247532">
+            <loadingArea offset="0.000 1.12 0.500" width="2.62" height="2.0" length="6.06"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_MultiTrailer_Pack/Tandem.xml" useConfigName="design" selectedConfigs="1,2,3,4" modHubId="247532">
+            <loadingArea offset="0.000 1.12 -1.15" width="2.62" height="2.0" length="9.35" baleHeight="2.731"/>
+            <options enableRearLoading="true" enableSideLoading="true" />
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_MultiTrailer_Pack/Tandem.xml" useConfigName="design" selectedConfigs="5" modHubId="247532">
+            <loadingArea offset="0.000 1.12 -1.15" width="2.62" height="2.0" length="9.35" baleHeight="2.731"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
