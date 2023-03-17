@@ -360,7 +360,7 @@
             <loadingArea offset="0.00 0.71 -1.60" width="2.45" height="1.70" length="9.45" baleHeight="2.75"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration> -->
-        <vehicleConfiguration configFileName="FS22_dropdeckTrailer53Ft_AutoPack_crossplay/dropDeckTrailer_Auto.xml" selectedConfigs="1" modHubId="242220">  
+        <!-- Added to Mod XML <vehicleConfiguration configFileName="FS22_dropdeckTrailer53Ft_AutoPack_crossplay/dropDeckTrailer_Auto.xml" selectedConfigs="1" modHubId="242220">  
             <loadingArea offset="0.00 1.75 7.27" width="2.45" height="1.23" length="2.30" baleHeight="2.28"/>
             <loadingArea offset="0.00 1.28 -0.15" width="2.45" height="1.70" length="12.25" baleHeight="2.75"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
@@ -411,7 +411,7 @@
         <vehicleConfiguration configFileName="FS22_dropdeckTrailer53Ft_AutoPack_crossplay/dropDeckTrailer_AutoRound180.xml" selectedConfigs="6,7,8,9" modHubId="242220">
             <loadingArea offset="0.00 1.75 7.27" width="2.45" height="1.23" length="2.30" baleHeight="2.28"/>
             <options enableSideLoading="true"/>
-        </vehicleConfiguration>
+        </vehicleConfiguration> -->
         <vehicleConfiguration configFileName="FS22_dropdeckTrailer53Ft_AutoPack/dropDeckTrailer_Auto.xml" selectedConfigs="1" modHubId="238153">  
             <loadingArea offset="0.00 1.75 7.27" width="2.45" height="1.23" length="2.30" baleHeight="2.28"/>
             <loadingArea offset="0.00 1.28 -0.15" width="2.45" height="1.70" length="12.25" baleHeight="2.75"/>
@@ -545,7 +545,7 @@
             <options enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_HW80WoodTrailer/hw80.xml" modHubId="227137">  
-            <loadingArea offset="0 1.35 0.25" width="1.95" height="1.60" length="6.0"/>
+            <loadingArea offset="0 1.35 0.25" width="1.95" height="1.60" length="6.2"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Kesla_144ND/nd122.xml" modHubId="232093">
