@@ -185,6 +185,14 @@ Title | Author | Loading Areas | Options Set
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [Lizard XJ](https://www.farming-simulator.com/mod.php?mod_id=261213&title=fs2022) | Dominick | 2 | Rear Loading, Box Trailer
+[Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Bale Trailer, Read Unloading Only, Overlapping Zones
+[Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Bale Trailer, Read Unloading Only, Overlapping Zones
+[Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Bale Trailer, Read Unloading Only, Overlapping Zones
+[Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Bale Trailer, Read Unloading Only, Overlapping Zones
+[Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
+[Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
+[Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
+[Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
 ## Miscellaneous 
 
 Title | Author | Loading Areas | Options Set
