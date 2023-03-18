@@ -1,4 +1,4 @@
-# Supported Mods 
+# Supported Modhub Mods: 113 
 
 ## Potato Technology 
 
