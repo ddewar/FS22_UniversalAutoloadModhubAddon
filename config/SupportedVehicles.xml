@@ -873,5 +873,9 @@
             <loadingArea offset="0 1.35 -0.24" width="2.50" height="1.5" length="9.43" baleHeight="2.8"/>
             <options enableSideLoading="true" isBaleTrailer="true" />
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_GVWJ4027/przyczeppa.xml" modHubId="260582">  
+            <loadingArea offset="0 0.65 -0.83" width="2.08" height="1.5" length="4.25" baleHeight="2.5"/>
+            <options enableSideLoading="true" enableRearLoading="true" />
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

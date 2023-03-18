@@ -134,6 +134,7 @@ Title | Author | Loading Areas | Options Set
 [Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
 [Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
 [Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
+[Lizard GVW J4027](https://www.farming-simulator.com/mod.php?mod_id=260582&title=fs2022) | Hydraulik | 1 | Rear Loading, Side Loading
 ## Low Loaders 
 
 Title | Author | Loading Areas | Options Set
