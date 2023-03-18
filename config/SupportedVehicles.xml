@@ -877,5 +877,9 @@
             <loadingArea offset="0 0.65 -0.83" width="2.08" height="1.5" length="4.25" baleHeight="2.5"/>
             <options enableSideLoading="true" enableRearLoading="true" />
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_metaltechDBLPack/metaltechDBL.xml" selectedConfigs="1" modHubId="258412">
+            <loadingArea offset="0 1.44 -0.47" width="2.47" height="1.50" length="5.18" baleHeight="2.80"/>
+            <options enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
