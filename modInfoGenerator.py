@@ -100,13 +100,14 @@ for xmlFile in xmlFiles:
 supportedMods = 'supportedMods.md'
 with open(supportedMods, 'w') as out:
     modHubCount = len(set(val.modHubId for cat, mods in configuredMods.items() for val in mods))
+    configurations = sum(len(v) for v in configuredMods.values())
     # modHubMods = set()
     # for category, mods in configuredMods.items():
     #     for mod in mods:
     #         modHubMods.add(mod.modHubId)
     # modHubCount = len(modHubMods)
 
-    out.write(f'# Supported Modhub Mods: {modHubCount} \n\n')
+    out.write(f'#{modHubCount} Supported Modhub Mods and {configurations} Configutations  \n\n')
 
     for category, mods in configuredMods.items():
         out.write(f'## {category} \n\n')
