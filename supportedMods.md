@@ -1,4 +1,4 @@
-#113 Supported Modhub Mods and 210 Configutations  
+#114 Supported Modhub Mods and 213 Configutations  
 
 ## Potato Technology 
 
@@ -247,6 +247,9 @@ Title | Author | Loading Areas | Options Set
 [Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Rear Loading, Side Loading
 [Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Log Trailer
 [Lizard HPN Series Brazil](https://www.farming-simulator.com/mod.php?mod_id=237555&title=fs2022) | Cola | 1 | Rear Loading, Side Loading, Box Trailer
+[MAN TGX 26640 Box Pack](https://www.farming-simulator.com/mod.php?mod_id=262385&title=fs2022) | By TB.Simulationen | 1 | Rear Loading, Side Loading, Bale Trailer, Box Trailer
+[MAN TGX 26640 Box Pack](https://www.farming-simulator.com/mod.php?mod_id=262385&title=fs2022) | By TB.Simulationen | 1 | Rear Loading, Side Loading, Bale Trailer, Box Trailer
+[MAN TGX 26640 Box Pack](https://www.farming-simulator.com/mod.php?mod_id=262385&title=fs2022) | By TB.Simulationen | 1 | Rear Loading, Side Loading, Bale Trailer, Box Trailer
 ## Forestry Equipment 
 
 Title | Author | Loading Areas | Options Set
