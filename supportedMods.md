@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 218 Configutations  
+#116 Supported Modhub Mods and 219 Configutations  
 
 ## Potato Technology 
 
@@ -276,6 +276,7 @@ Title | Author | Loading Areas | Options Set
 [Fliegl Timber Runner Pack](https://www.farming-simulator.com/mod.php?mod_id=258564&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Fliegl Timber Runner Pack](https://www.farming-simulator.com/mod.php?mod_id=258564&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer, Overlapping Zones
 [Fliegl Timber Runner Pack](https://www.farming-simulator.com/mod.php?mod_id=258564&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
+[MAN TGS Shortwood Pack](https://www.farming-simulator.com/mod.php?mod_id=230299&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [MAN TGS Shortwood Pack](https://www.farming-simulator.com/mod.php?mod_id=230299&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Lizard Short Wood Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242219&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Lizard Short Wood Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=242219&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
