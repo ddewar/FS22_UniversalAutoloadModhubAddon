@@ -268,7 +268,7 @@
         <containerConfiguration name="FS22_HofBergmann:breadBox" containerType="ALL" sizeX="0.650" sizeY="0.300" sizeZ="0.450"/>
         <containerConfiguration name="FS22_HofBergmann:liquidYeastCanister" containerType="ALL" sizeX="0.19" sizeY="0.37" sizeZ="0.29"/>
         <containerConfiguration name="FS22_HofBergmann:hopsBale" containerType="ALL" sizeX="1.250" sizeY="0.790" sizeZ="0.850"/>
-        <containerConfiguration name="FS22_HofBergmann:woolBundle" containerType="ALL" sizeX="0.600" sizeY="0.550" sizeZ="0.800"/>
+        <containerConfiguration name="FS22_HofBergmann:woolBundle" containerType="ALL" sizeX="0.600" sizeY="0.575" sizeZ="0.800"/>
         <containerConfiguration name="FS22_HofBergmann:maltMealSack" containerType="ALL" sizeX="0.58" sizeY="0.20" sizeZ="1.0"/>
         <containerConfiguration name="FS22_HofBergmann:maltSack" containerType="ALL" sizeX="0.58" sizeY="0.20" sizeZ="1.0"/>
         <containerConfiguration name="FS22_HofBergmann:flourSack" containerType="ALL" sizeX="0.600" sizeY="0.375" sizeZ="1.100"/>
