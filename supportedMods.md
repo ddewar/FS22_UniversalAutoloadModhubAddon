@@ -1,4 +1,4 @@
-#114 Supported Modhub Mods and 213 Configutations  
+#115 Supported Modhub Mods and 217 Configutations  
 
 ## Potato Technology 
 
@@ -126,14 +126,14 @@ Title | Author | Loading Areas | Options Set
 [Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Side Loading, Bale Trailer
 [Lizard Light Trailer 650](https://www.farming-simulator.com/mod.php?mod_id=243955&title=fs2022) | AFModding | 1 | Rear Loading, Log Trailer
 [TLX X52 Enclosed Trailer](https://www.farming-simulator.com/mod.php?mod_id=250236&title=fs2022) | 82Studio | 1 | Rear Loading, Box Trailer, No Loading When Folded
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
-[Small Flatbed Trailer Autoload Pack](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
+[Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
+[Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
+[Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
+[Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
+[Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
+[Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
+[Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Rear Loading, Side Loading, Horizontal Loading
+[Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
 [Lizard GVW J4027](https://www.farming-simulator.com/mod.php?mod_id=260582&title=fs2022) | Hydraulik | 1 | Rear Loading, Side Loading
 [Metaltech DBL Pack](https://www.farming-simulator.com/mod.php?mod_id=258412&title=fs2022) | Matt26 | 1 | Side Loading
 ## Low Loaders 
@@ -147,7 +147,7 @@ Title | Author | Loading Areas | Options Set
 [Transport Platform 4000/H](https://www.farming-simulator.com/mod.php?mod_id=232175&title=fs2022) | Adub Modding ABP Team Feat.BSM | 1 | Rear Loading, Side Loading
 [McCauley Lowloader](https://www.farming-simulator.com/mod.php?mod_id=252504&title=fs2022) | FastFarming | 2 | Side Loading
 [McCauley Lowloader](https://www.farming-simulator.com/mod.php?mod_id=252504&title=fs2022) | FastFarming | 2 | Side Loading
-[Goldhofer STZ-VP 3](https://www.farming-simulator.com/mod.php?mod_id=239983&title=fs2022) | HR Forst und Fahrzeugbau | 1 | 
+[Goldhofer STZ-VP Pack](https://www.farming-simulator.com/mod.php?mod_id=239983&title=fs2022) | HR Forst und Fahrzeugbau | 1 | 
 [Goldhofer STZ Special Lowloader](https://www.farming-simulator.com/mod.php?mod_id=237603&title=fs2022) | Woodcraft Modding | 2 | Side Loading
 [50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
 [50Ft Gooseneck Transport Trailer](https://www.farming-simulator.com/mod.php?mod_id=255051&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
@@ -186,7 +186,7 @@ Title | Author | Loading Areas | Options Set
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
 [TLX 3500 Series](https://www.farming-simulator.com/mod.php?mod_id=242995&title=fs2022) | 82Studio | 1 | 
-[Lizard XJ](https://www.farming-simulator.com/mod.php?mod_id=261213&title=fs2022) | Dominick | 2 | Rear Loading, Box Trailer
+[Lizard XJ](https://www.farming-simulator.com/mod.php?mod_id=261213&title=fs2022) | Ridiculous Dominick | 2 | Rear Loading, Box Trailer
 [Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Bale Trailer, Read Unloading Only, Overlapping Zones
 [Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Bale Trailer, Read Unloading Only, Overlapping Zones
 [Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Bale Trailer, Read Unloading Only, Overlapping Zones
@@ -195,6 +195,10 @@ Title | Author | Loading Areas | Options Set
 [Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
 [Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
 [Lizard F350](https://www.farming-simulator.com/mod.php?mod_id=265434&title=fs2022) | Agro Tonho | 1 | Rear Loading, Side Loading
+[TLX 1982 Special](https://www.farming-simulator.com/mod.php?mod_id=266304&title=fs2022) | 82Studio | 4 | Bale Trailer, Read Unloading Only, Overlapping Zones
+[TLX 1982 Special](https://www.farming-simulator.com/mod.php?mod_id=266304&title=fs2022) | 82Studio | 4 | Bale Trailer, Read Unloading Only, Overlapping Zones
+[TLX 1982 Special](https://www.farming-simulator.com/mod.php?mod_id=266304&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
+[TLX 1982 Special](https://www.farming-simulator.com/mod.php?mod_id=266304&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
 ## Miscellaneous 
 
 Title | Author | Loading Areas | Options Set
