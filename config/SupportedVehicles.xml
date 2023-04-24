@@ -915,5 +915,9 @@
             <loadingArea offset="0 1.80 -0.27" width="2.29" height="1.25" length="3.38" baleHeight="1.85"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Farm_Trailer/Farm_Trailer.xml" modHubId="254525" selectedConfigs="1">  
+            <loadingArea offset="0.000 1.11 -1.65" width="2.0" height="1.75" length="3.0" baleHeight="2.75"/>
+            <options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

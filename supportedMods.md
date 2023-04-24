@@ -1,4 +1,4 @@
-#115 Supported Modhub Mods and 217 Configutations  
+#116 Supported Modhub Mods and 218 Configutations  
 
 ## Potato Technology 
 
@@ -199,6 +199,7 @@ Title | Author | Loading Areas | Options Set
 [TLX 1982 Special](https://www.farming-simulator.com/mod.php?mod_id=266304&title=fs2022) | 82Studio | 4 | Bale Trailer, Read Unloading Only, Overlapping Zones
 [TLX 1982 Special](https://www.farming-simulator.com/mod.php?mod_id=266304&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
 [TLX 1982 Special](https://www.farming-simulator.com/mod.php?mod_id=266304&title=fs2022) | 82Studio | 1 | Rear Loading, Side Loading
+[Small Truck](https://www.farming-simulator.com/mod.php?mod_id=254525&title=fs2022) | Farm Centro Sul | 1 | Rear Loading, Side Loading
 ## Miscellaneous 
 
 Title | Author | Loading Areas | Options Set
