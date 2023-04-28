@@ -223,12 +223,16 @@
             <loadingArea offset="0 1.30200005 -0.75" width="3.35" height="2.00" length="6.0"/>
             <options isLogTrailer="true" />
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_orkelTX130/TX130.xml" selectedConfigs="1,3" modHubId="226465">
-            <loadingArea offset="0 1.07 -1.10" width="2.39" height="1.70" length="4.75" baleHeight="2.40"/>
+        <vehicleConfiguration configFileName="FS22_orkelTX130/TX130.xml" selectedConfigs="1" modHubId="226465">
+            <loadingArea offset="0 1.07 -1.10" width="2.39" height="1.70" length="4.75" baleHeight="2.41"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_orkelTX130/TX130.xml" selectedConfigs="4" modHubId="226465">
-            <loadingArea offset="0 1.07 -1.10" width="2.39" height="1.70" length="4.75" baleHeight="2.40"/>
-            <options enableRearLoading="true" enableSideLoading="true"/>
+            <loadingArea offset="0 1.07 -1.10" width="2.40" height="1.30" length="4.75"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_orkelTX130/TX130.xml" selectedConfigs="6" modHubId="226465">
+            <loadingArea offset="0 1.07 -1.10" width="2.50" height="1.70" length="4.75" baleHeight="2.41"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_adurante_R200A_crossplay/xmlFilename/R200A_trailers4_crossplay.xml" selectedConfigs="4,5,6,7">
             <loadingArea offset="0 1.47 -0.20" width="2.30" height="1.70" length="7.30" baleHeight="2.40"/>
