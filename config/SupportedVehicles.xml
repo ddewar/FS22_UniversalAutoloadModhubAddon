@@ -739,16 +739,16 @@
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Komatsu_Forwarder_Pack/forwarder855.xml" modHubId="247034">
-            <loadingArea offset="0 1.40 -3.45" width="2.70" height="0.6" length="5.0" heightAxis="AXIS_CRANE_TOOL3"/>
+            <loadingArea offset="0 1.88 -3.67" width="2.70" height="1.7" length="5.5"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Komatsu_Forwarder_Pack/forwarder875.xml" modHubId="247034">
-            <loadingArea offset="0 1.40 -3.45" width="2.70" height="2.12" length="5.0"/>
+            <loadingArea offset="0 1.88 -3.67" width="2.70" height="1.7" length="5.5"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Komatsu_Forwarder_Pack/forwarder875FLX.xml" modHubId="247034">
-            <loadingArea offset="0 1.40 -3.45" width="2.70" height="0.6" length="5.0" heightAxis="AXIS_CRANE_TOOL3" noLoadingIfUnfolded="true"/>
-            <loadingArea offset="0 1.40 -3.45" width="3.40" height="0.6" length="5.0" heightAxis="AXIS_CRANE_TOOL3" noLoadingIfFolded="true"/>
+            <loadingArea offset="0 1.88 -3.67" width="2.70" height="1.7" length="5.5" noLoadingIfUnfolded="true"/>
+            <loadingArea offset="0 1.88 -3.67" width="3.45" height="1.7" length="5.5" noLoadingIfFolded="true"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_lizardLogger/lizardLogger.xml" modHubId="230269">
