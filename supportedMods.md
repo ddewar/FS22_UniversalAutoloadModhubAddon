@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 225 Configutations  
+#116 Supported Modhub Mods and 231 Configutations  
 
 ## Potato Technology 
 
@@ -261,6 +261,12 @@ Title | Author | Loading Areas | Options Set
 [MAN TGX 26640 Box Pack](https://www.farming-simulator.com/mod.php?mod_id=262385&title=fs2022) | By TB.Simulationen | 1 | Rear Loading, Side Loading, Bale Trailer, Box Trailer
 [MAN TGX 26640 Box Pack](https://www.farming-simulator.com/mod.php?mod_id=262385&title=fs2022) | By TB.Simulationen | 1 | Rear Loading, Side Loading, Bale Trailer, Box Trailer
 [MAN TGX 26640 Box Pack](https://www.farming-simulator.com/mod.php?mod_id=262385&title=fs2022) | By TB.Simulationen | 1 | Rear Loading, Side Loading, Bale Trailer, Box Trailer
+[AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Rear Loading, Box Trailer
+[AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Rear Loading, Box Trailer
+[AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Rear Loading, Side Loading, Bale Trailer
+[AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Rear Loading, Side Loading, Bale Trailer
+[AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Log Trailer
+[AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Log Trailer
 ## Forestry Equipment 
 
 Title | Author | Loading Areas | Options Set

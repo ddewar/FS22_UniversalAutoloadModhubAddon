@@ -952,5 +952,29 @@
 			<loadingArea offset="0 1.1 0" width="2.5" height="2.7" length="10" baleHeight="3.2"/>
 			<options isBaleTrailer="true" enableSideLoading="true"/>
 		</vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_AW362_CaboverR/bau.xml" modHubId="250565">  
+            <loadingArea offset="0 1.27 -1.92" width="2.4" height="2.8" length="7.6"/>
+            <options isBoxTrailer="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_AW362_CaboverR/bauDD60.xml" modHubId="250565">  
+            <loadingArea offset="0 1.27 -1.92" width="2.4" height="2.8" length="7.6"/>
+            <options isBoxTrailer="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_AW362_CaboverR/prancha.xml" modHubId="250565">  
+            <loadingArea offset="0 1.41 -2.18" width="2.36" height="2.4" length="7.55" baleHeight="3.2" noLoadingIfUnfolded="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_AW362_CaboverR/pranchaDD60.xml" modHubId="250565">  
+            <loadingArea offset="0 1.41 -2.18" width="2.36" height="2.4" length="7.55" baleHeight="3.2" noLoadingIfUnfolded="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_AW362_CaboverR/madeira.xml" modHubId="250565">  
+            <loadingArea offset="0 1.22 -2.03" width="2.35" height="2.3" length="6.8"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_AW362_CaboverR/madeiraDD60.xml" modHubId="250565">  
+            <loadingArea offset="0 1.22 -2.03" width="2.35" height="2.3" length="6.8"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
