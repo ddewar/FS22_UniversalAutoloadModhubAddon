@@ -944,5 +944,13 @@
             <loadingArea offset="-0.1 1.73 -1.46" width="2.6" height="2.5" length="9"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_RollandRPLCH/RP9006LCH.xml" modHubId="240058">  
+			<loadingArea offset="0 1.1 0.5" width="2.5" height="2.7" length="9" baleHeight="3.2"/>
+			<options isBaleTrailer="true" enableSideLoading="true"/>
+		</vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_RollandRPLCH/RP10006LCH.xml" modHubId="240058">  
+			<loadingArea offset="0 1.1 0" width="2.5" height="2.7" length="10" baleHeight="3.2"/>
+			<options isBaleTrailer="true" enableSideLoading="true"/>
+		</vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>

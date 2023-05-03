@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 223 Configutations  
+#116 Supported Modhub Mods and 225 Configutations  
 
 ## Potato Technology 
 
@@ -233,6 +233,8 @@ Title | Author | Loading Areas | Options Set
 [Multi Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=247532&title=fs2022) | WOLFex Modding | 1 | Rear Loading, Side Loading
 [Multi Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=247532&title=fs2022) | WOLFex Modding | 1 | Log Trailer
 [Homemade Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=256429&title=fs2022) | Slajmon | 1 | Side Loading, Bale Trailer
+[Rolland RP LCH Trailers](https://www.farming-simulator.com/mod.php?mod_id=240058&title=fs2022) | ARM-Team | 1 | Side Loading, Bale Trailer
+[Rolland RP LCH Trailers](https://www.farming-simulator.com/mod.php?mod_id=240058&title=fs2022) | ARM-Team | 1 | Side Loading, Bale Trailer
 ## Trucks 
 
 Title | Author | Loading Areas | Options Set
