@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 231 Configutations  
+#116 Supported Modhub Mods and 234 Configutations  
 
 ## Potato Technology 
 
@@ -267,6 +267,9 @@ Title | Author | Loading Areas | Options Set
 [AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Rear Loading, Side Loading, Bale Trailer
 [AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Log Trailer
 [AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Log Trailer
+[FS22_LizardF600](https://www.farming-simulator.com/mod.php?mod_id=243774&title=fs2022) | Farm Centro Sul/FHZ/Cola Modding | 1 | Rear Loading, Side Loading, Bale Trailer
+[FS22_LizardF600](https://www.farming-simulator.com/mod.php?mod_id=243774&title=fs2022) | Farm Centro Sul/FHZ/Cola Modding | 1 | Rear Loading, Side Loading
+[FS22_LizardF600](https://www.farming-simulator.com/mod.php?mod_id=243774&title=fs2022) | Farm Centro Sul/FHZ/Cola Modding | 1 | Log Trailer
 ## Forestry Equipment 
 
 Title | Author | Loading Areas | Options Set

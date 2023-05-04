@@ -976,5 +976,17 @@
             <loadingArea offset="0 1.22 -2.03" width="2.35" height="2.3" length="6.8"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_LizardF600/Granel.xml" selectedConfigs="1" modHubId="243774">  
+			<loadingArea offset="0 2.62 0.46" width="2.55" height="2" length="6.3" baleHeight="2.8"/>
+			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+		</vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_LizardF600/Granel.xml" selectedConfigs="2" modHubId="243774">  
+			<loadingArea offset="0 2.62 0.46" width="2.55" height="2" length="6.3" baleHeight="2.8"/>
+			<options enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_LizardF600/Granel.xml" selectedConfigs="4" modHubId="243774">  
+            <loadingArea offset="0 2.62 0.35" width="2.35" height="1.4" length="6.5"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
