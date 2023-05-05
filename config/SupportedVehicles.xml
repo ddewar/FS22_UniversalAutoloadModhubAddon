@@ -988,5 +988,13 @@
             <loadingArea offset="0 2.62 0.35" width="2.35" height="1.4" length="6.5"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Forest_Platform/Aufbau.xml" modHubId="261023">
+            <loadingArea offset="0 1.84 -1.55" width="2.25" height="2.55" length="6.5"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Forest_Platform/Aufbau2.xml" modHubId="261023">
+            <loadingArea offset="0 1.84 -1.55" width="2.25" height="2.55" length="6.5"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
