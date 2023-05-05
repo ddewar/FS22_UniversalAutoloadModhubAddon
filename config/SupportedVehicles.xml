@@ -934,7 +934,7 @@
 	</vehicleConfiguration>
 	<vehicleConfiguration configFileName="FS22_ITRTwo/ITRTwo.xml" selectedConfigs="2" modHubId="259967">
 		<loadingArea offset="0.000 0.52 -0.29" width="2.35" height="2.4" length="8.1"/>
-		<options enableSideLoading="true" isLogTrailer="true"/>
+		<options isLogTrailer="true"/>
 	</vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
