@@ -930,7 +930,7 @@
         </vehicleConfiguration>
 	<vehicleConfiguration configFileName="FS22_ITRTwo/ITRTwo.xml" selectedConfigs="1" modHubId="259967">
 		<loadingArea offset="0.000 0.334 0.195" width="2.50" height="2.20" length="7.20"/>
-		<options enableSideLoading="true"/>
+		<options enableRearLoading="true" enableSideLoading="true"/>
 	</vehicleConfiguration>
 	<vehicleConfiguration configFileName="FS22_ITRTwo/ITRTwo.xml" selectedConfigs="2" modHubId="259967">
 		<loadingArea offset="0.000 0.52 -0.29" width="2.35" height="2.4" length="8.1"/>
