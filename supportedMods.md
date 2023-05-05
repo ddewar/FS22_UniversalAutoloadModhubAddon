@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 235 Configutations  
+#116 Supported Modhub Mods and 237 Configutations  
 
 ## Potato Technology 
 
@@ -140,6 +140,8 @@ Title | Author | Loading Areas | Options Set
 [American Flatbed Pack](https://www.farming-simulator.com/mod.php?mod_id=264240&title=fs2022) | GamerDesigns | 1 | Log Trailer
 [American Flatbed Pack](https://www.farming-simulator.com/mod.php?mod_id=264240&title=fs2022) | GamerDesigns | 1 | Side Loading
 [American Flatbed Pack](https://www.farming-simulator.com/mod.php?mod_id=264240&title=fs2022) | GamerDesigns | 1 | Log Trailer
+[ITRTwo](https://www.farming-simulator.com/mod.php?mod_id=259967&title=fs2022) | Vanquish081 VSR Modding Sur] | 1 | Rear Loading, Side Loading, Bale Trailer
+[ITRTwo](https://www.farming-simulator.com/mod.php?mod_id=259967&title=fs2022) | Vanquish081 VSR Modding Sur] | 1 | Log Trailer
 ## Low Loaders 
 
 Title | Author | Loading Areas | Options Set

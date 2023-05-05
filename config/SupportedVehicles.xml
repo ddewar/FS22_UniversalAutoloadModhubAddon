@@ -996,5 +996,13 @@
             <loadingArea offset="0 1.84 -1.55" width="2.25" height="2.55" length="6.5"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_ITRTwo/ITRTwo.xml" selectedConfigs="1" modHubId="259967">
+            <loadingArea offset="0.000 0.334 0.132" width="2.5" height="2.80" length="7.35"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_ITRTwo/ITRTwo.xml" selectedConfigs="2" modHubId="259967">
+            <loadingArea offset="0.000 0.5 0.15" width="2.35" height="2.3" length="7.1"/>
+            <options isLogTrailer="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
