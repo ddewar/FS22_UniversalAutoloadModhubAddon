@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 237 Configutations  
+#116 Supported Modhub Mods and 238 Configutations  
 
 ## Potato Technology 
 
@@ -216,6 +216,7 @@ Title | Author | Loading Areas | Options Set
 Title | Author | Loading Areas | Options Set
 ---|---|:---:|---
 [Bailey Bale And Pallet Trailer](https://www.farming-simulator.com/mod.php?mod_id=228030&title=fs2022) | Bolex Simulation | 1 | Side Loading, Bale Trailer
+[Bailey Bale And Pallet Trailer](https://www.farming-simulator.com/mod.php?mod_id=228030&title=fs2022) | Bolex Simulation | 1 | Side Loading, Rear Loading, Bale Trailer
 [DPW1800](https://www.farming-simulator.com/mod.php?mod_id=231490&title=fs2022) | Keilermodding | 2 | Side Loading, Bale Trailer
 [Fliegl DPW 180](https://www.farming-simulator.com/mod.php?mod_id=224967&title=fs2022) | Hydraulik | 1 | Side Loading, Bale Trailer
 [Fliegl DPW Pack](https://www.farming-simulator.com/mod.php?mod_id=225492&title=fs2022) | MefiuFs | 1 | Side Loading, Bale Trailer

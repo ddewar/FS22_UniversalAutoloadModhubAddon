@@ -113,9 +113,13 @@
         <vehicleConfiguration configFileName="FS22_allPurposeTool/all-purpose-tool.xml" modHubId="227935">
             <loadingArea offset="0 0.15 0.80" width="3.50" height="2.25" length="1.90"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_Bailey_Bale_Pallet_Trailer/BPTrailer.xml" modHubId="228030">
-            <loadingArea offset="0 1.08 -0.65" width="2.55" height="1.70" length="7.0" baleHeight="2.50"/>
+        <vehicleConfiguration configFileName="FS22_Bailey_Bale_Pallet_Trailer/BPTrailer.xml" selectedConfigs="1,3" modHubId="228030">
+            <loadingArea offset="0 1.07 -0.72" width="2.65" height="2.4" length="6.75" baleHeight="3.20"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_Bailey_Bale_Pallet_Trailer/BPTrailer.xml" selectedConfigs="2,4" modHubId="228030">
+            <loadingArea offset="0 1.07 -0.89" width="2.65" height="2.4" length="7.1" baleHeight="3.20"/>
+            <options isBaleTrailer="true" enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Brantner_DD_24073/dd24073.xml" selectedConfigs="1,4,5" modHubId="227421">
             <loadingArea offset="0 1.43 -0.70" width="2.45" height="1.70" length="7.20" baleHeight="2.50"/>
