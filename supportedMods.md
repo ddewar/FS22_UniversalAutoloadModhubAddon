@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 238 Configutations  
+#116 Supported Modhub Mods and 240 Configutations  
 
 ## Potato Technology 
 
@@ -238,6 +238,8 @@ Title | Author | Loading Areas | Options Set
 [Homemade Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=256429&title=fs2022) | Slajmon | 1 | Side Loading, Bale Trailer
 [Rolland RP LCH Trailers](https://www.farming-simulator.com/mod.php?mod_id=240058&title=fs2022) | ARM-Team | 1 | Side Loading, Bale Trailer
 [Rolland RP LCH Trailers](https://www.farming-simulator.com/mod.php?mod_id=240058&title=fs2022) | ARM-Team | 1 | Side Loading, Bale Trailer
+[Marshall BC/32](https://www.farming-simulator.com/mod.php?mod_id=235656&title=fs2022) | E.T.A La Marchoise | 1 | Side Loading, Rear Loading, Bale Trailer
+[Marshall BC/32](https://www.farming-simulator.com/mod.php?mod_id=235656&title=fs2022) | E.T.A La Marchoise | 1 | Side Loading, Bale Trailer
 ## Trucks 
 
 Title | Author | Loading Areas | Options Set
