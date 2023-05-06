@@ -1016,5 +1016,17 @@
             <loadingArea offset="0 1.35 -0.18" width="2.45" height="2.6" length="9.5" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_JunkkariJ16_J18/j16jl.xml" selectedConfigs="1" modHubId="249628">
+            <loadingArea offset="0 0.854 -0.93" width="2.65" height="2.6" length="6.3" baleHeight="3.8"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_JunkkariJ16_J18/j16jl.xml" selectedConfigs="2" modHubId="249628">
+            <loadingArea offset="0 0.854 -1.35" width="2.53" height="2.6" length="7.4" baleHeight="3.8"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_JunkkariJ16_J18/j16jl.xml" selectedConfigs="3" modHubId="249628">
+            <loadingArea offset="0 0.854 -0.72" width="2.65" height="2.6" length="5.8" baleHeight="3.8" noLoadingIfFolded="true"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
