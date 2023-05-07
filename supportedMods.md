@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 244 Configutations  
+#116 Supported Modhub Mods and 245 Configutations  
 
 ## Potato Technology 
 
@@ -279,6 +279,7 @@ Title | Author | Loading Areas | Options Set
 [FS22_LizardF600](https://www.farming-simulator.com/mod.php?mod_id=243774&title=fs2022) | Farm Centro Sul/FHZ/Cola Modding | 1 | Rear Loading, Side Loading, Bale Trailer
 [FS22_LizardF600](https://www.farming-simulator.com/mod.php?mod_id=243774&title=fs2022) | Farm Centro Sul/FHZ/Cola Modding | 1 | Rear Loading, Side Loading
 [FS22_LizardF600](https://www.farming-simulator.com/mod.php?mod_id=243774&title=fs2022) | Farm Centro Sul/FHZ/Cola Modding | 1 | Log Trailer
+[MAN TGX 26.640 Straw Bale](https://www.farming-simulator.com/mod.php?mod_id=264434&title=fs2022) | caleruega modding design | 1 | Bale Trailer, Rear Loading, Side Loading
 ## Forestry Equipment 
 
 Title | Author | Loading Areas | Options Set

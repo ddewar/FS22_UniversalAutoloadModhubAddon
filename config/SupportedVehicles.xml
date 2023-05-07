@@ -1034,5 +1034,9 @@
             <loadingArea offset="0 1.084 -0.1" width="2.65" height="2.6" length="6.5" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_manTGX_26640_strawbale/tgx26640.xml" modHubId="264434">
+            <loadingArea offset="0 1.23 -2.12" width="2.5" height="2.6" length="8.5" baleHeight="3.8"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
