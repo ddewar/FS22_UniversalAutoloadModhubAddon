@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 245 Configutations  
+#116 Supported Modhub Mods and 246 Configutations  
 
 ## Potato Technology 
 
@@ -145,6 +145,7 @@ Title | Author | Loading Areas | Options Set
 [Junkkari J16-J18](https://www.farming-simulator.com/mod.php?mod_id=249628&title=fs2022) | Farmari99] | 1 | Rear Loading, Side Loading, Bale Trailer
 [Junkkari J16-J18](https://www.farming-simulator.com/mod.php?mod_id=249628&title=fs2022) | Farmari99] | 1 | Side Loading, Bale Trailer
 [Junkkari J16-J18](https://www.farming-simulator.com/mod.php?mod_id=249628&title=fs2022) | Farmari99] | 1 | Side Loading, Bale Trailer
+[Lizard Straw Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=264436&title=fs2022) | caleruega modding design | 1 | Bale Trailer, Rear Loading, Side Loading
 ## Low Loaders 
 
 Title | Author | Loading Areas | Options Set
