@@ -231,7 +231,7 @@ Title | Author | Loading Areas | Options Set
 [Lizard Flatbed Trailer](https://www.farming-simulator.com/mod.php?mod_id=241140&title=fs2022) | North Modding Company | 1 | Rear Loading, Side Loading
 [John Deere 1075 Hay Wagon](https://www.farming-simulator.com/mod.php?mod_id=242834&title=fs2022) | Rooster Mods, 46 Mods | 1 | Side Loading, Bale Trailer
 [Tps-001](https://www.farming-simulator.com/mod.php?mod_id=233090&title=fs2022) | Serega_56 | 1 | Rear Loading, Side Loading
-[Camara Straw Bale Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=243957&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading
+[Camara Straw Bale Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=243957&title=fs2022) | caleruega modding design | 1 | Bale Trailer, Rear Loading, Side Loading
 [Marston 22' Bale Trailer 1993](https://www.farming-simulator.com/mod.php?mod_id=252407&title=fs2022) | johndeere2450, Mattxjs | 1 | Side Loading, Bale Trailer
 [Lizard Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=243382&title=fs2022) | TomSky | 1 | Side Loading
 [Multi Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=247532&title=fs2022) | WOLFex Modding | 1 | Rear Loading, Side Loading
