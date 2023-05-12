@@ -298,6 +298,18 @@
         <vehicleConfiguration configFileName="FS22_MAN_TGX_26640_Platform/tgx26640.xml" modHubId="233238">
             <loadingArea offset="0 1.28 -2.03" width="2.45" height="2.5" length="7.65" baleHeight="2.75"/>
             <options enableSideLoading="true" enableRearLoading="true"/>
+        <vehicleConfiguration configFileName="FS22_MAN_TGX_26640_Box/MAN_TGX_26640_Koffer.xml" modHubId="262385">
+            <loadingArea offset="0 1.206 -1.35" width="2.25" height="2.65" length="6.75" baleHeight="2.5"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_MAN_TGX_26640_Box/Tandem_Koffer.xml" modHubId="262385">
+            <loadingArea offset="0 1.265 -1.2" width="2.25" height="2.65" length="6.75" baleHeight="2.5"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_MAN_TGX_26640_Box/Turntable_Koffer.xml" modHubId="262385">
+            <loadingArea offset="0 1.263 -1.2" width="2.25" height="2.65" length="6.75" baleHeight="2.5"/>
+            <options enableSideLoading="true" enableRearLoading="true"/>
+        </vehicleConfiguration>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_PTS_4_5_BURLAK_Pack/2_PTS_4_5.xml" selectedConfigs="1" modHubId="230595">
             <loadingArea offset="0 1.35 -0.12" width="2.30" height="1.70" length="4.25" baleHeight="2.50"/>
