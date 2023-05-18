@@ -928,5 +928,9 @@
             <loadingArea offset="0.000 1.11 -1.65" width="2.0" height="1.75" length="3.0" baleHeight="2.75"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_Lenormand_12m/Lenormand.xml" modHubId="270383">
+            <loadingArea offset="0 1.096 -1.51" width="2.55" height="1.90" length="12.05" baleHeight="3.7"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
     </vehicleConfigurations>
 </universalAutoLoad>
