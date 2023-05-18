@@ -934,63 +934,67 @@
             <loadingArea offset="0.000 1.11 -1.65" width="2.0" height="1.75" length="3.0" baleHeight="2.75"/>
             <options enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/flatbed.xml" useConfigName="design" selectedConfigs="1" modHubId="264240">  
-            <loadingArea offset="-0.1 1.49 0.03" width="2.6" height="2.8" length="12.6" baleHeight="2.8"/>
-            <options enableSideLoading="true"/>
+        <vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/flatbed.xml" useConfigName="design" selectedConfigs="1" modHubId="264240">
+            <loadingArea offset="-0.09 1.49 -0.1" width="2.7" height="2.5" length="12.9" baleHeight="3.8"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/flatbed.xml" useConfigName="design" selectedConfigs="2" modHubId="264240">  
-            <loadingArea offset="-0.1 1.49 0.03" width="2.6" height="2.7" length="12.6"/>
+        <vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/flatbed.xml" useConfigName="design" selectedConfigs="2" modHubId="264240">
+            <loadingArea offset="-0.09 1.49 -0.1" width="2.6" height="2.7" length="12.9"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/shorty.xml" useConfigName="design" selectedConfigs="1" modHubId="264240">  
-            <loadingArea offset="-0.1 1.73 -1.46" width="2.6" height="2.8" length="9" baleHeight="2.8"/>
-            <options enableSideLoading="true"/>
+        <vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/shorty.xml" useConfigName="design" selectedConfigs="1" modHubId="264240">
+            <loadingArea offset="-0.1 1.73 -1.58" width="2.7" height="2.5" length="9.3" baleHeight="3.8"/>
+            <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/shorty.xml" useConfigName="design" selectedConfigs="2" modHubId="264240">  
+        <vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/shorty.xml" useConfigName="design" selectedConfigs="2" modHubId="264240">
             <loadingArea offset="-0.1 1.73 -1.46" width="2.6" height="2.5" length="9"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_RollandRPLCH/RP9006LCH.xml" modHubId="240058">  
-            <loadingArea offset="0 1.1 0.5" width="2.5" height="2.7" length="9" baleHeight="3.2"/>
+        <vehicleConfiguration configFileName="FS22_RollandRPLCH/RP9006LCH.xml" selectedConfigs="1,2,4" modHubId="240058">
+            <loadingArea offset="0 1.082 0.3" width="2.5" height="2.6" length="9.4" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_RollandRPLCH/RP10006LCH.xml" modHubId="240058">  
-            <loadingArea offset="0 1.1 0" width="2.5" height="2.7" length="10" baleHeight="3.2"/>
+        <vehicleConfiguration configFileName="FS22_RollandRPLCH/RP9006LCH.xml" selectedConfigs="3,5,6" modHubId="240058">
+            <loadingArea offset="0 1.082 0.5" width="2.5" height="2.6" length="9" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/bau.xml" modHubId="250565">  
+        <vehicleConfiguration configFileName="FS22_RollandRPLCH/RP10006LCH.xml" selectedConfigs="1,2,4" modHubId="240058">
+            <loadingArea offset="0 1.082 -0.2" width="2.5" height="2.6" length="10.4" baleHeight="3.8"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_RollandRPLCH/RP10006LCH.xml" selectedConfigs="3,5,6" modHubId="240058">
+            <loadingArea offset="0 1.082 0" width="2.5" height="2.6" length="10" baleHeight="3.8"/>
+            <options isBaleTrailer="true" enableSideLoading="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/bau.xml" modHubId="250565">
             <loadingArea offset="0 1.27 -1.92" width="2.4" height="2.8" length="7.6"/>
             <options isBoxTrailer="true" enableRearLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/bauDD60.xml" modHubId="250565">  
+        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/bauDD60.xml" modHubId="250565">
             <loadingArea offset="0 1.27 -1.92" width="2.4" height="2.8" length="7.6"/>
             <options isBoxTrailer="true" enableRearLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/prancha.xml" modHubId="250565">  
+        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/prancha.xml" modHubId="250565">
             <loadingArea offset="0 1.41 -2.18" width="2.36" height="2.4" length="7.55" baleHeight="3.2" noLoadingIfUnfolded="true"/>
             <options isBaleTrailer="true" enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/pranchaDD60.xml" modHubId="250565">  
+        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/pranchaDD60.xml" modHubId="250565">
             <loadingArea offset="0 1.41 -2.18" width="2.36" height="2.4" length="7.55" baleHeight="3.2" noLoadingIfUnfolded="true"/>
             <options isBaleTrailer="true" enableSideLoading="true" enableRearLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/madeira.xml" modHubId="250565">  
+        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/madeira.xml" modHubId="250565">
             <loadingArea offset="0 1.22 -2.03" width="2.35" height="2.3" length="6.8"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/madeiraDD60.xml" modHubId="250565">  
+        <vehicleConfiguration configFileName="FS22_AW362_CaboverR/madeiraDD60.xml" modHubId="250565">
             <loadingArea offset="0 1.22 -2.03" width="2.35" height="2.3" length="6.8"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_LizardF600/Granel.xml" selectedConfigs="1" modHubId="243774">  
-            <loadingArea offset="0 2.62 0.46" width="2.55" height="2" length="6.3" baleHeight="2.8"/>
+        <vehicleConfiguration configFileName="FS22_LizardF600/Granel.xml" selectedConfigs="1" modHubId="243774">
+            <loadingArea offset="0 2.62 0.46" width="2.55" height="2.6" length="6.3" baleHeight="2.8"/>
             <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_LizardF600/Granel.xml" selectedConfigs="2" modHubId="243774">  
-            <loadingArea offset="0 2.62 0.46" width="2.55" height="2" length="6.3" baleHeight="2.8"/>
-            <options enableRearLoading="true" enableSideLoading="true"/>
-        </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_LizardF600/Granel.xml" selectedConfigs="4" modHubId="243774">  
+        <vehicleConfiguration configFileName="FS22_LizardF600/Granel.xml" selectedConfigs="4" modHubId="243774">
             <loadingArea offset="0 2.62 0.35" width="2.35" height="1.4" length="6.5"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
@@ -1003,35 +1007,31 @@
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_ITRTwo/ITRTwo.xml" selectedConfigs="1" modHubId="259967">
-            <loadingArea offset="0.000 0.334 0.132" width="2.5" height="2.80" length="7.35"/>
+            <loadingArea offset="0 0.334 0.132" width="2.5" height="2.80" length="7.35" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_ITRTwo/ITRTwo.xml" selectedConfigs="2" modHubId="259967">
-            <loadingArea offset="0.000 0.5 0.15" width="2.35" height="2.3" length="7.1"/>
+            <loadingArea offset="0 0.5 0.15" width="2.35" height="2.3" length="7.1"/>
             <options isLogTrailer="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_marshallBC32/marshallBC32.xml" selectedConfigs="1" modHubId="235656">
-            <loadingArea offset="0 1.35 -0.18" width="2.45" height="2.6" length="9.5" baleHeight="3.8"/>
+            <loadingArea offset="0 1.338 -0.18" width="2.45" height="2.6" length="9.5" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_marshallBC32/marshallBC32.xml" selectedConfigs="2" modHubId="235656">
-            <loadingArea offset="0 1.35 -0.18" width="2.45" height="2.6" length="9.5" baleHeight="3.8"/>
+            <loadingArea offset="0 1.338 -0.04" width="2.45" height="2.6" length="9.25" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_JunkkariJ16_J18/j16jl.xml" selectedConfigs="1" modHubId="249628">
-            <loadingArea offset="0 0.854 -0.93" width="2.65" height="2.6" length="6.3" baleHeight="3.8"/>
+            <loadingArea offset="0 0.854 -0.72" width="2.65" height="2.6" length="5.8" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_JunkkariJ16_J18/j16jl.xml" selectedConfigs="2" modHubId="249628">
             <loadingArea offset="0 0.854 -1.35" width="2.53" height="2.6" length="7.4" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_JunkkariJ16_J18/j16jl.xml" selectedConfigs="3" modHubId="249628">
-            <loadingArea offset="0 0.854 -0.72" width="2.65" height="2.6" length="5.8" baleHeight="3.8" noLoadingIfFolded="true"/>
-            <options isBaleTrailer="true" enableSideLoading="true"/>
-        </vehicleConfiguration>
-        <vehicleConfiguration configFileName="FS22_Old20FootBaleTrailer/baleTrailer20Foot.xml" modHubId="267221">
-            <loadingArea offset="0 1.084 -0.1" width="2.65" height="2.6" length="6.5" baleHeight="3.8"/>
+        <vehicleConfiguration configFileName="FS22_Old20FootBaleTrailer/baleTrailer20Foot.xml" useConfigName="vehicleType" selectedConfigs="1" modHubId="267221">
+            <loadingArea offset="0 1.084 -0.1" width="2.65" height="2.6" length="6.35" baleHeight="3.8"/>
             <options isBaleTrailer="true" enableSideLoading="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_manTGX_26640_strawbale/tgx26640.xml" modHubId="264434">
