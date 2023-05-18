@@ -75,7 +75,7 @@ Title | Author | Loading Areas | Options Set
 
 Title | Author | Loading Areas | Options Set
 ---|---|:---:|---
-[Holmåkra 22](https://www.farming-simulator.com/mod.php?mod_id=245260&title=fs2022) | PixelFarm, Oscar_8599 | 0 | 
+[HolmÃ¥kra 22](https://www.farming-simulator.com/mod.php?mod_id=245260&title=fs2022) | PixelFarm, Oscar_8599 | 0 | 
 ## Trailers 
 
 Title | Author | Loading Areas | Options Set
@@ -136,7 +136,6 @@ Title | Author | Loading Areas | Options Set
 [Small Flatbed Autoload Trailer](https://www.farming-simulator.com/mod.php?mod_id=247924&title=fs2022) | macktrucker921 | 1 | Log Trailer
 [Lizard GVW J4027](https://www.farming-simulator.com/mod.php?mod_id=260582&title=fs2022) | Hydraulik | 1 | Rear Loading, Side Loading
 [Metaltech DBL Pack](https://www.farming-simulator.com/mod.php?mod_id=258412&title=fs2022) | Matt26 | 1 | Side Loading
-[Lenormand 12m] (https://www.farming-simulator.com/mod.php?mod_id=270383&title=fs2022)	| AgriDesignModding | 1 | Side Loading
 ## Low Loaders 
 
 Title | Author | Loading Areas | Options Set
