@@ -4,6 +4,10 @@ on:
   push:
     paths:
       - 'config/**'
+  pull_request:
+    types: [ opened, synchronize ]
+    paths:
+      - 'config/**'
 jobs:
   build-documentation:
     runs-on: ubuntu-latest
