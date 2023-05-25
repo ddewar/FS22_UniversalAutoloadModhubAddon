@@ -13,6 +13,6 @@ jobs:
       - run: python -m pip install requests
       - run: python modInfoGenerator.py
       - run: 
-          git add supportedMods.md
+          git add ./supportedMods.md
           git commit -m "Auto Update SupportedMods.md"
           git push
