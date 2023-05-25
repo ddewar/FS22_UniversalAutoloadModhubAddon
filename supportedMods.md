@@ -1,4 +1,4 @@
-#116 Supported Modhub Mods and 219 Configutations  
+#116 Supported Modhub Mods and 220 Configutations  
 
 ## Potato Technology 
 
@@ -75,7 +75,7 @@ Title | Author | Loading Areas | Options Set
 
 Title | Author | Loading Areas | Options Set
 ---|---|:---:|---
-[Holmåkra 22](https://www.farming-simulator.com/mod.php?mod_id=245260&title=fs2022) | PixelFarm, Oscar_8599 | 0 | 
+[HolmÃ¥kra 22](https://www.farming-simulator.com/mod.php?mod_id=245260&title=fs2022) | PixelFarm, Oscar_8599 | 0 | 
 ## Trailers 
 
 Title | Author | Loading Areas | Options Set
@@ -92,7 +92,8 @@ Title | Author | Loading Areas | Options Set
 [Fliegl Flatbed Semitrailer](https://www.farming-simulator.com/mod.php?mod_id=233995&title=fs2022) | TopAce888 | 1 | Rear Loading, Side Loading
 [HW80 Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=229524&title=fs2022) | Aaa modding | 1 | Side Loading
 [Orkel TX 130](https://www.farming-simulator.com/mod.php?mod_id=226465&title=fs2022) | OlaHaldor, [NMC]T-Bone | 1 | 
-[Orkel TX 130](https://www.farming-simulator.com/mod.php?mod_id=226465&title=fs2022) | OlaHaldor, [NMC]T-Bone | 1 | Rear Loading, Side Loading
+[Orkel TX 130](https://www.farming-simulator.com/mod.php?mod_id=226465&title=fs2022) | OlaHaldor, [NMC]T-Bone | 1 | Log Trailer
+[Orkel TX 130](https://www.farming-simulator.com/mod.php?mod_id=226465&title=fs2022) | OlaHaldor, [NMC]T-Bone | 1 | Rear Loading, Side Loading, Bale Trailer
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | Side Loading
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | 
 [Lizard Trailer Pack](https://www.farming-simulator.com/mod.php?mod_id=226713&title=fs2022) | Kasztan18, TheFluorke | 1 | Side Loading
@@ -286,6 +287,6 @@ Title | Author | Loading Areas | Options Set
 [Komatsu Forwarder Pack](https://www.farming-simulator.com/mod.php?mod_id=247034&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Komatsu Forwarder Pack](https://www.farming-simulator.com/mod.php?mod_id=247034&title=fs2022) | HR Forst und Fahrzeugbau | 2 | Log Trailer
 [Logger](https://www.farming-simulator.com/mod.php?mod_id=230269&title=fs2022) | Farm Sim World, FS Modding | 1 | Log Trailer
-[Plantation Trailer](https://www.farming-simulator.com/mod.php?mod_id=242524&title=fs2022) | GamerDesigns | 1 | Log Trailer
+[Lizard Plantation Trailer](https://www.farming-simulator.com/mod.php?mod_id=242524&title=fs2022) | GamerDesigns | 1 | Log Trailer
 
 
