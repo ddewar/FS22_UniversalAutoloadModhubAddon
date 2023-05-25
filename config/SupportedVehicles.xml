@@ -694,6 +694,8 @@
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner3SH.xml" modHubId="258564">
             <loadingArea offset="0 1.45 0.64" width="2.37" height="2.35" length="11.0"/>
+            <!-- <loadingArea offset="0 1.666 3.7" width="2.37" height="2.15" length="4.8"/> -->
+            <!-- <loadingArea offset="0 1.45 -1.8" width="2.37" height="2.35" length="6.2"/> -->
             <options isLogTrailer="true" zonesOverlap="true"/>
         </vehicleConfiguration>
         <vehicleConfiguration configFileName="FS22_Timber_Runner_Pack/xml/timberRunner4AN.xml" modHubId="258564">
