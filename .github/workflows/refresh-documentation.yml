@@ -1,6 +1,9 @@
 name: refresh-documentation
 run-name: ${{ github.actor }} is refreshing documentation
-on: [workflow_dispatch]
+on: 
+  push:
+    paths:
+      - 'config/**'
 jobs:
   build-documentation:
     runs-on: ubuntu-latest
