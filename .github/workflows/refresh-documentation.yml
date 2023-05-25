@@ -12,7 +12,6 @@ jobs:
       - run: python -m pip install beautifulsoup4
       - run: python -m pip install requests
       - run: python modInfoGenerator.py
-      - run: 
-          git add ./supportedMods.md
-          git commit -m "Auto Update SupportedMods.md"
-          git push
+      - run: git add ./supportedMods.md
+      - run: git commit -m "Auto Update SupportedMods.md"
+      - run: git push
