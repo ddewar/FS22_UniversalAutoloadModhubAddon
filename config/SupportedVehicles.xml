@@ -1058,5 +1058,9 @@
 			<loadingArea offset="0 1.193 -1.01" width="2.5" height="2.6" length="5.25" baleHeight="3.6"/>
 			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
 		</vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_lizard_sp8/sp8.xml" modHubId="268264">
+			<loadingArea offset="0 0.933 -0.34" width="2.5" height="2.6" length="8.06" baleHeight="3.6"/>
+			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+		</vehicleConfiguration>
 	</vehicleConfigurations>
 </universalAutoLoad>
