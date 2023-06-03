@@ -1,4 +1,4 @@
-# 128 Supported Modhub Mods and 249 Configutations  
+# 130 Supported Modhub Mods and 252 Configutations  
 
 ## Potato Technology 
 
@@ -249,6 +249,7 @@ Title | Author | Loading Areas | Options Set
 [MAN TGX 26.640 Straw Bale](https://www.farming-simulator.com/mod.php?mod_id=264434&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading, Bale Trailer
 [Lizard Straw Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=264436&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading, Bale Trailer
 [Camara Straw Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=264435&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading, Bale Trailer
+[Homemade Flatbed Trailer](https://www.farming-simulator.com/mod.php?mod_id=267779&title=fs2022) | Slajmon | 1 | Rear Loading, Side Loading, Bale Trailer
 ## Trucks 
 
 Title | Author | Loading Areas | Options Set
@@ -283,6 +284,8 @@ Title | Author | Loading Areas | Options Set
 [AW 362 Rigged](https://www.farming-simulator.com/mod.php?mod_id=250565&title=fs2022) | Adams Kong | 1 | Log Trailer
 [Lizard F-600 V8 Truck 1961](https://www.farming-simulator.com/mod.php?mod_id=243774&title=fs2022) | Farm Centro Sul/FHZ/Cola Modding | 1 | Rear Loading, Side Loading, Bale Trailer
 [Lizard F-600 V8 Truck 1961](https://www.farming-simulator.com/mod.php?mod_id=243774&title=fs2022) | Farm Centro Sul/FHZ/Cola Modding | 1 | Log Trailer
+[Lizard OT2000](https://www.farming-simulator.com/mod.php?mod_id=268840&title=fs2022) | Pascal Kautz | 1 | Rear Loading, Side Loading, Bale Trailer
+[Lizard OT2000](https://www.farming-simulator.com/mod.php?mod_id=268840&title=fs2022) | Pascal Kautz | 1 | Rear Loading, Side Loading, Bale Trailer
 ## Forestry Equipment 
 
 Title | Author | Loading Areas | Options Set
