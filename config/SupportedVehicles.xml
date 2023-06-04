@@ -934,19 +934,19 @@
 			<loadingArea offset="0 1.11 -1.65" width="2" height="1.75" length="3" baleHeight="2.75"/>
 			<options enableRearLoading="true" enableSideLoading="true"/>
 		</vehicleConfiguration>
-		<vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/flatbed.xml" useConfigName="design" selectedConfigs="1" modHubId="264240">
+		<vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/flatbed.xml" selectedConfigs="1" modHubId="264240">
 			<loadingArea offset="-0.09 1.49 -0.1" width="2.7" height="2.5" length="12.9" baleHeight="3.8"/>
 			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
 		</vehicleConfiguration>
-		<vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/flatbed.xml" useConfigName="design" selectedConfigs="2" modHubId="264240">
+		<vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/flatbed.xml" selectedConfigs="2" modHubId="264240">
 			<loadingArea offset="-0.09 1.49 -0.1" width="2.6" height="2.7" length="12.9"/>
 			<options isLogTrailer="true"/>
 		</vehicleConfiguration>
-		<vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/shorty.xml" useConfigName="design" selectedConfigs="1" modHubId="264240">
+		<vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/shorty.xml" selectedConfigs="1" modHubId="264240">
 			<loadingArea offset="-0.1 1.73 -1.58" width="2.7" height="2.5" length="9.3" baleHeight="3.8"/>
 			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
 		</vehicleConfiguration>
-		<vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/shorty.xml" useConfigName="design" selectedConfigs="2" modHubId="264240">
+		<vehicleConfiguration configFileName="FS22_AmericanFlatbedPack/shorty.xml" selectedConfigs="2" modHubId="264240">
 			<loadingArea offset="-0.1 1.73 -1.46" width="2.6" height="2.5" length="9"/>
 			<options isLogTrailer="true"/>
 		</vehicleConfiguration>
