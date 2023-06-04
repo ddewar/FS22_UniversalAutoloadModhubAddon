@@ -1,4 +1,4 @@
-# 130 Supported Modhub Mods and 252 Configutations  
+# 131 Supported Modhub Mods and 253 Configutations  
 
 ## Potato Technology 
 
@@ -250,6 +250,7 @@ Title | Author | Loading Areas | Options Set
 [Lizard Straw Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=264436&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading, Bale Trailer
 [Camara Straw Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=264435&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading, Bale Trailer
 [Homemade Flatbed Trailer](https://www.farming-simulator.com/mod.php?mod_id=267779&title=fs2022) | Slajmon | 1 | Rear Loading, Side Loading, Bale Trailer
+[Sp8](https://www.farming-simulator.com/mod.php?mod_id=268264&title=fs2022) | stephane modding | 1 | Rear Loading, Side Loading, Bale Trailer
 ## Trucks 
 
 Title | Author | Loading Areas | Options Set
