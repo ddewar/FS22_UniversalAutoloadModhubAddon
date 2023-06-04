@@ -1062,5 +1062,14 @@
 			<loadingArea offset="0 0.933 -0.34" width="2.5" height="2.6" length="8.06" baleHeight="3.6"/>
 			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
 		</vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_Lenormand_12m/Lenormand.xml" selectedConfigs="1" modHubId="270383">
+			<loadingArea offset="0 1.096 -1.51" width="2.55" height="2.6" length="12.05" baleHeight="3.7"/>
+			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+		</vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_Lenormand_12m/Lenormand.xml" selectedConfigs="2" modHubId="270383">
+			<loadingArea offset="0 1.096 -1.51" width="2.55" height="2.6" length="12.05" baleHeight="3.7" noLoadingIfUnfolded="true"/>
+			<loadingArea offset="0 1.096 -1.51" width="2.55" height="2.6" length="15.05" baleHeight="3.7" noLoadingIfFolded="true"/>
+			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
+		</vehicleConfiguration>
 	</vehicleConfigurations>
 </universalAutoLoad>
