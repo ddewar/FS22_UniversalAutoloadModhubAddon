@@ -107,7 +107,7 @@ with open(supportedMods, 'w') as out:
     #         modHubMods.add(mod.modHubId)
     # modHubCount = len(modHubMods)
 
-    out.write(f'# {modHubCount} Supported Modhub Mods and {configurations} Configutations  \n\n')
+    out.write(f'# {modHubCount} Supported Modhub Mods and {configurations} Configurations  \n\n')
 
     for category, mods in configuredMods.items():
         out.write(f'## {category} \n\n')
