@@ -1062,5 +1062,13 @@
 			<loadingArea offset="0 0.933 -0.34" width="2.5" height="2.6" length="8.06" baleHeight="3.6"/>
 			<options isBaleTrailer="true" enableRearLoading="true" enableSideLoading="true"/>
 		</vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_MicroTractor_and_Implements/tobata.xml" modHubId="269308" selectedConfigs="1" >  
+            <loadingArea offset="0.000 0.65 -2.75" width="1.18" height="1.30" length="2.90" baleHeight="1.30"/>
+            <loadingArea offset="0.000 1.08 -2.75" width="1.55" height="1.30" length="2.90" baleHeight="1.30"/>
+            <options zonesOverlap="true"/>
+        </vehicleConfiguration>
+        <vehicleConfiguration configFileName="FS22_MicroTractor_and_Implements/tobata.xml" modHubId="269308" selectedConfigs="3" >  
+            <loadingArea offset="0.000 0.65 -2.75" width="1.18" height="1.30" length="2.90" baleHeight="1.30"/>
+        </vehicleConfiguration>
 	</vehicleConfigurations>
 </universalAutoLoad>
