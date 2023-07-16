@@ -1,4 +1,4 @@
-# 131 Supported Modhub Mods and 253 Configurations  
+# 134 Supported Modhub Mods and 257 Configurations  
 
 ## Potato Technology 
 
@@ -251,6 +251,8 @@ Title | Author | Loading Areas | Options Set
 [Camara Straw Bale Trailer](https://www.farming-simulator.com/mod.php?mod_id=264435&title=fs2022) | caleruega modding design | 1 | Rear Loading, Side Loading, Bale Trailer
 [Homemade Flatbed Trailer](https://www.farming-simulator.com/mod.php?mod_id=267779&title=fs2022) | Slajmon | 1 | Rear Loading, Side Loading, Bale Trailer
 [Sp8](https://www.farming-simulator.com/mod.php?mod_id=268264&title=fs2022) | stephane modding | 1 | Rear Loading, Side Loading, Bale Trailer
+[Lizard VNB 14](https://www.farming-simulator.com/mod.php?mod_id=233021&title=fs2022) | BlendArt, Kolchozník jr, AgroSketch | 1 | 
+[Lizard G54](https://www.farming-simulator.com/mod.php?mod_id=249686&title=fs2022) | Hydraulik | 1 | 
 ## Trucks 
 
 Title | Author | Loading Areas | Options Set
@@ -321,5 +323,11 @@ Title | Author | Loading Areas | Options Set
 [Lizard Plantation Trailer](https://www.farming-simulator.com/mod.php?mod_id=242524&title=fs2022) | GamerDesigns | 1 | Log Trailer
 [Befa Shortwood Swap Body Pack](https://www.farming-simulator.com/mod.php?mod_id=261023&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
 [Befa Shortwood Swap Body Pack](https://www.farming-simulator.com/mod.php?mod_id=261023&title=fs2022) | HR Forst und Fahrzeugbau | 1 | Log Trailer
+## Small Tractors 
+
+Title | Author | Loading Areas | Options Set
+---|---|:---:|---
+[Pack Micro Tractors And Implements](https://www.farming-simulator.com/mod.php?mod_id=269308&title=fs2022) | Erik isac, Agro Mods | 2 | Overlapping Zones
+[Pack Micro Tractors And Implements](https://www.farming-simulator.com/mod.php?mod_id=269308&title=fs2022) | Erik isac, Agro Mods | 1 | 
 
 
