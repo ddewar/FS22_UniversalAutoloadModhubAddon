@@ -1070,5 +1070,8 @@
         <vehicleConfiguration configFileName="FS22_MicroTractor_and_Implements/tobata.xml" modHubId="269308" selectedConfigs="3" >  
             <loadingArea offset="0.000 0.65 -2.75" width="1.18" height="1.30" length="2.90" baleHeight="1.30"/>
         </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_Lizard_VNB14/vnb14.xml" modHubId="233021">  
+            <loadingArea offset="0.000 1.100 0.40" width="2.58" height="2.00" length="6.60" baleHeight="2.75"/>
+        </vehicleConfiguration>
 	</vehicleConfigurations>
 </universalAutoLoad>
