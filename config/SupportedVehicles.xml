@@ -1073,5 +1073,8 @@
 		<vehicleConfiguration configFileName="FS22_Lizard_VNB14/vnb14.xml" modHubId="233021">  
             <loadingArea offset="0.000 1.100 0.40" width="2.58" height="2.00" length="6.60" baleHeight="2.75"/>
         </vehicleConfiguration>
+		<vehicleConfiguration configFileName="FS22_LizardG54/przyczepa.xml" modHubId="249686">  
+            <loadingArea offset="0.000 0.64 -0.0" width="2.0" height="2.00" length="6.10" baleHeight="3.6"/>
+        </vehicleConfiguration>
 	</vehicleConfigurations>
 </universalAutoLoad>
